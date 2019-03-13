@@ -23,5 +23,6 @@ A meta-repository to organize my public projects
 | Project | Repo |
 |---------|------|
 | Weisrock Lab project | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) |
+| Weisrock & Linnen Lab programs | [thesuperlab/useful-programs](https://github.com/thesuperlab/useful-programs) |
 | Assignments from undergrad CS courses | [undergrad-comp-sci](https://github.com/kelly-sovacool/undergrad-comp-sci) |
 | Geography class mapping project | [geo109-project](https://github.com/kelly-sovacool/geo109-project) |
