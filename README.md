@@ -10,7 +10,7 @@ A meta-repository to organize my public projects
 | Reference for statistics | [stats-ref](https://github.com/kelly-sovacool/stats-ref) |
 | Advent of Code 2018 solutions | [advent-of-code-2018](https://github.com/kelly-sovacool/advent-of-code-2018) |
 
-## University of Michigan
+## University of Michigan (2018-present)
 
 | Project | Repo |
 |---------|------|
@@ -18,7 +18,7 @@ A meta-repository to organize my public projects
 | Fork of the PBS-torque Snakemake profile | [pbs-torque](https://github.com/kelly-sovacool/pbs-torque) |
 | Tewari Lab rotation project | [miRNA-diff-expr](https://github.com/kelly-sovacool/miRNA-diff-expr) & [dmrr-submission-prep](https://github.com/kelly-sovacool/dmrr-submission-prep) |
 
-## University of Kentucky
+## University of Kentucky (2014-2018)
 
 | Project | Repo |
 |---------|------|
