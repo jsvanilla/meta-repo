@@ -3,26 +3,28 @@ A meta-repository to organize my public projects
 
 ## Personal
 
-| Project | Repo |
-|---------|------|
-| My curriculum vitae | [latex-cv](https://github.com/kelly-sovacool/latex-cv) |
-| My personal website | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) |
-| Reference for statistics | [stats-ref](https://github.com/kelly-sovacool/stats-ref) |
-| Advent of Code 2018 solutions | [advent-of-code-2018](https://github.com/kelly-sovacool/advent-of-code-2018) |
+
+| Project | Repo | Language(s) |
+|---------|------|-------------|
+| My curriculum vitae | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | LaTeX |
+| My personal website | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | Markdown |
+| Reference for statistics | [stats-ref](https://github.com/kelly-sovacool/stats-ref) | R Markdown |
+| Advent of Code 2018 solutions | [advent-of-code-2018](https://github.com/kelly-sovacool/advent-of-code-2018) | Python |
 
 ## University of Michigan (2018-present)
 
-| Project | Repo |
-|---------|------|
-| Fork of mothur (Schloss Lab) | [mothur](https://github.com/kelly-sovacool/mothur) |
-| Fork of the PBS-torque Snakemake profile | [pbs-torque](https://github.com/kelly-sovacool/pbs-torque) |
-| Tewari Lab rotation project | [miRNA-diff-expr](https://github.com/kelly-sovacool/miRNA-diff-expr) & [dmrr-submission-prep](https://github.com/kelly-sovacool/dmrr-submission-prep) |
+| Project | Repo | Language(s) |
+|---------|------|-------------|
+| Fork of mothur (Schloss Lab) | [mothur](https://github.com/kelly-sovacool/mothur) | C++ |
+| Fork of the PBS-torque Snakemake profile | [pbs-torque](https://github.com/kelly-sovacool/pbs-torque) | Python |
+| Tewari Lab rotation project | [miRNA-diff-expr](https://github.com/kelly-sovacool/miRNA-diff-expr) & [dmrr-submission-prep](https://github.com/kelly-sovacool/dmrr-submission-prep) | R, Python |
 
 ## University of Kentucky (2014-2018)
 
-| Project | Repo |
-|---------|------|
-| Weisrock Lab project | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) |
-| Weisrock & Linnen Lab programs | [thesuperlab/useful-programs](https://github.com/thesuperlab/useful-programs) |
-| Assignments from undergrad CS courses | [undergrad-comp-sci](https://github.com/kelly-sovacool/undergrad-comp-sci) |
-| Geography class mapping project | [geo109-project](https://github.com/kelly-sovacool/geo109-project) |
+
+| Project | Repo | Language(s) |
+|---------|------|-------------|
+| Weisrock Lab project | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | Snakemake, Python, R |
+| Weisrock & Linnen Lab programs | [thesuperlab/useful-programs](https://github.com/thesuperlab/useful-programs) | Python, Bash |
+| Assignments from undergrad CS courses | [undergrad-comp-sci](https://github.com/kelly-sovacool/undergrad-comp-sci) | Python, C++, JavaScript, Ruby |
+| Geography class mapping project | [geo109-project](https://github.com/kelly-sovacool/geo109-project) | Python |
