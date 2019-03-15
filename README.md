@@ -24,7 +24,7 @@ A meta-repository to organize my public projects
 
 | Project | Repo | Language(s) |
 |---------|------|-------------|
-| Weisrock Lab project | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | Snakemake, Python, R |
+| Weisrock Lab project | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | Snakemake, Python, Bash |
 | Weisrock & Linnen Lab programs | [thesuperlab/useful-programs](https://github.com/thesuperlab/useful-programs) | Python, Bash |
 | Assignments from undergrad CS courses | [undergrad-comp-sci](https://github.com/kelly-sovacool/undergrad-comp-sci) | Python, C++, JavaScript, Ruby |
 | Geography class mapping project | [geo109-project](https://github.com/kelly-sovacool/geo109-project) | Python |
