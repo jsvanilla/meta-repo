@@ -15,8 +15,7 @@ A meta-repository to organize my public projects
 
 | Project | Repo | Language(s) |
 |---------|------|-------------|
-| Fork of mothur (Schloss Lab) | [mothur](https://github.com/kelly-sovacool/mothur) | C++ |
-| Fork of the PBS-torque Snakemake profile | [pbs-torque](https://github.com/kelly-sovacool/pbs-torque) | Python |
+| Girls Who Code demos | [GWC-DCMB/codeDemos](https://github.com/GWC-DCMB/codeDemos) | Python |
 | Tewari Lab rotation project | [miRNA-diff-expr](https://github.com/kelly-sovacool/miRNA-diff-expr) & [dmrr-submission-prep](https://github.com/kelly-sovacool/dmrr-submission-prep) | R, Python |
 
 ## University of Kentucky (2014-2018)
