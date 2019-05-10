@@ -5,34 +5,34 @@ A meta-repository to organize my public projects.
 ## Projects
 
 ### Current
-| Repository | Description | Language(s) |
-|---|---|---|
-| [kelly-sovacool/meta-repo](https://github.com/kelly-sovacool/meta-repo.git) | A meta-repository to organize my public projects. | Python |
-| [kelly-sovacool/lang-stats](https://github.com/kelly-sovacool/lang-stats.git) | Collect & plot personal programming language statistics from GitHub repos | Python |
-| [kelly-sovacool/snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe.git) | A minimal working example of using Snakemake on the HPC | Python, Shell |
-| [GabrielleRab/PyCon_2019](https://github.com/GabrielleRab/PyCon_2019.git) | Repository for PyCon 2019 Education Summit Mini-Sprint: Workbooks that teach Python through scientific data exploration | Jupyter Notebook |
-| [GWC-DCMB/CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject.git) | Capstone Project Information for 2017-2018 GWC | Jupyter Notebook, HTML, Python |
-| [kelly-sovacool/advent-of-code-2018](https://github.com/kelly-sovacool/advent-of-code-2018.git) | My solutions to the Advent of Code 2018 puzzles. | Jupyter Notebook, Python, Shell |
-| [kelly-sovacool/kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io.git) | My personal website, forked from the academicpages template. | Shell |
-| [kelly-sovacool/latex-cv](https://github.com/kelly-sovacool/latex-cv.git) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | TeX, Python |
-| [SchlossLab/schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io.git) | The website for the Schloss Lab at the University of Michigan | CSS, HTML, Ruby |
-| [kelly-sovacool/tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project.git) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | Python, Shell |
-| [GWC-DCMB/codeDemos](https://github.com/GWC-DCMB/codeDemos.git) | Coding demos for Python instruction in Girls Who Code Club | Jupyter Notebook, Python |
-| [kelly-sovacool/stats-ref](https://github.com/kelly-sovacool/stats-ref.git) | A reference for concepts & equations in statistics. | Python, CSS |
+| Repository | Description | Owner | Language(s) |
+|---|---|---|---|
+| [lang-stats](https://api.github.com/repos/kelly-sovacool/lang-stats) | Collect & plot personal programming language statistics from GitHub repos | [kelly-sovacool](https://github.com/kelly-sovacool) | Python |
+| [meta-repo](https://api.github.com/repos/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python |
+| [snakemake_hpc_mwe](https://api.github.com/repos/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on the HPC | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
+| [PyCon_2019](https://api.github.com/repos/GabrielleRab/PyCon_2019) | Repository for PyCon 2019 Education Summit Mini-Sprint: Workbooks that teach Python through scientific data exploration | [GabrielleRab](https://github.com/GabrielleRab) | Jupyter Notebook |
+| [CapstoneProject](https://api.github.com/repos/GWC-DCMB/CapstoneProject) | Capstone Project Information for 2017-2018 GWC | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, HTML, Python |
+| [advent-of-code-2018](https://api.github.com/repos/kelly-sovacool/advent-of-code-2018) | My solutions to the Advent of Code 2018 puzzles. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook, Python, Shell |
+| [kelly-sovacool.github.io](https://api.github.com/repos/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
+| [latex-cv](https://api.github.com/repos/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python |
+| [schlosslab.github.io](https://api.github.com/repos/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
+| [tiger_salamander_project](https://api.github.com/repos/kelly-sovacool/tiger_salamander_project) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
+| [codeDemos](https://api.github.com/repos/GWC-DCMB/codeDemos) | Coding demos for Python instruction in Girls Who Code Club | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
+| [stats-ref](https://api.github.com/repos/kelly-sovacool/stats-ref) | A reference for concepts & equations in statistics. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, CSS |
 
 ### Stale
-| Repository | Description | Language(s) |
-|---|---|---|
-| [c-andy-martin/tcf-words](https://github.com/c-andy-martin/tcf-words.git) | TCF Overhead Words |  |
-| [thesuperlab/useful-programs](https://github.com/thesuperlab/useful-programs.git) | None | Python, Shell |
+| Repository | Description | Owner | Language(s) |
+|---|---|---|---|
+| [tcf-words](https://api.github.com/repos/c-andy-martin/tcf-words) | TCF Overhead Words | [c-andy-martin](https://github.com/c-andy-martin) |  |
+| [useful-programs](https://api.github.com/repos/thesuperlab/useful-programs) | None | [thesuperlab](https://github.com/thesuperlab) | Python, Shell |
 
 ### Archive
-| Repository | Description | Language(s) |
-|---|---|---|
-| [kelly-sovacool/miRNA-diff-expr](https://github.com/kelly-sovacool/miRNA-diff-expr.git) | Differential expression analysis for miRNA sequence data | R |
-| [kelly-sovacool/undergrad-comp-sci](https://github.com/kelly-sovacool/undergrad-comp-sci.git) | A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018). | Python, C++, Ruby, PHP, JavaScript, Perl, R, HTML, CSS, Makefile, CoffeeScript |
-| [kelly-sovacool/dmrr-submission-prep](https://github.com/kelly-sovacool/dmrr-submission-prep.git) | Prepare miRNA metadata for submission to the exRNA Data Coordination Center | Jupyter Notebook, Python |
-| [kelly-sovacool/geo109-project](https://github.com/kelly-sovacool/geo109-project.git) | Lexington collision maps for GEO109 | Python |
+| Repository | Description | Owner | Language(s) |
+|---|---|---|---|
+| [miRNA-diff-expr](https://api.github.com/repos/kelly-sovacool/miRNA-diff-expr) | Differential expression analysis for miRNA sequence data | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
+| [undergrad-comp-sci](https://api.github.com/repos/kelly-sovacool/undergrad-comp-sci) | A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018). | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, C++, Ruby, PHP, JavaScript, Perl, R, HTML, CSS, Makefile, CoffeeScript |
+| [dmrr-submission-prep](https://api.github.com/repos/kelly-sovacool/dmrr-submission-prep) | Prepare miRNA metadata for submission to the exRNA Data Coordination Center | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook, Python |
+| [geo109-project](https://api.github.com/repos/kelly-sovacool/geo109-project) | Lexington collision maps for GEO109 | [kelly-sovacool](https://github.com/kelly-sovacool) | Python |
 
 ## Usage
 

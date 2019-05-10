@@ -43,9 +43,9 @@ class Projects:
     def markdown_table(self):
         table = [PROJECTS_HEADER]
         for status in self.repos:
-            table += [f"\n### {status}\n", "| Repository | Description | Language(s) |\n", "|---|---|---|\n"]
+            table += [f"\n### {status}\n| Repository | Description | Owner | Language(s) |\n|---|---|---|---|\n"]
             for repo in self.repos[status]:
-                table.append(f"| {repo.link} | {repo.description} | {repo.languages} |\n")
+                table.append(f"| {repo.name} | {repo.description} | {repo.owner} | {repo.languages} |\n")
         return table
 
 class Repo:
@@ -55,7 +55,9 @@ class Repo:
         """ Store information about a github repository
         :param repo: a github repository object from pygithub
         """
-        self.link = f"[{repo.owner.login}/{repo.name}]({repo.clone_url})"
+        self.owner = f"[{repo.owner.login}]({repo.owner.html_url})"
+        self.name = f"[{repo.name}]({repo.url})"
+        self.url = repo.clone_url
         self.description = repo.description
         self.languages = ', '.join(repo.get_languages())
         if repo.archived:
