@@ -19,12 +19,14 @@ import yaml
 
 PROJECTS_HEADER = '## Projects\n'
 
-class Projects:
+class Repos:
+    """ Store information about a user's github repositories & generate a markdown table """
     status_options = ['Current', "Stale", "Archive"]
 
     def __init__(self, github, include_private=False):
-        """ Store information about a user's github repositories
+        """
         :param github: a github object from pygithub
+        :param include_private: whether to include private repositories
         """
         self.repos = {status: [] for status in self.__class__.status_options}
         user = github.get_user(github.get_user().login)
@@ -41,6 +43,9 @@ class Projects:
 
     @property
     def markdown_table(self):
+        """
+        :return: a list containing strings in markdown table format
+        """
         table = [PROJECTS_HEADER]
         for status in self.repos:
             table += [f"\n### {status}\n| Repository | Description | Owner | Language(s) |\n|---|---|---|---|\n"]
@@ -49,10 +54,11 @@ class Projects:
         return table
 
 class Repo:
+    """ Store info about a github repository """
     six_months = datetime.timedelta(days=182)
 
     def __init__(self, repo):
-        """ Store information about a github repository
+        """ Store minimal info about a github repository
         :param repo: a github repository object from pygithub
         """
         self.owner = f"[{repo.owner.login}]({repo.owner.html_url})"
@@ -66,15 +72,19 @@ class Repo:
             status = "Stale"
         else:
             status = "Current"
-        assert status in Projects.status_options
+        assert status in Repos.status_options
         self.status = status
         self.last_modified = repo.updated_at.strftime("%Y-%m-%d")
 
 def main(args):
+    """
+    Collects repositories the user owns or has contributed to
+    and updates the Projects table in README.md
+    """
     password = getpass("Enter your GitHub password: ")
     print("Collecting repo information from GitHub...")
     github = Github(args['--username'], password)
-    projects = Projects(github, include_private=args['--include_private'])
+    projects = Repos(github, include_private=args['--include_private'])
 
     print("Updating the Projects table...")
     with open('README.md', 'r') as file:  # collect everything except the old projects table
