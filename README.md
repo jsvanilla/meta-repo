@@ -8,6 +8,7 @@ A meta-repository to organize my public projects
 |---------|------|-------------|
 | My personal website | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | Markdown |
 | Plot personal programming language stats | [lang-stats](https://github.com/kelly-sovacool/lang-stats) | Python |
+| Using Snakemake on the HPC example | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | Snakemake |
 | Reference for statistics | [stats-ref](https://github.com/kelly-sovacool/stats-ref) | R Markdown |
 | Advent of Code 2018 solutions | [advent-of-code-2018](https://github.com/kelly-sovacool/advent-of-code-2018) | Python |
 | My curriculum vitae | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | LaTeX |
