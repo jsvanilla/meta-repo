@@ -1,5 +1,17 @@
+""" Collect repository information from GitHub and generate a markdown table.
 
+Usage:
+    git-repos.py -h | --help
+    git-repos.py --username=<your_username> [--include_private]
+
+Options:
+    -h --help                    Display this help message.
+    --username=<your_username>   Your GitHub username.
+    --include_private            Whether to include private repos. [default: False]
+"""
 import datetime
+from docopt import docopt
+from getpass import getpass
 from github import Github
 import json
 import os
@@ -15,14 +27,15 @@ class Projects:
         :param github: a github object from pygithub
         """
         self.repos = {status: [] for status in self.__class__.status_options}
+        user = github.get_user(github.get_user().login)
         for gh_repo in github.get_user().get_repos():
             # only count repositories the user owns or is a collaborator in
-            is_owner = gh_repo.owner.login == github.get_user().login
-            is_contributor = gh_repo.permissions.push and github.get_user().login in {user.login for user in gh_repo.get_collaborators()}
+            is_owner = gh_repo.owner == user
+            is_contributor = user in gh_repo.get_contributors()
             # only include contributing repos and respect privacy preference
             if (is_owner or is_contributor) and (include_private or not gh_repo.private):
-                    repo = Repo(gh_repo)
-                    self.repos[repo.status].append(repo)
+                repo = Repo(gh_repo)
+                self.repos[repo.status].append(repo)
         for status, repo_list in self.repos.items():
             repo_list.sort(reverse = True, key = lambda repo: repo.last_modified)
 
@@ -55,14 +68,11 @@ class Repo:
         self.status = status
         self.last_modified = repo.updated_at.strftime("%Y-%m-%d")
 
-def main():
-    credentials = yaml.load(open('credentials.yaml'), Loader=yaml.Loader)
-
+def main(args):
+    password = getpass("Enter your GitHub password: ")
     print("Collecting repo information from GitHub...")
-    github = Github(credentials['login'], credentials['password'])
-    if 'include_private' in credentials:
-        include_private = credentials['include_private']
-    projects = Projects(github, include_private=include_private)
+    github = Github(args['--username'], password)
+    projects = Projects(github, include_private=args['--include_private'])
 
     print("Updating the Projects table...")
     with open('README.md', 'r') as file:  # collect everything except the old projects table
@@ -87,4 +97,5 @@ def main():
     print("Done!")
 
 if __name__ == "__main__":
-    main()
+    args = docopt(__doc__)
+    main(args)
