@@ -6,7 +6,7 @@ Usage:
 
 Options:
     -h --help                    Display this help message.
-    --username=<your_username>   Your GitHub username.
+    -u --username=<your_username>   Your GitHub username.
     --include_private            Whether to include private repos. [default: False]
 """
 import datetime
