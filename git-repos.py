@@ -30,7 +30,7 @@ class Repos:
         """
         self.repos = {status: [] for status in self.__class__.status_options}
         user = github.get_user(github.get_user().login)
-        for gh_repo in github.get_user().get_repos():
+        for gh_repo in user.get_repos():
             # only count repositories the user owns or is a collaborator in
             is_owner = gh_repo.owner == user
             is_contributor = user in gh_repo.get_contributors()
