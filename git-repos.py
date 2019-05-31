@@ -30,11 +30,12 @@ class Repos:
         """
         self.repos = {status: [] for status in self.__class__.status_options}
         user = github.get_user(github.get_user().login)
+        # iterate over all repos this user has read access to
         for gh_repo in github.get_user().get_repos():
-            # only count repositories the user owns or is a collaborator in
+            # only count repositories the user owns or contributes to
             is_owner = gh_repo.owner == user
             is_contributor = user in gh_repo.get_contributors()
-            # only include contributing repos and respect privacy preference
+            # respect privacy preference
             if (is_owner or is_contributor) and (include_private or not gh_repo.private):
                 repo = Repo(gh_repo)
                 self.repos[repo.status].append(repo)
@@ -62,8 +63,7 @@ class Repo:
         :param repo: a github repository object from pygithub
         """
         self.owner = f"[{repo.owner.login}]({repo.owner.html_url})"
-        self.name = f"[{repo.name}]({repo.url})"
-        self.url = repo.clone_url
+        self.name = f"[{repo.name}]({repo.html_url})"
         self.description = repo.description
         self.languages = ', '.join(repo.get_languages())
         if repo.archived:
