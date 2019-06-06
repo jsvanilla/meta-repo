@@ -10,12 +10,14 @@ Options:
     -t --token=<path_to_token>      Path to a text file containing your GitHub access toekn.
     --include_private               Whether to include private repos. [default: False]
 """
+import collections
 import datetime
 from docopt import docopt
 from getpass import getpass
 from github import Github
 import json
 import os
+import plotly
 import yaml
 
 PROJECTS_HEADER = '## Projects\n'
@@ -30,16 +32,32 @@ class Repos:
         :param include_private: whether to include private repositories
         """
         user = github.get_user(github.get_user().login)
+        language_data = {'all_bytes': LangStat("My languages by bytes of code on GitHub", 'bytes of code', 'all_bytes'),
+                         'all_repos': LangStat('My languages by presence in GitHub repositories', '# of repos', 'all_repos'),
+                         'top_bytes': LangStat("Top repo languages by bytes of code on GitHub", 'bytes of code', 'top_bytes'),
+                         'top_repos': LangStat("Top languages by GitHub repositories", '# of repos', 'top_repos')}
         self.repos = {status: [] for status in self.__class__.status_options}
         # iterate over all repos this user has read access to
         for gh_repo in github.get_user().get_repos():
             # only count repositories the user owns or contributes to
             is_owner = gh_repo.owner == user
             is_contributor = user in gh_repo.get_contributors()
-            # respect privacy preference
-            if (is_owner or is_contributor) and (include_private or not gh_repo.private):
-                repo = Repo(gh_repo)
-                self.repos[repo.status].append(repo)
+            if (is_owner or is_contributor):
+                languages = gh_repo.get_languages()  # excludes vendored languages from the repo's .gitattributes
+                if languages:
+                    for lang, bytes_count in languages.items():  # TODO: special handling for Jupyter notebooks
+                        language_data['all_bytes'].add(lang, bytes_count)
+                    language_data['all_repos'].update(languages.keys())
+                    top_language = max(languages, key=lambda k: languages[k])
+                    language_data['top_repos'].add(top_language, 1)
+                    language_data['top_bytes'].add(top_language, languages[top_language])
+                # respect privacy preference
+                if (include_private or not gh_repo.private):
+                    repo = Repo(gh_repo)
+                    self.repos[repo.status].append(repo)
+
+        for stats in language_data.values():
+            stats.make_plot()
         for status, repo_list in self.repos.items():
             repo_list.sort(reverse = True, key = lambda repo: repo.last_modified)
         self.gists = list()
@@ -107,11 +125,41 @@ class Gist:
         return f"| {self.description} |\n"
 
 
+class LangStat:
+    def __init__(self, description, count_type, name):
+        self.description = description
+        self.count_type = count_type
+        self.filename = f'figures/language_{name}.svg'
+        self.counter = collections.Counter()
+
+    def __repr__(self):
+        return f"{self.__class__}({self.__dict__})"
+
+    def add(self, key, value):
+        self.counter[key] += value
+
+    def update(self, iterable):
+        self.counter.update(iterable)
+
+    def make_plot(self):
+        tuples = self.counter.most_common()
+        x = [lang[0] for lang in tuples]
+        y = [lang[1] for lang in tuples]
+        figure = plotly.graph_objs.Figure(data=[plotly.graph_objs.Bar(x=x, y=y, text=y, textposition='auto')],
+                                          layout=plotly.graph_objs.Layout(title=self.description,
+                                                                          xaxis=dict(title='language'),
+                                                                          yaxis=dict(title=self.count_type)))
+        plotly.io.write_image(figure, self.filename)
+
 def main(args):
     """
     Collects repositories the user owns or has contributed to
     and updates the Projects table in README.md
     """
+    for dir in ('figures',):
+        if not os.path.exists(dir):
+            os.mkdir(dir)
+
     print("Logging into GitHub...")
     if args['--token']:
         with open(args['--token'], 'r') as token_file:
@@ -120,6 +168,7 @@ def main(args):
     else:
         password = getpass("Enter your GitHub password: ")
         github = Github(args['--username'], password)
+
     print("Collecting repos & gists...")
     projects = Repos(github, include_private=args['--include_private'])
 
@@ -142,7 +191,6 @@ def main(args):
         file.writelines(head)
         file.writelines(projects.markdown_table)
         file.writelines(tail)
-
     print("Done!")
 
 if __name__ == "__main__":
