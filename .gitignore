@@ -4,6 +4,7 @@
 .snakemake
 # github user credentials
 credentials.yaml
+.token
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

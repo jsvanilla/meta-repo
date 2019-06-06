@@ -2,12 +2,13 @@
 
 Usage:
     git-repos.py -h | --help
-    git-repos.py --username=<your_username> [--include_private]
+    git-repos.py [--username=<your_username> | --token=<path_to_token>] [--include_private]
 
 Options:
-    -h --help                    Display this help message.
+    -h --help                       Display this help message.
     -u --username=<your_username>   Your GitHub username.
-    --include_private            Whether to include private repos. [default: False]
+    -t --token=<path_to_token>      Path to a text file containing your GitHub access toekn.
+    --include_private               Whether to include private repos. [default: False]
 """
 import datetime
 from docopt import docopt
@@ -28,8 +29,8 @@ class Repos:
         :param github: a github object from pygithub
         :param include_private: whether to include private repositories
         """
-        self.repos = {status: [] for status in self.__class__.status_options}
         user = github.get_user(github.get_user().login)
+        self.repos = {status: [] for status in self.__class__.status_options}
         # iterate over all repos this user has read access to
         for gh_repo in github.get_user().get_repos():
             # only count repositories the user owns or contributes to
@@ -41,6 +42,12 @@ class Repos:
                 self.repos[repo.status].append(repo)
         for status, repo_list in self.repos.items():
             repo_list.sort(reverse = True, key = lambda repo: repo.last_modified)
+        self.gists = list()
+        for gist in github.get_user().get_gists():
+            if include_private or gist.public:
+                self.gists.append(Gist(gist))
+        self.gists.sort(reverse = True, key = lambda gist: gist.last_modified)
+
 
     @property
     def markdown_table(self):
@@ -48,10 +55,16 @@ class Repos:
         :return: a list containing strings in markdown table format
         """
         table = [PROJECTS_HEADER]
+
         for status in self.repos:
-            table += [f"\n### {status}\n| Repository | Description | Owner | Language(s) |\n|---|---|---|---|\n"]
+            table.append(f"\n### {status}\n| Repository | Description | Owner | Language(s) |\n|---|---|---|---|\n")
             for repo in self.repos[status]:
-                table.append(f"| {repo.name} | {repo.description} | {repo.owner} | {repo.languages} |\n")
+                table.append(repo.markdown)
+
+        table.append(f"\n### Gists\n| Description |\n|---|\n")
+        for gist in self.gists:
+            table.append(gist.markdown)
+
         return table
 
 class Repo:
@@ -76,14 +89,38 @@ class Repo:
         self.status = status
         self.last_modified = repo.updated_at.strftime("%Y-%m-%d")
 
+    @property
+    def markdown(self):
+        return f"| {self.name} | {self.description} | {self.owner} | {self.languages} |\n"
+
+class Gist:
+    def __init__(self, gist):
+        """ Store minimal info about a github Gist
+        :param gist: a github gist object from pygithub
+        """
+        self.owner = f"[{gist.owner.login}]({gist.owner.html_url})"
+        self.description = f"[{gist.description}]({gist.html_url})"
+        self.last_modified = gist.updated_at.strftime("%Y-%m-%d")
+
+    @property
+    def markdown(self):
+        return f"| {self.description} |\n"
+
+
 def main(args):
     """
     Collects repositories the user owns or has contributed to
     and updates the Projects table in README.md
     """
-    password = getpass("Enter your GitHub password: ")
-    print("Collecting repo information from GitHub...")
-    github = Github(args['--username'], password)
+    print("Logging into GitHub...")
+    if args['--token']:
+        with open(args['--token'], 'r') as token_file:
+            token = token_file.readline().strip()
+        github = Github(token)
+    else:
+        password = getpass("Enter your GitHub password: ")
+        github = Github(args['--username'], password)
+    print("Collecting repos & gists...")
     projects = Repos(github, include_private=args['--include_private'])
 
     print("Updating the Projects table...")
@@ -95,7 +132,7 @@ def main(args):
             line = file.readline()
         assert line == PROJECTS_HEADER
         line = file.readline()
-        while not line.startswith("## "):
+        while not line.startswith("## "):  # TODO: don't loop indefinitely if there's no heading afer Projects
             line = file.readline()  # skip stuff under Projects subheading
         tail = ['\n'+line]
         for line in file:
