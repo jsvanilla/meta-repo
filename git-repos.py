@@ -69,7 +69,7 @@ class Repos:
                 if languages:
                     for lang, linguist_bytes_count in languages.items():
                         bytes_count = count_jupyter_bytes(gh_repo) if lang == "Jupyter Notebook" else linguist_bytes_count
-                        language_data['all_bytes'].add(lang, linguist_bytes_count)
+                        language_data['all_bytes'].add(lang, bytes_count)
                     language_data['all_repos'].update(languages.keys())
                     top_language = max(languages, key=lambda k: languages[k])
                     language_data['top_repos'].add(top_language, 1)
