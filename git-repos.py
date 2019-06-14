@@ -10,6 +10,7 @@ Options:
     -t --token=<path_to_token>      Path to a text file containing your GitHub access toekn.
     --include_private               Whether to include private repos. [default: False]
 """
+import base64
 import collections
 import datetime
 from docopt import docopt
@@ -18,9 +19,30 @@ from github import Github
 import json
 import os
 import plotly
+import pprint
 import yaml
 
 PROJECTS_HEADER = '## Projects\n'
+
+def count_jupyter_bytes(gh_repo):
+    """ Count bytes of code in Jupyter code blocks
+    :param gh_repo: github repo from pygithub
+    :return: bytes of code in code blocks
+    """
+    bytes_count = 0
+    contents = gh_repo.get_contents("")
+    while len(contents) > 1:
+        file_content = contents.pop(0)
+        if file_content.type == "dir":
+            contents.extend(gh_repo.get_contents(file_content.path))
+        elif file_content.name.endswith('.ipynb'):
+            #print(file_content, file_content.type, file_content.size, file_content.name)
+            jsondict = json.loads(base64.b64decode(file_content.content).decode('utf-8').strip("'"))
+            for cell in jsondict['cells']:
+                if cell['cell_type'] == 'code':
+                    for line in cell['source']:
+                        bytes_count += len(line.encode('utf-8'))
+    return bytes_count
 
 class Repos:
     """ Store information about a user's github repositories & generate a markdown table """
@@ -38,15 +60,17 @@ class Repos:
                          'top_repos': LangStat("Top languages by GitHub repositories", '# of repos', 'top_repos')}
         self.repos = {status: [] for status in self.__class__.status_options}
         # iterate over all repos this user has read access to
-        for gh_repo in github.get_user().get_repos():
+        repos = github.get_user().get_repos()
+        for gh_repo in repos[:5]:
             # only count repositories the user owns or contributes to
             is_owner = gh_repo.owner == user
             is_contributor = user in gh_repo.get_contributors()
             if (is_owner or is_contributor):
                 languages = gh_repo.get_languages()  # excludes vendored languages from the repo's .gitattributes
                 if languages:
-                    for lang, bytes_count in languages.items():  # TODO: special handling for Jupyter notebooks
-                        language_data['all_bytes'].add(lang, bytes_count)
+                    for lang, linguist_bytes_count in languages.items():
+                        bytes_count = count_jupyter_bytes(gh_repo) if lang == "Jupyter Notebook" else linguist_bytes_count
+                        language_data['all_bytes'].add(lang, linguist_bytes_count)
                     language_data['all_repos'].update(languages.keys())
                     top_language = max(languages, key=lambda k: languages[k])
                     language_data['top_repos'].add(top_language, 1)
