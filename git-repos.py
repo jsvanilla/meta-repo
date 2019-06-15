@@ -67,13 +67,14 @@ class Repos:
             if (is_owner or is_contributor):
                 languages = gh_repo.get_languages()  # excludes vendored languages from the repo's .gitattributes
                 if languages:
-                    for lang, linguist_bytes_count in languages.items():
-                        bytes_count = count_jupyter_bytes(gh_repo) if lang == "Jupyter Notebook" else linguist_bytes_count
+                    for lang, bytes_count in languages.items():
+                        if lang == "Jupyter Notebook":
+                            bytes_count = count_jupyter_bytes(gh_repo)
                         language_data['all_bytes'].add(lang, bytes_count)
                     language_data['all_repos'].update(languages.keys())
                     top_language = max(languages, key=lambda k: languages[k])
                     language_data['top_repos'].add(top_language, 1)
-                    language_data['top_bytes'].add(top_language, languages[top_language])
+                    language_data['top_bytes'].add(top_language, count_jupyter_bytes(gh_repo) if lang == "Jupyter Notebook" else languages[top_language])
                 # respect privacy preference
                 if (include_private or not gh_repo.private):
                     repo = Repo(gh_repo)
