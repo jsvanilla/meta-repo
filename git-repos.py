@@ -67,7 +67,7 @@ class Repos:
             if (is_owner or is_contributor):
                 languages = gh_repo.get_languages()  # excludes vendored languages from the repo's .gitattributes
                 if languages:
-                    for lang, bytes_count in languages.items():
+                    for lang, bytes_count in languages.items():  # aggregate bytes counts for all languages
                         if lang == "Jupyter Notebook":
                             bytes_count = count_jupyter_bytes(gh_repo)
                         language_data['all_bytes'].add(lang, bytes_count)
@@ -82,6 +82,7 @@ class Repos:
 
         for stats in language_data.values():
             stats.make_plot()
+            stats.make_plot(num_repos=7)
         for status, repo_list in self.repos.items():
             repo_list.sort(reverse = True, key = lambda repo: repo.last_modified)
         self.gists = list()
@@ -153,7 +154,7 @@ class LangStat:
     def __init__(self, description, count_type, name):
         self.description = description
         self.count_type = count_type
-        self.filename = f'figures/language_{name}.svg'
+        self.filename = f'figures/language_{name}'
         self.counter = collections.Counter()
 
     def __repr__(self):
@@ -165,15 +166,15 @@ class LangStat:
     def update(self, iterable):
         self.counter.update(iterable)
 
-    def make_plot(self):
-        tuples = self.counter.most_common()
+    def make_plot(self, num_repos=None):
+        tuples = self.counter.most_common(num_repos)
         x = [lang[0] for lang in tuples]
         y = [lang[1] for lang in tuples]
         figure = plotly.graph_objs.Figure(data=[plotly.graph_objs.Bar(x=x, y=y, text=y, textposition='auto')],
                                           layout=plotly.graph_objs.Layout(title=self.description,
                                                                           xaxis=dict(title='language'),
                                                                           yaxis=dict(title=self.count_type)))
-        plotly.io.write_image(figure, self.filename)
+        plotly.io.write_image(figure, f"{self.filename}.svg" if not num_repos else f"{self.filename}_n{num_repos}.svg")
 
 def main(args):
     """
