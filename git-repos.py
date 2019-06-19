@@ -60,7 +60,12 @@ class Repos:
                          'top_repos': LangStat("Top languages by GitHub repositories", '# of repos', 'top_repos')}
         self.repos = {status: [] for status in self.__class__.status_options}
         # iterate over all repos this user has read access to
+        prev_repo_owner = ''
+        print("Collecting repos from:")
         for gh_repo in github.get_user().get_repos():
+            if prev_repo_owner != gh_repo.owner:
+                prev_repo_owner = gh_repo.owner
+                print("\t{prev_repo_owner}")
             # only count repositories the user owns or contributes to
             is_owner = gh_repo.owner == user
             is_contributor = user in gh_repo.get_contributors()
@@ -172,7 +177,7 @@ class LangStat:
         y = [lang[1] for lang in tuples]
         figure = plotly.graph_objs.Figure(data=[plotly.graph_objs.Bar(x=x, y=y, text=y, textposition='auto')],
                                           layout=plotly.graph_objs.Layout(title=self.description,
-                                                                          xaxis=dict(title='language'),
+                                                                          xaxis=dict(title='language', tickangle=45),
                                                                           yaxis=dict(title=self.count_type)))
         plotly.io.write_image(figure, f"{self.filename}.svg" if not num_repos else f"{self.filename}_n{num_repos}.svg")
 
@@ -194,7 +199,6 @@ def main(args):
         password = getpass("Enter your GitHub password: ")
         github = Github(args['--username'], password)
 
-    print("Collecting repos & gists...")
     projects = Repos(github, include_private=args['--include_private'])
 
     print("Updating the Projects table...")
