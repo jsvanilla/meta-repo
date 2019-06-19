@@ -61,23 +61,25 @@ class Repos:
         self.repos = {status: [] for status in self.__class__.status_options}
         # iterate over all repos this user has read access to
         prev_repo_owner = ''
-        print("Collecting repos from:")
+        print("Collecting repos:")
         for gh_repo in github.get_user().get_repos():
-            if prev_repo_owner != gh_repo.owner:
-                prev_repo_owner = gh_repo.owner
-                print("\t{prev_repo_owner}")
+            if prev_repo_owner != gh_repo.owner.login:
+                prev_repo_owner = gh_repo.owner.login
+                print(f"\t{prev_repo_owner}")
             # only count repositories the user owns or contributes to
             is_owner = gh_repo.owner == user
             is_contributor = user in gh_repo.get_contributors()
             if (is_owner or is_contributor):
+                print(f"\t\t{gh_repo.name}")
                 languages = gh_repo.get_languages()  # excludes vendored languages from the repo's .gitattributes
                 if languages:
+                    print(f"\t\t\t{sorted(languages.keys(), key = lambda k: languages[k], reverse = True)}")
                     for lang, bytes_count in languages.items():  # aggregate bytes counts for all languages
                         if lang == "Jupyter Notebook":
                             bytes_count = count_jupyter_bytes(gh_repo)
                         language_data['all_bytes'].add(lang, bytes_count)
                     language_data['all_repos'].update(languages.keys())
-                    top_language = max(languages, key=lambda k: languages[k])
+                    top_language = max(languages, key = lambda k: languages[k])
                     language_data['top_repos'].add(top_language, 1)
                     language_data['top_bytes'].add(top_language, count_jupyter_bytes(gh_repo) if lang == "Jupyter Notebook" else languages[top_language])
                 # respect privacy preference
@@ -85,17 +87,19 @@ class Repos:
                     repo = Repo(gh_repo)
                     self.repos[repo.status].append(repo)
 
-        for stats in language_data.values():
-            stats.make_plot()
-            stats.make_plot(num_repos=7)
-        for status, repo_list in self.repos.items():
-            repo_list.sort(reverse = True, key = lambda repo: repo.last_modified)
+        print("Collecting gists...")
         self.gists = list()
         for gist in github.get_user().get_gists():
             if include_private or gist.public:
                 self.gists.append(Gist(gist))
         self.gists.sort(reverse = True, key = lambda gist: gist.last_modified)
 
+        print("Making plots...")
+        for stats in language_data.values():
+            stats.make_plot()
+            stats.make_plot(num_repos=7)
+        for status, repo_list in self.repos.items():
+            repo_list.sort(reverse = True, key = lambda repo: repo.last_modified)
 
     @property
     def markdown_table(self):
@@ -177,8 +181,9 @@ class LangStat:
         y = [lang[1] for lang in tuples]
         figure = plotly.graph_objs.Figure(data=[plotly.graph_objs.Bar(x=x, y=y, text=y, textposition='auto')],
                                           layout=plotly.graph_objs.Layout(title=self.description,
-                                                                          xaxis=dict(title='language', tickangle=45),
-                                                                          yaxis=dict(title=self.count_type)))
+                                                                          xaxis=dict(tickangle=45),
+                                                                          yaxis=dict(title=self.count_type,
+                                                                                     automargin=True)))
         plotly.io.write_image(figure, f"{self.filename}.svg" if not num_repos else f"{self.filename}_n{num_repos}.svg")
 
 def main(args):
