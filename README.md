@@ -7,7 +7,9 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [git_update](https://github.com/akhagan/git_update) | Updating SWC git lessons with the puzzle analogy | [akhagan](https://github.com/akhagan) | HTML, Python, CSS, R, Makefile, JavaScript, Ruby, Shell |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
+| [planets-kelly](https://github.com/kelly-sovacool/planets-kelly) | Notes on mars | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [snakemake_tutorial](https://github.com/SchlossLab/snakemake_tutorial) | A snakemake tutorial for make users | [SchlossLab](https://github.com/SchlossLab) | Python, R, Makefile, Shell, Rebol |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [git-demo](https://github.com/kelly-sovacool/git-demo) | None | [kelly-sovacool](https://github.com/kelly-sovacool) | Python |
