@@ -123,9 +123,3 @@ Plots of programming language statistics are written to [`figures/`](figures/).
 
 ![language_top_repos](figures/language_top_repos.svg)
 
-## TO-DO
-
-- Jupyter is way over-represented because `.ipynb` files are JSON with lots of metadata.
-    - It'd be cool to parse out the code chunks and only let code count towards the byte count.
-    - Does linguist count comments in regular text files (e.g. `.py` or `.R`) towards the code byte count?
-    - Try counting bytes in regular `.py` files to make sure my method matches that of linguist, then apply it to Jupyter code chunks stripped of metadata.
