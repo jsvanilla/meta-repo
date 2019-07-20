@@ -72,7 +72,8 @@ class Repos:
             if (is_owner or is_contributor):
                 print(f"\t\t{gh_repo.name}")
                 languages = gh_repo.get_languages()  # excludes vendored languages from the repo's .gitattributes
-                languages.pop("HTML", None)  # drop HTML because it's usually not hand-written by me
+                for lang in ("HTML", "CSS"):  # drop these because they're usually not hand-written by me
+                    languages.pop(lang, None)
                 if languages:
                     print(f"\t\t\t{sorted(languages.keys(), key = lambda k: languages[k], reverse = True)}")
                     for lang, bytes_count in languages.items():  # aggregate bytes counts for all languages
