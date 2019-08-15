@@ -7,6 +7,7 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project Information | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, HTML, Python |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | materials for our Data Science Summer Experience  | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [2019-01-07-umich-wise](https://github.com/kelly-sovacool/2019-01-07-umich-wise) | None | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, HTML, CSS, R, Makefile, JavaScript, Ruby, Shell |
@@ -14,14 +15,11 @@ A meta-repository to organize my public projects.
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [2018-02-26-umich-shapiro](https://github.com/kelly-sovacool/2018-02-26-umich-shapiro) | None | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, HTML, CSS, R, Makefile, JavaScript, Ruby, Shell |
-| [umswc.github.io](https://github.com/kelly-sovacool/umswc.github.io) | UM Software and Data Carpentry Website | [kelly-sovacool](https://github.com/kelly-sovacool) | CSS, HTML, Python, Ruby |
 | [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
-| [documenting-R](https://github.com/SchlossLab/documenting-R) | Materials for a code review on documenting R code. | [SchlossLab](https://github.com/SchlossLab) | R |
 | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [jupyter-ci-mwe](https://github.com/kelly-sovacool/jupyter-ci-mwe) | A minimal working example of using continuous integration to convert jupyter notebooks to PDFs. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook |
-| [CapstoneProject](https://github.com/kelly-sovacool/CapstoneProject) | Capstone Project Information for 2017-2018 GWC | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook, HTML, Python |
 | [planets-kelly](https://github.com/kelly-sovacool/planets-kelly) | Teaching git at Software Carpentry Workshop 2019-07-01 | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [git_update](https://github.com/akhagan/git_update) | Updating SWC git lessons with the puzzle analogy | [akhagan](https://github.com/akhagan) | HTML, Python, CSS, R, Makefile, JavaScript, Ruby, Shell |
 | [snakemake_tutorial](https://github.com/SchlossLab/snakemake_tutorial) | A snakemake tutorial for make users | [SchlossLab](https://github.com/SchlossLab) | Python, R, Makefile, Shell, Rebol |
@@ -29,7 +27,6 @@ A meta-repository to organize my public projects.
 | [git-novice](https://github.com/kelly-sovacool/git-novice) | Software Carpentry introduction to Git for novices. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, HTML, CSS, R, Makefile, JavaScript, Ruby, Shell |
 | [PyCon_2019](https://github.com/GabrielleRab/PyCon_2019) | Repository for PyCon 2019 Education Summit Mini-Sprint: Workbooks that teach Python through scientific data exploration | [GabrielleRab](https://github.com/GabrielleRab) | Jupyter Notebook |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on the HPC | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
-| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project Information for 2017-2018 GWC | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, HTML, Python |
 | [advent-of-code-2018](https://github.com/kelly-sovacool/advent-of-code-2018) | My solutions to the Advent of Code 2018 puzzles. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook, Python, Shell |
 | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
 | [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Coding demos for Python instruction in Girls Who Code Club | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
@@ -43,6 +40,7 @@ A meta-repository to organize my public projects.
 ### Archive
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [documenting-R](https://github.com/SchlossLab/documenting-R) | Materials for a code review on documenting R code. | [SchlossLab](https://github.com/SchlossLab) | R |
 | [lang-stats](https://github.com/kelly-sovacool/lang-stats) | Collect & plot personal programming language statistics from GitHub repos | [kelly-sovacool](https://github.com/kelly-sovacool) | Python |
 | [miRNA-diff-expr](https://github.com/kelly-sovacool/miRNA-diff-expr) | Differential expression analysis for miRNA sequence data | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [undergrad-comp-sci](https://github.com/kelly-sovacool/undergrad-comp-sci) | A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018). | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, C++, Ruby, PHP, JavaScript, Perl, R, HTML, CSS, Makefile, CoffeeScript |
