@@ -7,11 +7,12 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [2019-09-05-umich](https://github.com/kelly-sovacool/2019-09-05-umich) | https://umswc.github.io/2019-09-05-umich/ | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, HTML, CSS, R, Makefile, JavaScript, Shell, Ruby |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
-| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
-| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
+| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
+| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project Information | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, HTML, Python |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | materials for our Data Science Summer Experience  | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [2019-01-07-umich-wise](https://github.com/kelly-sovacool/2019-01-07-umich-wise) | None | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, HTML, CSS, R, Makefile, JavaScript, Ruby, Shell |
