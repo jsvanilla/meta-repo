@@ -7,17 +7,17 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
+| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell, Python |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
+| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | materials for our Data Science Summer Experience  | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell, Python |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python |
-| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project Information | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, HTML, Python |
-| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
-| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [git_update](https://github.com/akhagan/git_update) | Updating SWC git lessons with the puzzle analogy | [akhagan](https://github.com/akhagan) | HTML, Python, CSS, R, Makefile, JavaScript, Ruby, Shell |
 | [stats-ref](https://github.com/kelly-sovacool/stats-ref) | A reference for concepts & equations in statistics. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, CSS |
 | [git-novice](https://github.com/kelly-sovacool/git-novice) | Software Carpentry introduction to Git for novices. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, HTML, CSS, R, Makefile, JavaScript, Ruby, Shell |
@@ -48,6 +48,8 @@ A meta-repository to organize my public projects.
 ### Gists
 | Description |
 |---|
+| [My bio for the GWC-DCMB website](https://gist.github.com/3f307b86dc7e868c923ad234bf144a93) |
+| [](https://gist.github.com/1626a05ca82e3863da7f92e73097efe8) |
 | [Test conda environments on HPC batch scheduler](https://gist.github.com/21289d9ce89302a81996380f70814f7d) |
 | [Google Drive file I/O with Colab Jupyter notebooks](https://gist.github.com/c33b64b70164be37d75bd40c9b56b498) |
 | [Implementation of binary numbers & arithmetic for education](https://gist.github.com/8f263d9689c849c8cd7d86bd03044409) |
