@@ -48,8 +48,8 @@ A meta-repository to organize my public projects.
 ### Gists
 | Description |
 |---|
+| [Keybase proof](https://gist.github.com/1626a05ca82e3863da7f92e73097efe8) |
 | [My bio for the GWC-DCMB website](https://gist.github.com/3f307b86dc7e868c923ad234bf144a93) |
-| [](https://gist.github.com/1626a05ca82e3863da7f92e73097efe8) |
 | [Test conda environments on HPC batch scheduler](https://gist.github.com/21289d9ce89302a81996380f70814f7d) |
 | [Google Drive file I/O with Colab Jupyter notebooks](https://gist.github.com/c33b64b70164be37d75bd40c9b56b498) |
 | [Implementation of binary numbers & arithmetic for education](https://gist.github.com/8f263d9689c849c8cd7d86bd03044409) |
