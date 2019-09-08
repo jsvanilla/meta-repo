@@ -91,9 +91,11 @@ class Repos:
 
         print("Collecting gists...")
         self.gists = list()
-        for gist in github.get_user().get_gists():
-            if include_private or gist.public:
-                self.gists.append(Gist(gist))
+        for gh_gist in github.get_user().get_gists():
+            if include_private or gh_gist.public:
+                gist = Gist(gh_gist)
+                print(f"\t{gist.description}")
+                self.gists.append(gist)
         self.gists.sort(reverse = True, key = lambda gist: gist.last_modified)
 
         print("Making plots...")
