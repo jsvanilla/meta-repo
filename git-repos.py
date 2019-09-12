@@ -23,6 +23,48 @@ import yaml
 
 PROJECTS_HEADER = '## Projects\n'
 
+def main(args):
+    """
+    Collects repositories the user owns or has contributed to
+    and updates the Projects table in README.md
+    """
+    for dir in ('figures',):
+        if not os.path.exists(dir):
+            os.mkdir(dir)
+
+    print("Logging into GitHub...")
+    if args['--token']:
+        with open(args['--token'], 'r') as token_file:
+            token = token_file.readline().strip()
+        github = Github(token)
+    else:
+        password = getpass("Enter your GitHub password: ")
+        github = Github(args['--username'], password)
+
+    projects = Repos(github, include_private=args['--include_private'])
+
+    print("Updating the Projects table...")
+    with open('README.md', 'r') as file:  # collect everything except the old projects table
+        head = [file.readline()]
+        line = file.readline()
+        while line != PROJECTS_HEADER:
+            head.append(line)
+            line = file.readline()
+        assert line == PROJECTS_HEADER
+        line = file.readline()
+        while not line.startswith("## "):  # TODO: don't loop indefinitely if there's no heading afer Projects
+            line = file.readline()  # skip stuff under Projects subheading
+        tail = ['\n'+line]
+        for line in file:
+            tail.append(line)
+
+    with open('README.md', 'w') as file:
+        file.writelines(head)
+        file.writelines(projects.markdown_table)
+        file.writelines(tail)
+    print("Done!")
+
+
 def count_jupyter_bytes(gh_repo):
     """ Count bytes of code in Jupyter code blocks
     :param gh_repo: github repo from pygithub
@@ -43,6 +85,7 @@ def count_jupyter_bytes(gh_repo):
                         for line in cell['source']:
                             bytes_count += len(line.encode('utf-8'))
     return bytes_count
+
 
 class Repos:
     """ Store information about a user's github repositories & generate a markdown table """
@@ -94,7 +137,7 @@ class Repos:
         for gh_gist in github.get_user().get_gists():
             if include_private or gh_gist.public:
                 gist = Gist(gh_gist)
-                print(f"\t{gist.description}")
+                print(f"\t{gist.name}")
                 self.gists.append(gist)
         self.gists.sort(reverse = True, key = lambda gist: gist.last_modified)
 
@@ -123,6 +166,7 @@ class Repos:
 
         return table
 
+
 class Repo:
     """ Store info about a github repository """
     six_months = datetime.timedelta(days=182)
@@ -149,11 +193,13 @@ class Repo:
     def markdown(self):
         return f"| {self.name} | {self.description} | {self.owner} | {self.languages} |\n"
 
+
 class Gist:
     def __init__(self, gist):
         """ Store minimal info about a github Gist
         :param gist: a github gist object from pygithub
         """
+        self.name = gist.description
         self.owner = f"[{gist.owner.login}]({gist.owner.html_url})"
         self.description = f"[{gist.description}]({gist.html_url})"
         self.last_modified = gist.updated_at.strftime("%Y-%m-%d")
@@ -190,46 +236,6 @@ class LangStat:
                                                                                      automargin=True)))
         plotly.io.write_image(figure, f"{self.filename}.svg" if not num_repos else f"{self.filename}_n{num_repos}.svg")
 
-def main(args):
-    """
-    Collects repositories the user owns or has contributed to
-    and updates the Projects table in README.md
-    """
-    for dir in ('figures',):
-        if not os.path.exists(dir):
-            os.mkdir(dir)
-
-    print("Logging into GitHub...")
-    if args['--token']:
-        with open(args['--token'], 'r') as token_file:
-            token = token_file.readline().strip()
-        github = Github(token)
-    else:
-        password = getpass("Enter your GitHub password: ")
-        github = Github(args['--username'], password)
-
-    projects = Repos(github, include_private=args['--include_private'])
-
-    print("Updating the Projects table...")
-    with open('README.md', 'r') as file:  # collect everything except the old projects table
-        head = [file.readline()]
-        line = file.readline()
-        while line != PROJECTS_HEADER:
-            head.append(line)
-            line = file.readline()
-        assert line == PROJECTS_HEADER
-        line = file.readline()
-        while not line.startswith("## "):  # TODO: don't loop indefinitely if there's no heading afer Projects
-            line = file.readline()  # skip stuff under Projects subheading
-        tail = ['\n'+line]
-        for line in file:
-            tail.append(line)
-
-    with open('README.md', 'w') as file:
-        file.writelines(head)
-        file.writelines(projects.markdown_table)
-        file.writelines(tail)
-    print("Done!")
 
 if __name__ == "__main__":
     args = docopt(__doc__)
