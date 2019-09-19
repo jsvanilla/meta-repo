@@ -8,14 +8,14 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell, Python |
+| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
+| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
+| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Materials for our Data Science Summer Experience  | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell, Python |
-| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
 | [writing-functions-r](https://github.com/um-dang/writing-functions-r) | Introduction to writing functions in R | [um-dang](https://github.com/um-dang) | R |
-| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
-| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project Information | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, HTML, Python |
 | [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
@@ -25,11 +25,11 @@ A meta-repository to organize my public projects.
 | [PyCon_2019](https://github.com/GabrielleRab/PyCon_2019) | Repository for PyCon 2019 Education Summit Mini-Sprint: Workbooks that teach Python through scientific data exploration | [GabrielleRab](https://github.com/GabrielleRab) | Jupyter Notebook |
 | [advent-of-code-2018](https://github.com/kelly-sovacool/advent-of-code-2018) | My solutions to the Advent of Code 2018 puzzles. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook, Python, Shell |
 | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
-| [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Coding demos for Python instruction in Girls Who Code Club | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 
 ### Stale
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Coding demos for Python instruction in Girls Who Code Club | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [tcf-words](https://github.com/c-andy-martin/tcf-words) | TCF Overhead Words | [c-andy-martin](https://github.com/c-andy-martin) |  |
 | [useful-programs](https://github.com/thesuperlab/useful-programs) | None | [thesuperlab](https://github.com/thesuperlab) | Python, Shell |
 
