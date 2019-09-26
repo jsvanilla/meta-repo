@@ -51,7 +51,6 @@ A meta-repository to organize my public projects.
 ### Gists
 | Description |
 |---|
-| [Project update in S](https://gist.github.com/b0a4b6b25d0c73cd76e8ae34039c00a8) |
 | [Keybase proof](https://gist.github.com/1626a05ca82e3863da7f92e73097efe8) |
 | [My bio for the GWC-DCMB website](https://gist.github.com/3f307b86dc7e868c923ad234bf144a93) |
 | [Test conda environments on HPC batch scheduler](https://gist.github.com/21289d9ce89302a81996380f70814f7d) |
