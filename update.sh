@@ -7,7 +7,7 @@ function update() {
 }
 
 function commit() {
-    git add .
+    git add README.md figures/
     git commit -m "Auto-update repos"
     git push
 }
