@@ -7,17 +7,18 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
-| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate our repos and resources. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell |
-| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
+| [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
+| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate our repos and resources. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
+| [exception-handling](https://github.com/SchlossLab/exception-handling) | Materials for a code review on exception handling in R for the lab meeting on 2019-10-28. | [SchlossLab](https://github.com/SchlossLab) | R |
+| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our week-long Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell, Python |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, HTML, Python |
 | [challengeQuestions](https://github.com/GWC-DCMB/challengeQuestions) | Jupyter notebooks of challenge questions for learners. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python, Shell |
-| [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [FEMMES](https://github.com/GWC-DCMB/FEMMES) | Resources for activities for U-M FEMMES. | [GWC-DCMB](https://github.com/GWC-DCMB) |  |
 | [ozobotLessons](https://github.com/GWC-DCMB/ozobotLessons) | Lesson plans for Ozobots. | [GWC-DCMB](https://github.com/GWC-DCMB) | HTML |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
@@ -53,6 +54,7 @@ A meta-repository to organize my public projects.
 ### Gists
 | Description |
 |---|
+| [Notes on software performance analysis](https://gist.github.com/cc056f236f4363347fafb62fbdbc694f) |
 | [Lab Meeting Code Review 2019-09-30: Visualizing weights of model features](https://gist.github.com/dcba52ab03f09023f39662294ca8d803) |
 | [The first program I ever wrote! In 10th grade I was inspired by my biomedical science class. Saved here for posterity.](https://gist.github.com/883342d825ff17f2271cd240c26f2cd2) |
 | [Keybase proof](https://gist.github.com/1626a05ca82e3863da7f92e73097efe8) |
