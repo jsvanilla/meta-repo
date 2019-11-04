@@ -9,8 +9,8 @@ A meta-repository to organize my public projects.
 |---|---|---|---|
 | [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [ozobotLessons](https://github.com/GWC-DCMB/ozobotLessons) | Lesson plans for Ozobots. | [GWC-DCMB](https://github.com/GWC-DCMB) | HTML |
-| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
+| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell |
 | [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r) | None | [um-dang](https://github.com/um-dang) |  |
 | [writing-functions-r](https://github.com/um-dang/writing-functions-r) | Introduction to writing functions in R | [um-dang](https://github.com/um-dang) | R |
 | [exception-handling](https://github.com/SchlossLab/exception-handling) | Materials for a code review on exception handling in R for lab meeting. | [SchlossLab](https://github.com/SchlossLab) | R |
@@ -55,6 +55,7 @@ A meta-repository to organize my public projects.
 ### Gists
 | Description |
 |---|
+| [Monte Carlo simulation to estimate the value of Pi](https://gist.github.com/d58f051059720b3b21841209a3abe48a) |
 | [Notes on software performance analysis](https://gist.github.com/cc056f236f4363347fafb62fbdbc694f) |
 | [Lab Meeting Code Review 2019-09-30: Visualizing weights of model features](https://gist.github.com/dcba52ab03f09023f39662294ca8d803) |
 | [The first program I ever wrote! In 10th grade I was inspired by my biomedical science class. Saved here for posterity.](https://gist.github.com/883342d825ff17f2271cd240c26f2cd2) |
