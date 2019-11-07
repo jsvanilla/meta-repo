@@ -1,0 +1,5 @@
+ignore:
+    owners:
+        - akhagan
+    languages:
+        - html
