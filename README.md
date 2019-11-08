@@ -131,8 +131,6 @@ Plots of programming language statistics are written to [`figures/`](figures/).
 
 ![language_all_bytes](figures/language_all_bytes.svg)
 
-![langauge_all_bytes_n7](figures/language_all_bytes_n7.svg)
+![language_all_repos](figures/language_all_repos.svg)
 
 ![language_top_repos](figures/language_top_repos.svg)
-
-![language_all_repos](figures/language_all_repos.svg)
