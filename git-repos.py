@@ -144,7 +144,8 @@ class Repos:
                 for lang in (
                     "HTML",
                     "CSS",
-                ):  # drop these because they're usually not hand-written by me
+                    "TeX",
+                ):  # drop these because they're not always hand-written by me
                     languages.pop(lang, None)
                 if languages:
                     print(
