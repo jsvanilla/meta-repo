@@ -135,3 +135,4 @@ Plots of programming language statistics are written to [`figures/`](figures/).
 
 ![language_top_repos](figures/language_top_repos.svg)
 
+![language_all_repos](figures/language_all_repos.svg)
