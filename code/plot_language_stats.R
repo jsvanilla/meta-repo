@@ -32,7 +32,7 @@ plot_bytes_7 <- data %>%
     geom_text(aes(label=total_bytes), vjust=-0.5, size=3) +
     xlab("language") +
     ylab("bytes of code") +
-    ggtitle("My languages by bytes of code on GitHub")
+    ggtitle("My top 7 languages by bytes of code on GitHub")
 ggsave(here::here("figures", "language_all_bytes_n7.svg"), height=height, width=width, units="in")
 
 plot_all_repos <- data %>%
