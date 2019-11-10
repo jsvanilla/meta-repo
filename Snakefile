@@ -1,12 +1,14 @@
 from code import GitHubLangStats
 
-configfile: "config.yml"
-
-projects = GitHubLangStats.Projects.from_token(config['token_filename'])
+configfile: "config/config.yml"
+github = GitHubLangStats.login(token_filename=config['token_filename'])
+projects = GitHubLangStats.Projects(github, include_private=False)
+#projects = GitHubLangStats.Projects.from_token(config['token_filename'])
 
 rule targets:
     input:
-        "README.md"
+        "README.md",
+        "data/repo_languages.csv"
 
 rule write_csv:
     output:
@@ -26,6 +28,8 @@ rule plot_language_stats:
 
 rule write_markdown:
     input:
+        head_md="config/head.md",
+        tail_md="config/tail.md",
         figures=rules.plot_language_stats.output,
         csv=rules.write_csv.output.csv
     output:

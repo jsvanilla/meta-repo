@@ -161,30 +161,19 @@ class Projects:
 
         return table
 
-    def write_markdown(self, filename="README.md"):
-        print(f"Updating the Projects table in {filename}...")
-        with open(
-            filename, "r"
-        ) as file:  # collect everything except the old projects table
-            head = [file.readline()]
-            line = file.readline()
-            while line != self.PROJECTS_HEADER:
-                head.append(line)
-                line = file.readline()
-            assert line == self.PROJECTS_HEADER
-            line = file.readline()
-            while not line.startswith(
-                "## "
-            ):  # TODO: don't loop indefinitely if there's no heading after Projects
-                line = file.readline()  # skip stuff under Projects subheading
-            tail = ["\n" + line]
-            for line in file:
-                tail.append(line)
-
-        with open(filename, "w") as file:
-            file.writelines(head)
-            file.writelines(self.markdown_table)
-            file.writelines(tail)
+    def write_markdown(
+        self,
+        out_filename="README.md",
+        head_filename="config/head.md",
+        tail_filename="config/tail.md",
+    ):
+        print(f"Updating the Projects table in {out_filename}...")
+        with open(out_filename, "w") as out_file:
+            with open(head_filename, "r") as head_file:
+                out_file.writelines(head_file.readlines())
+            out_file.writelines(self.markdown_table)
+            with open(tail_filename, "r") as tail_file:
+                out_file.writelines(tail_file.readlines())
 
     def write_csv(self, filename="data/repo_languages.csv"):
         self.data.to_csv(filename)

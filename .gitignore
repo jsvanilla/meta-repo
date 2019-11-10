@@ -5,7 +5,7 @@ config.yml
 # Snakemake
 .snakemake
 # github user credentials
-credentials.yaml
+credentials.yml
 .token
 
 ###############################################################################

@@ -3,7 +3,7 @@
 function update() {
     source ~/.bash_profile
     conda activate git-repos
-    python git-repos.py -t .token
+    snakemake
 }
 
 function commit() {
