@@ -1,4 +1,5 @@
 data/
+config.yml
 # PyCharm
 .idea/
 # Snakemake
