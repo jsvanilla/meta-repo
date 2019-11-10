@@ -14,7 +14,7 @@ rule write_csv:
     output:
           csv="data/repo_languages.csv"
     run:
-        projects.write_csv()
+        projects.write_csv(filename=output.csv)
 
 rule plot_language_stats:
     input:
@@ -35,5 +35,5 @@ rule write_markdown:
     output:
         md="README.md"
     run:
-        projects.write_markdown()
+        projects.write_markdown(out_filename=output.md, head_filename=input.head_md, tail_filename=input.tail_md)
 
