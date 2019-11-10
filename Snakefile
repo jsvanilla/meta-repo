@@ -11,8 +11,10 @@ rule targets:
         "data/repo_languages.csv"
 
 rule write_csv:
+    input:
+        last_updated="data/last_updated.txt"
     output:
-          csv="data/repo_languages.csv"
+        csv="data/repo_languages.csv"
     run:
         projects.write_csv(filename=output.csv)
 

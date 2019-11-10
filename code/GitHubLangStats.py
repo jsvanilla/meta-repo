@@ -131,6 +131,11 @@ class Projects:
                     self.repos[repo.status].append(repo)
         for status, repo_list in self.repos.items():
             repo_list.sort(reverse=True, key=lambda repo: repo.last_modified)
+        last_updated_date = max(
+            repo_list[0].last_modified for status, repo_list in self.repos.items()
+        )
+        with open("data/last_updated.txt", "w") as outfile:
+            outfile.write(last_updated_date)
 
     def _get_gists(self, github, include_private=False):
         print("Collecting gists...")
