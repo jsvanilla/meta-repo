@@ -129,6 +129,8 @@ class Projects:
                 if include_private or not gh_repo.private:  # respect privacy preference
                     repo = Repo(gh_repo)
                     self.repos[repo.status].append(repo)
+        for status, repo_list in self.repos.items():
+            repo_list.sort(reverse=True, key=lambda repo: repo.last_modified)
 
     def _get_gists(self, github, include_private=False):
         print("Collecting gists...")
