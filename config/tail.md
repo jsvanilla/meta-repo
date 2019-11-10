@@ -42,8 +42,8 @@ Run the whole workflow with:
 snakemake
 ```
 
-It will collect information about repos you contribute to, write the data to csv, update the README [`projects`](#projects) table, & make [plots](##plots). 
-By default, the data is written to [`data/repo_languages.csv`](data/repo_languages.csv) and the plots are written to [`figures/`](figures). 
+It will collect information about repos you contribute to, write the data to [csv](data/repo_languages.csv), update
+ the README [`projects`](#projects) table, & make [plots](##plots).
 
 Don't edit the README file directly. You can edit the [head](config/head.md) and [tail](config/tail.md) to modify 
 what appears before and after the projects table.
@@ -56,7 +56,7 @@ If you don't want to use snakemake, you can run the Python & R scripts in [`code
 python code/GitHubLangStats.py --token path_to_token
 ```
 
-It will then prompt you for your GitHub password, collect the information from GitHub, write a csv file to 
+It will then collect the information from GitHub, write a csv file to 
 [`data/`](data), and generate the table in [`README.md`](README.md) under the [`Projects`](#projects) subheading.
 Only repositories which you own or which you have contributed to are included.
 
