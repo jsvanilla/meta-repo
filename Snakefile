@@ -8,11 +8,11 @@ projects = GitHubLangStats.Projects(github, include_private=False)
 rule targets:
     input:
         "README.md",
-        "data/repo_languages.csv"
+        "data/languages.csv"
 
 rule write_csv:
     output:
-          csv="data/repo_languages.csv"
+        csv="data/languages.csv"
     run:
         projects.write_csv(filename=output.csv)
 

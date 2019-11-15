@@ -59,7 +59,7 @@ class Projects:
         :param github: a github object from pygithub
         :param include_private: whether to include private repositories
         """
-        self.data = pd.DataFrame(
+        self.language_data = pd.DataFrame(
             columns=[
                 "language",
                 "language_repo_bytes",
@@ -71,10 +71,19 @@ class Projects:
                 "repo_description",
             ]
         )
+        self.gist_data = pd.DataFrame(
+            columns=[
+                "description",
+                "gist_url",
+                "owner_name",
+                "owner_url",
+                "last_modified",
+            ]
+        )
         self.repos = {status: [] for status in self.__class__.status_options}
-        self._get_repos(github, include_private)
+        self._download_repos(github, include_private)
         self.gists = list()
-        self._get_gists(github, include_private)
+        self._download_gists(github, include_private)
 
     @classmethod
     def from_token(cls, token_filename):
@@ -84,7 +93,7 @@ class Projects:
     def from_username(cls, username):
         return cls(login(username=username))
 
-    def _get_repos(self, github, include_private=False):
+    def _download_repos(self, github, include_private=False):
         print("Collecting repos:")
         user = github.get_user(github.get_user().login)
         prev_repo_owner = ""
@@ -113,7 +122,9 @@ class Projects:
                     ):  # get bytes counts for all languages for all repos
                         if language == "Jupyter Notebook":
                             bytes_count = count_jupyter_bytes(gh_repo)
-                        self.data.loc[len(self.data.index) + 1] = pd.Series(
+                        self.language_data.loc[
+                            len(self.language_data.index) + 1
+                        ] = pd.Series(
                             {
                                 "language": language,
                                 "language_repo_bytes": bytes_count,
@@ -127,17 +138,18 @@ class Projects:
                         )
 
                 if include_private or not gh_repo.private:  # respect privacy preference
-                    repo = Repo(gh_repo)
+                    repo = Repo.from_gh_repo(gh_repo)
                     self.repos[repo.status].append(repo)
         for status, repo_list in self.repos.items():
             repo_list.sort(reverse=True, key=lambda repo: repo.last_modified)
 
-    def _get_gists(self, github, include_private=False):
+    def _download_gists(self, github, include_private=False):
         print("Collecting gists...")
         for gh_gist in github.get_user().get_gists():
             if include_private or gh_gist.public:
-                gist = Gist(gh_gist)
-                print(f"\t{gist.name}")
+                gist = Gist.from_gh_gist(gh_gist)
+                self.gist_data.loc[len(self.gist_data.index) + 1] = gist.pd_series
+                print(f"\t{gist.description}")
                 self.gists.append(gist)
         self.gists.sort(reverse=True, key=lambda gist: gist.last_modified)
 
@@ -175,8 +187,11 @@ class Projects:
             with open(tail_filename, "r") as tail_file:
                 out_file.writelines(tail_file.readlines())
 
-    def write_csv(self, filename="data/repo_languages.csv"):
-        self.data.to_csv(filename)
+    def write_csv(
+        self, lang_filename="data/languages.csv", gist_filename="data/gists.csv"
+    ):
+        self.language_data.to_csv(lang_filename)
+        self.gist_data.to_csv(gist_filename)
 
 
 class Repo:
@@ -184,53 +199,123 @@ class Repo:
 
     six_months = datetime.timedelta(days=182)
 
-    def __init__(self, gh_repo):
+    def __init__(
+        self,
+        name,
+        html_url,
+        owner_name,
+        owner_url,
+        description,
+        language_bytes,
+        status,
+        last_modified,
+    ):
         """ Store minimal info about a github repository
-        :param gh_repo: a github repository object from pygithub
         """
-        self.owner = f"[{gh_repo.owner.login}]({gh_repo.owner.html_url})"
-        self.name = f"[{gh_repo.name}]({gh_repo.html_url})"
-        self.description = gh_repo.description if gh_repo.description else ""
-        self.languages = ", ".join(gh_repo.get_languages())
-        self.language_bytes = gh_repo.get_languages()
+        self.name = name
+        self.html_url = html_url
+        self.owner_name = owner_name
+        self.owner_url = owner_url
+        self.description = description
+        self.language_bytes = language_bytes
+        self.status = status
+        self.last_modified = last_modified
+
+    @classmethod
+    def from_gh_repo(cls, gh_repo):
+        """
+        :param gh_repo: a github repository object from pygithub
+        :return:
+        """
+        description = gh_repo.description if gh_repo.description else ""
+        language_bytes = gh_repo.get_languages()
         if gh_repo.archived:
             status = "Archive"
-        elif (datetime.datetime.now() - gh_repo.updated_at) > self.__class__.six_months:
+        elif (datetime.datetime.now() - gh_repo.updated_at) > cls.six_months:
             status = "Stale"
         else:
             status = "Current"
         assert status in Projects.status_options
-        self.status = status
-        self.last_modified = gh_repo.updated_at.strftime("%Y-%m-%d")
+        last_modified = gh_repo.updated_at.strftime("%Y-%m-%d")
+        return cls(
+            gh_repo.name,
+            gh_repo.html_url,
+            gh_repo.owner.login,
+            gh_repo.owner.html_url,
+            description,
+            language_bytes,
+            status,
+            last_modified,
+        )
 
     @property
     def markdown(self):
         return (
-            f"| {self.name} | {self.description} | {self.owner} | {self.languages} |\n"
+            f"| [{self.name}]({self.html_url}) | {self.description} | "
+            + f"[{self.owner_name}]({self.owner_url}) | {', '.join(self.language_bytes.keys())} |\n"
         )
 
     @property
     def pd_series(self):
-        return pd.Series(self.__dict__)
+        return pd.Series(
+            {
+                "repo_name": self.name,
+                "language_bytes": self.language_bytes,
+                "repo_owner_name": self.owner_name,
+                "repo_owner_url": self.owner_url,
+                "repo_url": self.html_url,
+                "last_modified": self.last_modified,
+                "description": self.description,
+            }
+        )
 
 
 class Gist:
-    def __init__(self, gh_gist):
+    def __init__(self, description, html_url, owner_name, owner_url, last_modified):
         """ Store minimal info about a github Gist
         :param gh_gist: a github gist object from pygithub
         """
-        self.name = gh_gist.description
-        self.owner = f"[{gh_gist.owner.login}]({gh_gist.owner.html_url})"
-        self.description = f"[{gh_gist.description}]({gh_gist.html_url})"
-        self.last_modified = gh_gist.updated_at.strftime("%Y-%m-%d")
+        self.description = description
+        self.html_url = html_url
+        self.owner_name = owner_name
+        self.owner_url = owner_url
+        self.last_modified = last_modified
+
+    @classmethod
+    def from_gh_gist(cls, gh_gist):
+        return cls(
+            gh_gist.description,
+            gh_gist.html_url,
+            gh_gist.owner.login,
+            gh_gist.owner.html_url,
+            gh_gist.updated_at.strftime("%Y-%m-%d"),
+        )
+
+    @classmethod
+    def from_pd_series(cls, pd_series):
+        return cls(
+            pd_series["description"],
+            pd_series["gist_url"],
+            pd_series["owner_name"],
+            pd_series["owner_url"],
+            pd_series["last_modified"],
+        )
 
     @property
     def markdown(self):
-        return f"| {self.description} |\n"
+        return f"| [{self.description}]({self.html_url}) |\n"
 
     @property
     def pd_series(self):
-        return pd.Series(self.__dict__)
+        return pd.Series(
+            {
+                "description": self.description,
+                "gist_url": self.html_url,
+                "owner_name": self.owner_name,
+                "owner_url": self.owner_url,
+                "last_modified": self.last_modified,
+            }
+        )
 
 
 def count_jupyter_bytes(gh_repo):

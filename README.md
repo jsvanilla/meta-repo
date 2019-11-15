@@ -118,7 +118,7 @@ what appears before and after the projects table.
 If you don't want to use snakemake, you can run the Python & R scripts in [`code/`](code).
 
 ```
-python code/GitHubLangStats.py --token path_to_token
+python code/GitHubStats.py --token path_to_token
 ```
 
 It will then prompt you for your GitHub password, collect the information from GitHub, write a csv file to 
@@ -127,7 +127,7 @@ Only repositories which you own or which you have contributed to are included.
 
 Alternatively, you can supply your username. It will then prompt you for your password:
 ```
-python code/GitHubLangStats.py --username your_username
+python code/GitHubStats.py --username your_username
 ```
 
 To update the plots, run the R script:
@@ -144,11 +144,11 @@ However, they are always included in statistics for plots.
 If you wish to include them, use the flag `--include_private`:
 
 ```
-python code/GitHubLangStats.py --token path_to_token --include_private
+python code/GitHubStats.py --token path_to_token --include_private
 ```
 or
 ```
-python code/GitHubLangStats.py --username your_username --include_private
+python code/GitHubStats.py --username your_username --include_private
 ```
 
 ## Plots
