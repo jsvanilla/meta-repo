@@ -10,16 +10,19 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [documenting-R](https://github.com/SchlossLab/documenting-R) | Materials for a code review on documenting R code. | [SchlossLab](https://github.com/SchlossLab) | R |
+| [exception-handling](https://github.com/SchlossLab/exception-handling) | Materials for a code review on exception handling in R for lab meeting. | [SchlossLab](https://github.com/SchlossLab) | R |
+| [snakemake_riffomonas_tutorial](https://github.com/SchlossLab/snakemake_riffomonas_tutorial) | A snakemake tutorial for make users | [SchlossLab](https://github.com/SchlossLab) | R, Python, Makefile, Shell |
+| [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
+| [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
-| [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
 | [loops-apply-r](https://github.com/um-dang/loops-apply-r) | Looping in R: for loops & the apply family  | [um-dang](https://github.com/um-dang) |  |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our week-long Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell, Python |
-| [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r) | Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data | [um-dang](https://github.com/um-dang) | R |
@@ -44,13 +47,10 @@ A meta-repository to organize my public projects.
 ### Archive
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
-| [exception-handling](https://github.com/SchlossLab/exception-handling) | Materials for a code review on exception handling in R for lab meeting. | [SchlossLab](https://github.com/SchlossLab) | R |
-| [snakemake_riffomonas_tutorial](https://github.com/SchlossLab/snakemake_riffomonas_tutorial) | A snakemake tutorial for make users | [SchlossLab](https://github.com/SchlossLab) | R, Python, Makefile, Shell |
 | [undergrad-comp-sci](https://github.com/kelly-sovacool/undergrad-comp-sci) | A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018). | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, C++, Ruby, PHP, JavaScript, Perl, R, HTML, CSS, Makefile |
 | [bioinf603-fall2019](https://github.com/kelly-sovacool/bioinf603-fall2019) | Presentation for BIOINF 603: Journal Club | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [jupyter-ci-mwe](https://github.com/kelly-sovacool/jupyter-ci-mwe) | A minimal working example of using continuous integration to convert jupyter notebooks to PDFs. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook |
 | [planets-kelly](https://github.com/kelly-sovacool/planets-kelly) | Teaching git at Software Carpentry Workshop 2019-07-01 | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
-| [documenting-R](https://github.com/SchlossLab/documenting-R) | Materials for a code review on documenting R code. | [SchlossLab](https://github.com/SchlossLab) | R |
 | [lang-stats](https://github.com/kelly-sovacool/lang-stats) | Collect & plot personal programming language statistics from GitHub repos | [kelly-sovacool](https://github.com/kelly-sovacool) | Python |
 | [miRNA-diff-expr](https://github.com/kelly-sovacool/miRNA-diff-expr) | Differential expression analysis for miRNA sequence data | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [dmrr-submission-prep](https://github.com/kelly-sovacool/dmrr-submission-prep) | Prepare miRNA metadata for submission to the exRNA Data Coordination Center | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook, Python |
