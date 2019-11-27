@@ -10,7 +10,8 @@ height <- 5
 width <- height * aspect_ratio
 
 data <- readr::read_csv(here::here("data", "repo_languages.csv")) %>%
-    filter(!(language %in% c("HTML", "CSS", "TeX")))
+    filter(!(language %in% c("HTML", "CSS")) &
+           (!(language %in% c("TeX")) | (repo_name != "bioinf540-fall2019")))
 
 plot_all_bytes <- data %>%
     group_by(language) %>%
@@ -45,4 +46,3 @@ plot_all_repos <- data %>%
     ylab("# of repos") +
     ggtitle("My languages by presence in GitHub repositories")
 ggsave(here::here("figures", "language_all_repos.svg"), height=height, width=width, units="in")
-
