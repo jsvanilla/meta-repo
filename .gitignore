@@ -1,5 +1,8 @@
 data/
 config.yml
+
+# macOS
+.DS_Store
 # PyCharm
 .idea/
 # Snakemake
