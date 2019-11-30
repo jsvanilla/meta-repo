@@ -10,8 +10,8 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Shell |
 | [documenting-R](https://github.com/SchlossLab/documenting-R) | Materials for a code review on documenting R code. | [SchlossLab](https://github.com/SchlossLab) | R |
