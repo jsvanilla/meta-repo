@@ -10,8 +10,7 @@ height <- 5
 width <- height * aspect_ratio
 
 data <- readr::read_csv(here::here("data", "repo_languages.csv")) %>%
-    filter(!(language %in% c("HTML", "CSS")) &
-           (!(language %in% c("TeX")) | (repo_name != "bioinf540-fall2019")))
+    filter(!(language %in% c("HTML", "CSS")))
 
 plot_all_bytes <- data %>%
     group_by(language) %>%
