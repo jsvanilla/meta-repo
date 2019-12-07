@@ -22,9 +22,9 @@ rule plot_language_stats:
     input:
          rules.write_csv.output.csv
     output:
-          "figures/language_all_bytes.svg",
-          "figures/language_all_bytes_n7.svg",
-          "figures/language_all_repos.svg"
+          "figures/language_all_bytes.png",
+          "figures/language_all_bytes_n7.png",
+          "figures/language_all_repos.png"
     script:
           "code/plot_language_stats.R"
 

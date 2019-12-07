@@ -34,15 +34,15 @@ data <- readr::read_csv(here::here("data", "repo_languages.csv")) %>%
 plot_all_bytes <- plot_bar(sum_lang_bytes(data) %>% 
                                mutate(language=reorder(language, -total_bytes)), 
                            "language", "total_bytes", "language", "bytes of code", 
-                           "My languages by bytes of code on GitHub", "language_all_bytes.svg")
+                           "My languages by bytes of code on GitHub", "language_all_bytes.png")
 
 plot_bytes_7 <- plot_bar(sum_lang_bytes(data) %>% 
                              mutate(language=reorder(language, -total_bytes)) %>% 
                              top_n(7, total_bytes), 
                          "language", "total_bytes","language", "bytes of code", 
-                         "My top 7 languages by bytes of code on GitHub", "language_all_bytes_n7.svg")
+                         "My top 7 languages by bytes of code on GitHub", "language_all_bytes_n7.png")
 
 plot_all_repos <- plot_bar(sum_lang_bytes(data) %>% 
                                mutate(language=reorder(language, -total_bytes)),
                            "language", "repo_count","language", "# of repos", 
-                           "My languages by presence in GitHub repositories", "language_all_repos.svg")
+                           "My languages by presence in GitHub repositories", "language_all_repos.png")
