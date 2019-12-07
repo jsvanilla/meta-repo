@@ -1,4 +1,3 @@
-
 library(here)
 library(RColorBrewer)
 library(tidyverse)
@@ -6,18 +5,11 @@ theme_set(theme_classic())
 update_geom_defaults("bar", list(fill = RColorBrewer::brewer.pal(n=9,name="GnBu")[9]))
 theme_update(axis.text.x = element_text(angle = 45, hjust = 1))
 
-sum_lang_bytes <- function(data, y_str) {
-    return(data %>%
-               group_by(language) %>%
-               summarize(total_bytes=sum(language_repo_bytes))
-    )
-}
-
 plot_bar <- function(data, x_str, y_str, xlab_str, ylab_str, title_str, filename) {
     plot <- data %>%
-        ggplot2::ggplot(aes(x=language, y=total_bytes, label=total_bytes)) +
+        ggplot2::ggplot(aes_string(x=x_str, y=y_str, label=y_str)) +
         geom_bar(stat="identity")+#, fill="#0868AC") +
-        geom_text(aes(label=total_bytes), vjust=-0.5, size=3) +
+        geom_text(aes_string(label=y_str), vjust=-0.5, size=3) +
         xlab(xlab_str) +
         ylab(ylab_str) +
         ggtitle(title_str)
@@ -28,21 +20,30 @@ plot_bar <- function(data, x_str, y_str, xlab_str, ylab_str, title_str, filename
     return(plot)
 }
 
-data <- readr::read_csv(here::here("data", "repo_languages.csv")) %>%
-    filter(!(language %in% c("HTML", "CSS")))
+sum_lang_data <- function(data) {
+    return(data %>%
+               group_by(language) %>%
+               summarize(total_bytes=sum(language_repo_bytes),
+                         repo_count=n())
+    )
+}
 
-plot_all_bytes <- plot_bar(sum_lang_bytes(data) %>% 
+data_raw <- readr::read_csv(here::here("data", "repo_languages.csv"))
+data <- sum_lang_bytes(data_raw) %>%
+    filter(!(language %in% c("HTML", "CSS", "Limbo")))
+
+plot_all_bytes <- plot_bar(data %>% 
                                mutate(language=reorder(language, -total_bytes)), 
                            "language", "total_bytes", "language", "bytes of code", 
                            "My languages by bytes of code on GitHub", "language_all_bytes.png")
 
-plot_bytes_7 <- plot_bar(sum_lang_bytes(data) %>% 
+plot_bytes_7 <- plot_bar(data %>% 
                              mutate(language=reorder(language, -total_bytes)) %>% 
                              top_n(7, total_bytes), 
                          "language", "total_bytes","language", "bytes of code", 
                          "My top 7 languages by bytes of code on GitHub", "language_all_bytes_n7.png")
 
-plot_all_repos <- plot_bar(sum_lang_bytes(data) %>% 
-                               mutate(language=reorder(language, -total_bytes)),
+plot_all_repos <- plot_bar(data %>% 
+                               mutate(language=reorder(language, -repo_count)),
                            "language", "repo_count","language", "# of repos", 
                            "My languages by presence in GitHub repositories", "language_all_repos.png")
