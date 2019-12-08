@@ -29,7 +29,7 @@ sum_lang_data <- function(data) {
 }
 
 data_raw <- readr::read_csv(here::here("data", "repo_languages.csv"))
-data <- sum_lang_bytes(data_raw) %>%
+data <- sum_lang_data(data_raw) %>%
     filter(!(language %in% c("HTML", "CSS", "Limbo")))
 
 plot_all_bytes <- plot_bar(data %>% 
