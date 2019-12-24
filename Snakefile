@@ -2,8 +2,6 @@ from code import GitHubLangStats
 
 configfile: "config/config.yml"
 github = GitHubLangStats.login(token_filename=config['token_filename'])
-projects = GitHubLangStats.Projects(github, include_private=False)
-#projects = GitHubLangStats.Projects.from_token(config['token_filename'])
 
 rule targets:
     input:
@@ -16,6 +14,7 @@ rule write_csv:
     output:
         csv="data/repo_languages.csv"
     run:
+        projects = GitHubLangStats.Projects(github, include_private=False)
         projects.write_csv(filename=output.csv)
 
 rule plot_language_stats:
@@ -37,5 +36,6 @@ rule write_markdown:
     output:
         md="README.md"
     run:
+        projects = GitHubLangStats.Projects(github, include_private=False)
         projects.write_markdown(out_filename=output.md, head_filename=input.head_md, tail_filename=input.tail_md)
 
