@@ -22,6 +22,8 @@ plot_bar <- function(data, x_str, y_str, xlab_str, ylab_str, title_str, filename
 
 sum_lang_data <- function(data) {
     return(data %>%
+               filter(!(repo_name %in% c("ML_pipeline_microbiome"))) %>%
+               filter(!(repo_owner_name %in% c("JMAStough", "akhagan"))) %>%
                group_by(language) %>%
                summarize(total_bytes=sum(language_repo_bytes),
                          repo_count=n())
