@@ -8,8 +8,8 @@ function update() {
 
 function commit() {
     git add README.md figures/
-    git commit -m "Auto-update repos"
-    git push
+    git commit -m "Auto-update repos" || echo "No changes to commit"
+    git push || echo "No changes to push"
 }
 
 if update; then
