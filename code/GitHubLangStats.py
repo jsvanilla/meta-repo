@@ -183,6 +183,9 @@ class Projects:
     def write_csv(self, filename="data/repo_languages.csv"):
         self.data.to_csv(filename)
 
+    def filter_owners(self, owner_names):
+        self.data.query(f"repo_owner_name not in {owner_names}", inplace=True)
+
 
 class Repo:
     """ Store info about a github repository """

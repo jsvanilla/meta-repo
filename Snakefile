@@ -37,5 +37,6 @@ rule write_markdown:
         md="README.md"
     run:
         projects = GitHubLangStats.Projects(github, include_private=False)
+        projects.filter_owners(config['ignore']['owners'])
         projects.write_markdown(out_filename=output.md, head_filename=input.head_md, tail_filename=input.tail_md)
 
