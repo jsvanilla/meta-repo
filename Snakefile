@@ -1,7 +1,12 @@
 from code import GitHubLangStats
 
 configfile: "config/config.yml"
-github = GitHubLangStats.login(token_filename=config['token_filename'])
+if config['token']:
+    token = config['token']
+elif config['token_filename']:
+    with open(config['token_filename'], 'r') as file:
+        token = file.readline().strip()
+github = GitHubLangStats.login(token=token)
 
 rule targets:
     input:

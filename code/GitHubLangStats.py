@@ -2,12 +2,12 @@
 
 Usage:
     git-repos.py -h | --help
-    git-repos.py [--username=<your_username> | --token=<path_to_token>] [--include_private]
+    git-repos.py [--username=<your_username> | --token=<string>] [--include_private]
 
 Options:
     -h --help                       Display this help message.
     -u --username=<your_username>   Your GitHub username.
-    -t --token=<path_to_token>      Path to a text file containing your GitHub access toekn.
+    -t --token=<string>             Your GitHub access token as a string.
     --include_private               Whether to include private repos. [default: False]
 """
 from docopt import docopt
@@ -24,26 +24,22 @@ def main(args):
     Collects repositories the user owns or has contributed to
     and updates the Projects table in README.md
     """
-    github = login(token_filename=args["--token"], username=args["--username"])
+    github = login(username=args["--username"], token=args["--token"])
     projects = Projects(github, include_private=args["--include_private"])
     projects.write_csv()
     projects.write_markdown()
     print("Done!")
 
 
-def login(token_filename=None, username=None):
+def login(username=None, token=None):
     print("Logging into GitHub...")
-    if token_filename:
-        with open(token_filename, "r") as token_file:
-            token = token_file.readline().strip()
+    if token:
         github = Github(token)
     elif username:
         password = getpass("Enter your GitHub password: ")
         github = Github(username, password)
     else:
-        raise ValueError(
-            "Must define either token_filename or username to login to GitHub"
-        )
+        raise ValueError("Must define either token or username to login to GitHub")
     return github
 
 
@@ -77,8 +73,8 @@ class Projects:
         self._get_gists(github, include_private)
 
     @classmethod
-    def from_token(cls, token_filename):
-        return cls(login(token_filename=token_filename))
+    def from_token(cls, token):
+        return cls(login(token=token))
 
     @classmethod
     def from_username(cls, username):
