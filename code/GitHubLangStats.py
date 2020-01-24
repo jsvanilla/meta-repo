@@ -34,6 +34,7 @@ def main(args):
 def login(username=None, token=None):
     print("Logging into GitHub...")
     if token:
+        print("\tUsing token for login")
         github = Github(token)
     elif username:
         password = getpass("Enter your GitHub password: ")
