@@ -1,0 +1,11 @@
+token_filename: .token
+token: None
+ignore:
+    owners:
+        - akhagan
+        - c-andy-martin
+        - JMAStough
+    languages:
+        - HTML
+        - CSS
+        - TeX
