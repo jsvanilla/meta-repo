@@ -1,5 +1,4 @@
 token_filename: .token
-token: None
 ignore:
     owners:
         - akhagan

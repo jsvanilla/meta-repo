@@ -1,11 +1,14 @@
 from code import GitHubLangStats
 
 configfile: "config/config.yml"
-if config['token']:
+if 'token' in config and config['token']:
     token = config['token']
 elif config['token_filename']:
     with open(config['token_filename'], 'r') as file:
         token = file.readline().strip()
+else:
+    raise ValueError("No token provide for GitHub access")
+
 github = GitHubLangStats.login(token=token)
 
 rule targets:
