@@ -11,19 +11,20 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
-| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
+| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
+| [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our week-long Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
+| [caret](https://github.com/kelly-sovacool/caret) | caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models | [kelly-sovacool](https://github.com/kelly-sovacool) | R, HTML, TeX, CSS, C |
 | [ML_pipeline_microbiome](https://github.com/SchlossLab/ML_pipeline_microbiome) |  | [SchlossLab](https://github.com/SchlossLab) | R, Shell |
+| [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
+| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [build-tidy-tools](https://github.com/kelly-sovacool/build-tidy-tools) | Materials & my notes from Building Tidy Tools workshop at rstudio::conf(2020) | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
-| [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
 | [2020-01-06-UMich-WISE](https://github.com/UMSWC/2020-01-06-UMich-WISE) | Software Carpentry workshop for WISE at U-M | [UMSWC](https://github.com/UMSWC) | Python, HTML, CSS, R, Makefile, JavaScript, Shell, Ruby |
 | [omu-prototype](https://github.com/SchlossLab/omu-prototype) | A tool to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU) | [SchlossLab](https://github.com/SchlossLab) | Python |
-| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [challengeQuestions](https://github.com/GWC-DCMB/challengeQuestions) | Jupyter notebooks of challenge questions for learners. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
-| [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our week-long Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [jupyter-ci-mwe](https://github.com/kelly-sovacool/jupyter-ci-mwe) | A minimal working example of using continuous integration to convert jupyter notebooks to PDFs. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
