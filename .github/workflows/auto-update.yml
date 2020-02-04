@@ -19,7 +19,7 @@ jobs:
       - name: Update
         shell: bash -l {0}
         run: |
-          snakemake --config token=${{ secrets.GITHUB_TOKEN }}
+          snakemake --config token=${{ secrets.GH_ACCESS_TOKEN }}
           git add .
           git config --local user.email "noreply@github.com"
           git config --local user.name "GitHub"
@@ -30,5 +30,5 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_ACCESS_TOKEN }}
           branch: ${{ github.head_ref }}
