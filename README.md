@@ -1,4 +1,5 @@
 # meta-repo
+[![build](https://github.com/kelly-sovacool/meta-repo/workflows/auto-update/badge.svg)](https://github.com/kelly-sovacool/meta-repo/actions)
 
 A meta-repository to organize my public projects.
 
@@ -138,7 +139,7 @@ If you don't want to use snakemake, you can run the Python & R scripts in [`code
 python code/GitHubLangStats.py --token path_to_token
 ```
 
-It will then collect the information from GitHub, write a csv file to [`data/`](data), 
+It will then collect the information from GitHub, write a csv file to [`data/`](data),
 and generate the table in [`README.md`](README.md) under the [`Projects`](#projects) subheading.
 Only repositories which you own or which you have contributed to are included.
 
