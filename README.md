@@ -12,15 +12,14 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
+| [caret](https://github.com/kelly-sovacool/caret) | A fork of caret (Classification And Regression Training) R package | [kelly-sovacool](https://github.com/kelly-sovacool) | R, HTML, TeX, CSS, C |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our week-long Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
-| [caret](https://github.com/kelly-sovacool/caret) | A fork of caret (Classification And Regression Training) R package | [kelly-sovacool](https://github.com/kelly-sovacool) | R, HTML, TeX, CSS, C |
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
 | [ML_pipeline_microbiome](https://github.com/SchlossLab/ML_pipeline_microbiome) |  | [SchlossLab](https://github.com/SchlossLab) | R, Shell |
 | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
-| [build-tidy-tools](https://github.com/kelly-sovacool/build-tidy-tools) | Materials & my notes from Building Tidy Tools workshop at rstudio::conf(2020) | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
 | [2020-01-06-UMich-WISE](https://github.com/UMSWC/2020-01-06-UMich-WISE) | Software Carpentry workshop for WISE at U-M | [UMSWC](https://github.com/UMSWC) | Python, HTML, CSS, R, Makefile, JavaScript, Shell, Ruby |
@@ -31,9 +30,6 @@ A meta-repository to organize my public projects.
 | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
-| [documenting-R](https://github.com/SchlossLab/documenting-R) | Materials for a code review on documenting R code. | [SchlossLab](https://github.com/SchlossLab) | R |
-| [exception-handling](https://github.com/SchlossLab/exception-handling) | Materials for a code review on exception handling in R for lab meeting. | [SchlossLab](https://github.com/SchlossLab) | R |
-| [snakemake_riffomonas_tutorial](https://github.com/SchlossLab/snakemake_riffomonas_tutorial) | A snakemake tutorial for make users | [SchlossLab](https://github.com/SchlossLab) | R, Python, Makefile, Shell |
 | [loops-apply-r](https://github.com/um-dang/loops-apply-r) | Looping in R: for loops & the apply family  | [um-dang](https://github.com/um-dang) |  |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python |
 | [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r) | Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data | [um-dang](https://github.com/um-dang) | R |
@@ -55,6 +51,10 @@ A meta-repository to organize my public projects.
 ### Archive
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [build-tidy-tools](https://github.com/kelly-sovacool/build-tidy-tools) | Materials & my notes from Building Tidy Tools workshop at rstudio::conf(2020) | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
+| [documenting-R](https://github.com/SchlossLab/documenting-R) | Materials for a code review on documenting R code. | [SchlossLab](https://github.com/SchlossLab) | R |
+| [exception-handling](https://github.com/SchlossLab/exception-handling) | Materials for a code review on exception handling in R for lab meeting. | [SchlossLab](https://github.com/SchlossLab) | R |
+| [snakemake_riffomonas_tutorial](https://github.com/SchlossLab/snakemake_riffomonas_tutorial) | A snakemake tutorial for make users | [SchlossLab](https://github.com/SchlossLab) | R, Python, Makefile, Shell |
 | [foofactors](https://github.com/kelly-sovacool/foofactors) | Practice from Building Tidy Tools workshop at rstudio::conf(2020) | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [fordogs](https://github.com/kelly-sovacool/fordogs) | Practice from Building Tidy Tools workshop at rstudio::conf(2020) | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [recipes-kelly](https://github.com/kelly-sovacool/recipes-kelly) | Teaching git at WISE Software Carpentry Workshop 2020-01-07 | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
