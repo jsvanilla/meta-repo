@@ -22,7 +22,7 @@ rule write_csv:
     output:
         csv="data/repo_languages.csv"
     run:
-        projects = GitHubLangStats.Projects(github, include_private=False)
+        projects = GitHubLangStats.Projects(github, include_private=config['include_private'])
         projects.write_csv(filename=output.csv)
 
 rule plot_language_stats:
@@ -44,7 +44,7 @@ rule write_markdown:
     output:
         md="README.md"
     run:
-        projects = GitHubLangStats.Projects(github, include_private=False)
+        projects = GitHubLangStats.Projects(github, include_private=config['include_private'])
         projects.filter_owners(config['ignore']['owners'])
         projects.write_markdown(out_filename=output.md, head_filename=input.head_md, tail_filename=input.tail_md)
 

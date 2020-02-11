@@ -1,4 +1,5 @@
 token_filename: .token
+include_private: False
 ignore:
     owners:
         - akhagan
