@@ -90,6 +90,6 @@ python code/GitHubLangStats.py --username your_username --include_private
 
 ![language_all_bytes](figures/language_all_bytes.png)
 
-![langauge_all_bytes_n7](figures/language_all_bytes_n7.png)
+![langauge_all_bytes_n5](figures/language_all_bytes_n5.png)
 
 ![language_all_repos](figures/language_all_repos.png)

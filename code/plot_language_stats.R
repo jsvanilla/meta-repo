@@ -10,12 +10,12 @@ plot_bar <- function(data, x_str, y_str, xlab_str, ylab_str, title_str, filename
         ggplot2::ggplot(aes_string(x=x_str, y=y_str, label=y_str)) +
         geom_bar(stat="identity")+#, fill="#0868AC") +
         geom_text(aes_string(label=y_str), vjust=-0.5, size=3) +
-        xlab(xlab_str) +
+        xlab("") +
         ylab(ylab_str) +
         ggtitle(title_str)
     aspect_ratio <- 4/3
-    height <- 5
-    width <- height * aspect_ratio
+    height <- 4
+    width <- height 
     ggsave(here::here("figures", filename), height=height, width=width, units="in")
     return(plot)
 }
@@ -39,11 +39,12 @@ plot_all_bytes <- plot_bar(data %>%
                            "language", "total_bytes", "language", "bytes of code", 
                            "My languages by bytes of code on GitHub", "language_all_bytes.png")
 
-plot_bytes_7 <- plot_bar(data %>% 
+plot_bytes_5 <- plot_bar(data %>% 
                              mutate(language=reorder(language, -total_bytes)) %>% 
-                             top_n(7, total_bytes), 
+                             top_n(5, total_bytes), 
                          "language", "total_bytes","language", "bytes of code", 
-                         "My top 7 languages by bytes of code on GitHub", "language_all_bytes_n7.png")
+                         "My top languages on GitHub", 
+                         "language_all_bytes_n5.png")
 
 plot_all_repos <- plot_bar(data %>% 
                                mutate(language=reorder(language, -repo_count)),
