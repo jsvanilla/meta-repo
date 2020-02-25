@@ -13,35 +13,35 @@ A meta-repository to organize my public projects.
 |---|---|---|---|
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
-| [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
-| [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
-| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
+| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
+| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python |
+| [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
+| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
+| [CluMSID](https://github.com/kelly-sovacool/CluMSID) | Fork of CluMSID: Clustering of MS² Spectra for Metabolite Identification | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Rebol |
+| [loops-apply-r](https://github.com/um-dang/loops-apply-r) | Looping in R: for loops & the apply family  | [um-dang](https://github.com/um-dang) |  |
+| [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r) | Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data | [um-dang](https://github.com/um-dang) | R |
+| [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
+| [writing-functions-r](https://github.com/um-dang/writing-functions-r) | Introduction to writing functions in R | [um-dang](https://github.com/um-dang) | R |
+| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [caret](https://github.com/kelly-sovacool/caret) | A fork of caret (Classification And Regression Training) R package | [kelly-sovacool](https://github.com/kelly-sovacool) | R, HTML, TeX, CSS, C |
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our week-long Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [ML_pipeline_microbiome](https://github.com/SchlossLab/ML_pipeline_microbiome) |  | [SchlossLab](https://github.com/SchlossLab) | R, Shell |
-| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
-| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [2020-01-06-UMich-WISE](https://github.com/UMSWC/2020-01-06-UMich-WISE) | Software Carpentry workshop for WISE at U-M | [UMSWC](https://github.com/UMSWC) | Python, HTML, CSS, R, Makefile, JavaScript, Shell, Ruby |
-| [omu-prototype](https://github.com/SchlossLab/omu-prototype) | A tool to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU) | [SchlossLab](https://github.com/SchlossLab) | Python |
 | [challengeQuestions](https://github.com/GWC-DCMB/challengeQuestions) | Jupyter notebooks of challenge questions for learners. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [jupyter-ci-mwe](https://github.com/kelly-sovacool/jupyter-ci-mwe) | A minimal working example of using continuous integration to convert jupyter notebooks to PDFs. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook |
-| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
 | [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
-| [loops-apply-r](https://github.com/um-dang/loops-apply-r) | Looping in R: for loops & the apply family  | [um-dang](https://github.com/um-dang) |  |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python |
-| [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r) | Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data | [um-dang](https://github.com/um-dang) | R |
 | [tcf-words](https://github.com/c-andy-martin/tcf-words) | TCF Overhead Words | [c-andy-martin](https://github.com/c-andy-martin) |  |
 | [ozobotLessons](https://github.com/GWC-DCMB/ozobotLessons) | Lesson plans for Ozobots. | [GWC-DCMB](https://github.com/GWC-DCMB) | HTML |
-| [writing-functions-r](https://github.com/um-dang/writing-functions-r) | Introduction to writing functions in R | [um-dang](https://github.com/um-dang) | R |
 | [FEMMES](https://github.com/GWC-DCMB/FEMMES) | Resources for activities for U-M FEMMES. | [GWC-DCMB](https://github.com/GWC-DCMB) |  |
-| [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
 
 ### Stale
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
 | [git_update](https://github.com/akhagan/git_update) | Updating SWC git lessons with the puzzle analogy | [akhagan](https://github.com/akhagan) | HTML, Python, CSS, R, Makefile, JavaScript, Ruby, Shell |
 | [stats-ref](https://github.com/kelly-sovacool/stats-ref) | A reference for concepts & equations in statistics. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, CSS |
 | [PyCon_2019](https://github.com/GabrielleRab/PyCon_2019) | Repository for PyCon 2019 Education Summit Mini-Sprint: Workbooks that teach Python through scientific data exploration | [GabrielleRab](https://github.com/GabrielleRab) | Jupyter Notebook |
