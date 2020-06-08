@@ -11,13 +11,13 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
-| [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
-| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
-| [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our week-long Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
+| [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
+| [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our week-long Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
+| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [ML_pipeline_microbiome](https://github.com/SchlossLab/ML_pipeline_microbiome) |  | [SchlossLab](https://github.com/SchlossLab) | R, Shell |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [acnh](https://github.com/kelly-sovacool/acnh) |  | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
@@ -40,11 +40,11 @@ A meta-repository to organize my public projects.
 | [challengeQuestions](https://github.com/GWC-DCMB/challengeQuestions) | Jupyter notebooks of challenge questions for learners. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [jupyter-ci-mwe](https://github.com/kelly-sovacool/jupyter-ci-mwe) | A minimal working example of using continuous integration to convert jupyter notebooks to PDFs. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook |
 | [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
-| [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 
 ### Stale
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [tcf-words](https://github.com/c-andy-martin/tcf-words) | TCF Overhead Words | [c-andy-martin](https://github.com/c-andy-martin) |  |
 | [ozobotLessons](https://github.com/GWC-DCMB/ozobotLessons) | Lesson plans for Ozobots. | [GWC-DCMB](https://github.com/GWC-DCMB) | HTML |
 | [FEMMES](https://github.com/GWC-DCMB/FEMMES) | Resources for activities for U-M FEMMES. | [GWC-DCMB](https://github.com/GWC-DCMB) |  |
@@ -77,6 +77,7 @@ A meta-repository to organize my public projects.
 ### Gists
 | Description |
 |---|
+| [Pat’s code club on ggplot themes](https://gist.github.com/037397dbf0d43e869bb93b8bbd9a757a) |
 | [Joy of Coding: Nick's code club 2020-03-30 w/ Will & Katie](https://gist.github.com/ecf79bb9aa4a35fc7fd94cd5e2e37896) |
 | [](https://gist.github.com/ac8b5db07c4ae35266701266cb1d0238) |
 | [Comparing runtime of a for loop vs list comprehensions for a permutation test](https://gist.github.com/bb8589d233887fdb783e23d7bfb03414) |
