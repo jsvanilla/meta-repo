@@ -67,7 +67,7 @@ python code/GitHubLangStats.py --username your_username
 
 To update the plots, run the R script:
 ```
-R -e "source('code/plot_language_stats.R')"
+Rscript "code/plot_language_stats.R"
 ```
 
 [Plots](##plots) of programming language statistics are written to [`figures/`](figures/).
