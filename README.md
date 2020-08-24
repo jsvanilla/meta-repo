@@ -11,13 +11,13 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [functional.redundancy](https://github.com/kelly-sovacool/functional.redundancy) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [mikRopML](https://github.com/SchlossLab/mikRopML) | User-Friendly Machine Learning Package for Binary Classification Problems | [SchlossLab](https://github.com/SchlossLab) | R |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [handmade-plots](https://github.com/kelly-sovacool/handmade-plots) |  | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
-| [functional-redundancy](https://github.com/kelly-sovacool/functional-redundancy) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [acnh](https://github.com/kelly-sovacool/acnh) |  | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
