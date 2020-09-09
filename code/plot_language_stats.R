@@ -55,7 +55,10 @@ sum_lang_data <- function(data) {
         data %>%
             filter(!(
                 repo_name %in% c("caret",
-                                 "CluMSID")
+                                 "CluMSID",
+                                 'schlosslab.github.io',
+                                 "mothur.github.io",
+                                 '2020-01-06-UMich-WISE')
             )) %>%
             filter(!(
                 repo_owner_name %in% c("JMAStough",

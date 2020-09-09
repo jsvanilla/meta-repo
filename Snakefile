@@ -30,7 +30,7 @@ rule plot_language_stats:
          rules.write_csv.output.csv
     output:
           "figures/language_all_bytes.png",
-          "figures/language_all_bytes_n5.png",
+          "figures/language_all_bytes_n6.png",
           "figures/language_all_repos.png"
     script:
           "code/plot_language_stats.R"
