@@ -11,16 +11,18 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly Machine Learning Package for Classification Problems | [SchlossLab](https://github.com/SchlossLab) | R |
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
-| [bioconda-recipes](https://github.com/kelly-sovacool/bioconda-recipes) | Conda recipes for the bioconda channel. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python, Perl, Raku, CMake, Prolog, Roff, M4, C |
+| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
+| [snakemake-Rscript-log-mwe](https://github.com/kelly-sovacool/snakemake-Rscript-log-mwe) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R |
+| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
+| [bioconda-recipes](https://github.com/kelly-sovacool/bioconda-recipes) | Conda recipes for the bioconda channel. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python, Perl, Raku, CMake, Prolog, Roff, M4, C |
 | [staged-recipes](https://github.com/kelly-sovacool/staged-recipes) | A place to submit conda recipes before they become fully fledged conda-forge feedstocks | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell, Batchfile |
 | [mikRopML-snakemake-workflow](https://github.com/SchlossLab/mikRopML-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
 | [repro-packs](https://github.com/um-dang/repro-packs) | Organizing projects for reproducibility and headache prevention. | [um-dang](https://github.com/um-dang) |  |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
-| [mikRopML](https://github.com/SchlossLab/mikRopML) | User-Friendly Machine Learning Package for Classification Problems | [SchlossLab](https://github.com/SchlossLab) | R |
-| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
 | [handmade-plots](https://github.com/kelly-sovacool/handmade-plots) | Attempting to make plots look like they were drawn by hand | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python |
@@ -34,15 +36,14 @@ A meta-repository to organize my public projects.
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
-| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | CSS, HTML, Python, Ruby |
 | [mothur.github.io](https://github.com/kelly-sovacool/mothur.github.io) | wiki for the mothur software package | [kelly-sovacool](https://github.com/kelly-sovacool) | CSS, HTML, Ruby, Shell, JavaScript, R |
-| [bf545_atac-seq_lab](https://github.com/kelly-sovacool/bf545_atac-seq_lab) | ATAC-seq lab for BIOINF545 | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, R |
-| [code_club_gsheets_2020-03](https://github.com/kelly-sovacool/code_club_gsheets_2020-03) | Pat's code club: intro to the googlesheets4 R package | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 
 ### Stale
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [bf545_atac-seq_lab](https://github.com/kelly-sovacool/bf545_atac-seq_lab) | ATAC-seq lab for BIOINF545 | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, R |
+| [code_club_gsheets_2020-03](https://github.com/kelly-sovacool/code_club_gsheets_2020-03) | Pat's code club: intro to the googlesheets4 R package | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [CluMSID](https://github.com/kelly-sovacool/CluMSID) | Fork of CluMSID: Clustering of MS² Spectra for Metabolite Identification | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Rebol |
 | [loops-apply-r](https://github.com/um-dang/loops-apply-r) | Looping in R: for loops & the apply family  | [um-dang](https://github.com/um-dang) |  |
 | [writing-functions-r](https://github.com/um-dang/writing-functions-r) | Introduction to writing functions in R | [um-dang](https://github.com/um-dang) | R |
