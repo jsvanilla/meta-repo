@@ -12,15 +12,19 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
-| [mikRopML-snakemake-workflow](https://github.com/SchlossLab/mikRopML-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell, Rebol |
+| [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
+| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) |  |
+| [curriculum-notebooks](https://github.com/GWC-DCMB/curriculum-notebooks) | Jupyter notebooks for our Summer Experience and Club Curriculum. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
+| [intro-testing-r](https://github.com/SchlossLab/intro-testing-r) |  | [SchlossLab](https://github.com/SchlossLab) | R |
 | [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly Machine Learning Package for Classification Problems | [SchlossLab](https://github.com/SchlossLab) | R |
-| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
+| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
+| [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
+| [mothur](https://github.com/kelly-sovacool/mothur) | Welcome to the mothur project, initiated by Dr. Patrick Schloss and his software development team in the Department of Microbiology & Immunology at The University of Michigan. This project seeks to develop a single piece of open-source, expandable software to fill the bioinformatics needs of the microbial ecology community. | [kelly-sovacool](https://github.com/kelly-sovacool) | C++, C, Makefile, Objective-C |
+| [mothuR](https://github.com/SchlossLab/mothuR) | R package to work with mothur output files | [SchlossLab](https://github.com/SchlossLab) | R |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
+| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [repro-packs](https://github.com/um-dang/repro-packs) | Organizing projects for reproducibility and headache prevention. | [um-dang](https://github.com/um-dang) | Python, R, Rebol |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
-| [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
-| [curriculum-notebooks](https://github.com/GWC-DCMB/curriculum-notebooks) | Jupyter notebooks for our Summer Experience and Club Curriculum. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
-| [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [practice-proj](https://github.com/kelly-sovacool/practice-proj) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [snakemake-Rscript-log-mwe](https://github.com/kelly-sovacool/snakemake-Rscript-log-mwe) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R |
@@ -30,11 +34,9 @@ A meta-repository to organize my public projects.
 | [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
 | [handmade-plots](https://github.com/kelly-sovacool/handmade-plots) | Attempting to make plots look like they were drawn by hand | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python |
-| [mothuR](https://github.com/SchlossLab/mothuR) | R package to work with mothur output files | [SchlossLab](https://github.com/SchlossLab) | R |
 | [plot-recreation](https://github.com/SchlossLab/plot-recreation) | Re-creating plots to learn cool tricks and practice problem-solving. | [SchlossLab](https://github.com/SchlossLab) |  |
 | [tidy-eval](https://github.com/SchlossLab/tidy-eval) | A brief introduction to tidy evaluation | [SchlossLab](https://github.com/SchlossLab) |  |
 | [acnh](https://github.com/kelly-sovacool/acnh) | Animal Crossing: New Horizons | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
-| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | CSS, HTML, Ruby |
 | [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r) | Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data | [um-dang](https://github.com/um-dang) | R |
 | [functional.redundancy](https://github.com/kelly-sovacool/functional.redundancy) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
