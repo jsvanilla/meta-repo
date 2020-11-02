@@ -11,22 +11,23 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
-| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
 | [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Robust Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
+| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
+| [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
+| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
+| [repro-packs](https://github.com/um-dang/repro-packs) | Organizing projects for reproducibility and headache prevention. | [um-dang](https://github.com/um-dang) | Python, R, Rebol |
+| [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
+| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | SCSS, HTML, Python, Ruby, CSS |
 | [intro-testing-r](https://github.com/SchlossLab/intro-testing-r) | Introduction to Testing R Code | [SchlossLab](https://github.com/SchlossLab) | R |
-| [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
 | [curriculum-notebooks](https://github.com/GWC-DCMB/curriculum-notebooks) | Jupyter notebooks for our Summer Experience and Club Curriculum. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [mothuR](https://github.com/SchlossLab/mothuR) | R package to work with mothur output files | [SchlossLab](https://github.com/SchlossLab) | R |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) |  |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [mothur](https://github.com/kelly-sovacool/mothur) | Welcome to the mothur project, initiated by Dr. Patrick Schloss and his software development team in the Department of Microbiology & Immunology at The University of Michigan. This project seeks to develop a single piece of open-source, expandable software to fill the bioinformatics needs of the microbial ecology community. | [kelly-sovacool](https://github.com/kelly-sovacool) | C++, C, Makefile, Objective-C |
-| [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
-| [repro-packs](https://github.com/um-dang/repro-packs) | Organizing projects for reproducibility and headache prevention. | [um-dang](https://github.com/um-dang) | Python, R, Rebol |
-| [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
-| [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [snakemake-Rscript-log-mwe](https://github.com/kelly-sovacool/snakemake-Rscript-log-mwe) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R |
 | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python |
 | [bioconda-recipes](https://github.com/kelly-sovacool/bioconda-recipes) | Conda recipes for the bioconda channel. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python, Perl, Raku, CMake, Prolog, Roff, M4, C |
@@ -39,7 +40,6 @@ A meta-repository to organize my public projects.
 | [acnh](https://github.com/kelly-sovacool/acnh) | Animal Crossing: New Horizons | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r) | Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data | [um-dang](https://github.com/um-dang) | R |
 | [functional.redundancy](https://github.com/kelly-sovacool/functional.redundancy) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
-| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [mothur.github.io](https://github.com/kelly-sovacool/mothur.github.io) | wiki for the mothur software package | [kelly-sovacool](https://github.com/kelly-sovacool) | CSS, HTML, Ruby, Shell, JavaScript, R |
 
 ### Stale
