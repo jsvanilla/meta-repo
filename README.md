@@ -11,17 +11,19 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [curriculum](https://github.com/UMSWC/curriculum) |  | [UMSWC](https://github.com/UMSWC) | HTML, Python, SCSS, R, Makefile, CSS, JavaScript, Ruby, Shell |
+| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Robust Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
+| [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
+| [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
+| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
+| [loops-apply-r](https://github.com/um-dang/loops-apply-r) | Looping in R: for loops & the apply family  | [um-dang](https://github.com/um-dang) |  |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | SCSS, HTML, Python, Ruby, CSS |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
-| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Robust Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
-| [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [repro-packs](https://github.com/um-dang/repro-packs) | Organizing projects for reproducibility and headache prevention. | [um-dang](https://github.com/um-dang) | Python, R, Rebol |
-| [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
-| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
 | [intro-testing-r](https://github.com/SchlossLab/intro-testing-r) | Introduction to Testing R Code | [SchlossLab](https://github.com/SchlossLab) | R |
 | [curriculum-notebooks](https://github.com/GWC-DCMB/curriculum-notebooks) | Jupyter notebooks for our Summer Experience and Club Curriculum. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [mothuR](https://github.com/SchlossLab/mothuR) | R package to work with mothur output files | [SchlossLab](https://github.com/SchlossLab) | R |
@@ -48,7 +50,6 @@ A meta-repository to organize my public projects.
 | [bf545_atac-seq_lab](https://github.com/kelly-sovacool/bf545_atac-seq_lab) | ATAC-seq lab for BIOINF545 | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, R |
 | [code_club_gsheets_2020-03](https://github.com/kelly-sovacool/code_club_gsheets_2020-03) | Pat's code club: intro to the googlesheets4 R package | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [CluMSID](https://github.com/kelly-sovacool/CluMSID) | Fork of CluMSID: Clustering of MS² Spectra for Metabolite Identification | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Rebol |
-| [loops-apply-r](https://github.com/um-dang/loops-apply-r) | Looping in R: for loops & the apply family  | [um-dang](https://github.com/um-dang) |  |
 | [writing-functions-r](https://github.com/um-dang/writing-functions-r) | Introduction to writing functions in R | [um-dang](https://github.com/um-dang) | R |
 | [2020-01-06-UMich-WISE](https://github.com/UMSWC/2020-01-06-UMich-WISE) | Software Carpentry workshop for WISE at U-M | [UMSWC](https://github.com/UMSWC) | Python, HTML, CSS, R, Makefile, JavaScript, Shell, Ruby |
 | [challengeQuestions](https://github.com/GWC-DCMB/challengeQuestions) | Jupyter notebooks of challenge questions for learners. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
