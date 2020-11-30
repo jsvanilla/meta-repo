@@ -58,11 +58,13 @@ sum_lang_data <- function(data) {
                                  "CluMSID",
                                  'schlosslab.github.io',
                                  "mothur.github.io",
-                                 '2020-01-06-UMich-WISE')
+                                 '2020-01-06-UMich-WISE',
+                                 '2021-01-11-UMich-WISE')
             )) %>%
             filter(!(
                 repo_owner_name %in% c("JMAStough",
-                                       "akhagan")
+                                       "akhagan",
+                                       "mothur")
             )) %>%
             group_by(language) %>%
             summarize(
