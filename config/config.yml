@@ -5,6 +5,7 @@ ignore:
         - akhagan
         - c-andy-martin
         - JMAStough
+        - mothur
     languages:
         - HTML
         - CSS
