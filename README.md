@@ -11,13 +11,13 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | UM Software and Data Carpentry Website | [UMSWC](https://github.com/UMSWC) | SCSS, HTML, Python, Ruby, CSS |
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
 | [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
 | [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
 | [2021-01-11-UMich-WISE](https://github.com/UMSWC/2021-01-11-UMich-WISE) |  | [UMSWC](https://github.com/UMSWC) | Python, HTML, SCSS, CSS, R, Makefile, JavaScript, Shell, Ruby |
 | [Rcpp.practice](https://github.com/kelly-sovacool/Rcpp.practice) | Practice using Rcpp | [kelly-sovacool](https://github.com/kelly-sovacool) | C++, R |
-| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
 | [repro-packs](https://github.com/um-dang/repro-packs) | Organizing projects for reproducibility and headache prevention. | [um-dang](https://github.com/um-dang) | Python, R, Rebol |
 | [CluMSID](https://github.com/kelly-sovacool/CluMSID) | Fork of CluMSID: Clustering of MS² Spectra for Metabolite Identification | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Rebol |
 | [curriculum](https://github.com/UMSWC/curriculum) |  | [UMSWC](https://github.com/UMSWC) | HTML, Python, SCSS, R, Makefile, CSS, JavaScript, Ruby, Shell |
