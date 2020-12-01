@@ -19,8 +19,8 @@ plot_bar <- function(data,
             geom_bar(stat="identity")+
             geom_text(aes(label={{ y_col }}), vjust = -0.4, size = 3) +
             scale_y_continuous(
-                breaks = c(100000, 250000, 500000, 750000, 1000000),
-                labels = c('100k', '250k', '500k', '750k', '1mil')
+                breaks = c(500000, 1000000),
+                labels = c('500k', '1mil')
             ) +
             xlab(xlab_str) +
             ylab(ylab_str) +

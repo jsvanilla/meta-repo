@@ -34,8 +34,8 @@
 33,TeX,74,asm-microbe-2020,https://github.com/kelly-sovacool/asm-microbe-2020,kelly-sovacool,https://github.com/kelly-sovacool,2020-09-03 20:31:48,Abstract & poster for ASM Microbe 2020
 34,Python,157,best-tally,https://github.com/kelly-sovacool/best-tally,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-18 19:09:58,Plotting the number of times my friends and I say “Pat is the best” during my PhD.
 35,Rebol,129,best-tally,https://github.com/kelly-sovacool/best-tally,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-18 19:09:58,Plotting the number of times my friends and I say “Pat is the best” during my PhD.
-36,Shell,4231,bf545_atac-seq_lab,https://github.com/kelly-sovacool/bf545_atac-seq_lab,kelly-sovacool,https://github.com/kelly-sovacool,2020-03-17 15:53:27,ATAC-seq lab for BIOINF545
-37,R,1119,bf545_atac-seq_lab,https://github.com/kelly-sovacool/bf545_atac-seq_lab,kelly-sovacool,https://github.com/kelly-sovacool,2020-03-17 15:53:27,ATAC-seq lab for BIOINF545
+36,Shell,4231,bf545_atac-seq_lab,https://github.com/kelly-sovacool/bf545_atac-seq_lab,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-30 17:46:08,ATAC-seq lab for BIOINF545
+37,R,1119,bf545_atac-seq_lab,https://github.com/kelly-sovacool/bf545_atac-seq_lab,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-30 17:46:08,ATAC-seq lab for BIOINF545
 38,Python,8651,bioinf-contest-2019,https://github.com/kelly-sovacool/bioinf-contest-2019,kelly-sovacool,https://github.com/kelly-sovacool,2019-02-10 07:09:22,
 39,Jupyter Notebook,366178,bioinf529-winter2019,https://github.com/kelly-sovacool/bioinf529-winter2019,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:41:55,
 40,Python,37941,bioinf529-winter2019,https://github.com/kelly-sovacool/bioinf529-winter2019,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:41:55,
@@ -68,26 +68,26 @@
 67,Perl,42,csurs,https://github.com/kelly-sovacool/csurs,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-29 14:47:34,Archive from my time working in Dr. Jaromczyk's CSURS lab at UK (Fall 2015 - Spring 2016).
 68,Python,2458,debug-unstable-seqs,https://github.com/kelly-sovacool/debug-unstable-seqs,kelly-sovacool,https://github.com/kelly-sovacool,2020-02-12 15:44:56,Debugging unstable behavior of the unique.seqs() mothur command
 69,Shell,995,debug-unstable-seqs,https://github.com/kelly-sovacool/debug-unstable-seqs,kelly-sovacool,https://github.com/kelly-sovacool,2020-02-12 15:44:56,Debugging unstable behavior of the unique.seqs() mothur command
-70,Python,339426,detectingGeneDuplicationEvents,https://github.com/kelly-sovacool/detectingGeneDuplicationEvents,kelly-sovacool,https://github.com/kelly-sovacool,2019-11-04 21:53:29,Build ortholog & paralog sets from whole transcriptomes with all-vs-all BLAST.
-71,Jupyter Notebook,10335,dmrr-submission-prep,https://github.com/kelly-sovacool/dmrr-submission-prep,kelly-sovacool,https://github.com/kelly-sovacool,2019-01-18 08:13:08,Prepare miRNA metadata for submission to the exRNA Data Coordination Center
-72,Python,21069,dmrr-submission-prep,https://github.com/kelly-sovacool/dmrr-submission-prep,kelly-sovacool,https://github.com/kelly-sovacool,2019-01-18 08:13:08,Prepare miRNA metadata for submission to the exRNA Data Coordination Center
-73,C++,144063,eecs402-fall2019,https://github.com/kelly-sovacool/eecs402-fall2019,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:41:23,Assignments for EECS402: Programming for Scientists & Engineers
-74,Makefile,2555,eecs402-fall2019,https://github.com/kelly-sovacool/eecs402-fall2019,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:41:23,Assignments for EECS402: Programming for Scientists & Engineers
-75,Shell,348,eecs402-fall2019,https://github.com/kelly-sovacool/eecs402-fall2019,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:41:23,Assignments for EECS402: Programming for Scientists & Engineers
-76,R,2075,foofactors,https://github.com/kelly-sovacool/foofactors,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:36:31,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
-77,R,983,fordogs,https://github.com/kelly-sovacool/fordogs,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:34:29,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
-78,R,4020,functional.redundancy,https://github.com/kelly-sovacool/functional.redundancy,kelly-sovacool,https://github.com/kelly-sovacool,2020-08-24 02:35:07,
-79,Python,3918,geo109-project,https://github.com/kelly-sovacool/geo109-project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:36:16,Lexington collision maps for GEO109
-80,Python,8705,gliomaMasterTFs,https://github.com/kelly-sovacool/gliomaMasterTFs,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:37,Identify master transcription factors in glioblastoma multiforme.
-81,R,4681,gliomaMasterTFs,https://github.com/kelly-sovacool/gliomaMasterTFs,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:37,Identify master transcription factors in glioblastoma multiforme.
-82,Shell,1353,gliomaMasterTFs,https://github.com/kelly-sovacool/gliomaMasterTFs,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:37,Identify master transcription factors in glioblastoma multiforme.
-83,R,1154,gwc-alumni-survey-2020,https://github.com/kelly-sovacool/gwc-alumni-survey-2020,kelly-sovacool,https://github.com/kelly-sovacool,2020-02-27 17:05:32,
-84,Python,828,gwc-alumni-survey-2020,https://github.com/kelly-sovacool/gwc-alumni-survey-2020,kelly-sovacool,https://github.com/kelly-sovacool,2020-02-27 17:05:32,
-85,Jupyter Notebook,3869,gwc3-capstone-winter2019,https://github.com/kelly-sovacool/gwc3-capstone-winter2019,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:36:16,"Girls Who Code capstone project by Gianna, Vibha, & Anisha for Winter 2019"
-86,Python,417,health-tracking,https://github.com/kelly-sovacool/health-tracking,kelly-sovacool,https://github.com/kelly-sovacool,2019-03-30 15:40:00,Tracking my headaches & other health data.
-87,Shell,595,hpc-config,https://github.com/kelly-sovacool/hpc-config,kelly-sovacool,https://github.com/kelly-sovacool,2020-06-10 20:13:58,Config files for Linux HPC accounts
-88,Jupyter Notebook,621,jupyter-ci-mwe,https://github.com/kelly-sovacool/jupyter-ci-mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-02 16:14:47,A minimal working example of using continuous integration to convert jupyter notebooks to PDFs.
-89,Shell,95,kelly-sovacool.github.io,https://github.com/kelly-sovacool/kelly-sovacool.github.io,kelly-sovacool,https://github.com/kelly-sovacool,2020-10-29 23:51:20,"My personal website, forked from the academicpages template."
+70,Shell,95,DEPRECATED_kelly-sovacool.github.io,https://github.com/kelly-sovacool/DEPRECATED_kelly-sovacool.github.io,kelly-sovacool,https://github.com/kelly-sovacool,2020-12-01 17:39:32,"My (old) personal website, forked from the academicpages template."
+71,Python,339426,detectingGeneDuplicationEvents,https://github.com/kelly-sovacool/detectingGeneDuplicationEvents,kelly-sovacool,https://github.com/kelly-sovacool,2019-11-04 21:53:29,Build ortholog & paralog sets from whole transcriptomes with all-vs-all BLAST.
+72,Jupyter Notebook,10335,dmrr-submission-prep,https://github.com/kelly-sovacool/dmrr-submission-prep,kelly-sovacool,https://github.com/kelly-sovacool,2019-01-18 08:13:08,Prepare miRNA metadata for submission to the exRNA Data Coordination Center
+73,Python,21069,dmrr-submission-prep,https://github.com/kelly-sovacool/dmrr-submission-prep,kelly-sovacool,https://github.com/kelly-sovacool,2019-01-18 08:13:08,Prepare miRNA metadata for submission to the exRNA Data Coordination Center
+74,C++,144063,eecs402-fall2019,https://github.com/kelly-sovacool/eecs402-fall2019,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:41:23,Assignments for EECS402: Programming for Scientists & Engineers
+75,Makefile,2555,eecs402-fall2019,https://github.com/kelly-sovacool/eecs402-fall2019,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:41:23,Assignments for EECS402: Programming for Scientists & Engineers
+76,Shell,348,eecs402-fall2019,https://github.com/kelly-sovacool/eecs402-fall2019,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:41:23,Assignments for EECS402: Programming for Scientists & Engineers
+77,R,2075,foofactors,https://github.com/kelly-sovacool/foofactors,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:36:31,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
+78,R,983,fordogs,https://github.com/kelly-sovacool/fordogs,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:34:29,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
+79,R,4020,functional.redundancy,https://github.com/kelly-sovacool/functional.redundancy,kelly-sovacool,https://github.com/kelly-sovacool,2020-08-24 02:35:07,
+80,Python,3918,geo109-project,https://github.com/kelly-sovacool/geo109-project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:36:16,Lexington collision maps for GEO109
+81,Python,8705,gliomaMasterTFs,https://github.com/kelly-sovacool/gliomaMasterTFs,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:37,Identify master transcription factors in glioblastoma multiforme.
+82,R,4681,gliomaMasterTFs,https://github.com/kelly-sovacool/gliomaMasterTFs,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:37,Identify master transcription factors in glioblastoma multiforme.
+83,Shell,1353,gliomaMasterTFs,https://github.com/kelly-sovacool/gliomaMasterTFs,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:37,Identify master transcription factors in glioblastoma multiforme.
+84,R,1154,gwc-alumni-survey-2020,https://github.com/kelly-sovacool/gwc-alumni-survey-2020,kelly-sovacool,https://github.com/kelly-sovacool,2020-02-27 17:05:32,
+85,Python,828,gwc-alumni-survey-2020,https://github.com/kelly-sovacool/gwc-alumni-survey-2020,kelly-sovacool,https://github.com/kelly-sovacool,2020-02-27 17:05:32,
+86,Jupyter Notebook,3869,gwc3-capstone-winter2019,https://github.com/kelly-sovacool/gwc3-capstone-winter2019,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:36:16,"Girls Who Code capstone project by Gianna, Vibha, & Anisha for Winter 2019"
+87,Python,417,health-tracking,https://github.com/kelly-sovacool/health-tracking,kelly-sovacool,https://github.com/kelly-sovacool,2019-03-30 15:40:00,Tracking my headaches & other health data.
+88,Shell,595,hpc-config,https://github.com/kelly-sovacool/hpc-config,kelly-sovacool,https://github.com/kelly-sovacool,2020-06-10 20:13:58,Config files for Linux HPC accounts
+89,Jupyter Notebook,621,jupyter-ci-mwe,https://github.com/kelly-sovacool/jupyter-ci-mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-02 16:14:47,A minimal working example of using continuous integration to convert jupyter notebooks to PDFs.
 90,Python,3138,lang-stats,https://github.com/kelly-sovacool/lang-stats,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-06 18:12:53,Collect & plot personal programming language statistics from GitHub repos
 91,TeX,89643,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2020-09-15 14:39:20,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
 92,Python,1074,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2020-09-15 14:39:20,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
@@ -101,9 +101,9 @@
 100,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-16 05:12:21,A meta-repository to organize my projects
 101,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-16 05:12:21,A meta-repository to organize my projects
 102,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-16 05:12:21,A meta-repository to organize my projects
-103,Python,11366,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-16 05:21:01,A meta-repository to organize my public projects.
-104,R,3405,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-16 05:21:01,A meta-repository to organize my public projects.
-105,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-16 05:21:01,A meta-repository to organize my public projects.
+103,Python,11366,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2020-12-01 12:58:56,A meta-repository to organize my public projects.
+104,R,3512,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2020-12-01 12:58:56,A meta-repository to organize my public projects.
+105,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2020-12-01 12:58:56,A meta-repository to organize my public projects.
 106,R,31712,micrbiol612,https://github.com/kelly-sovacool/micrbiol612,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:56,
 107,R,65581,miRNA-diff-expr,https://github.com/kelly-sovacool/miRNA-diff-expr,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 20:17:04,Differential expression analysis for miRNA sequence data
 108,Jupyter Notebook,13900,nih_rigor_workshop,https://github.com/kelly-sovacool/nih_rigor_workshop,kelly-sovacool,https://github.com/kelly-sovacool,2019-11-22 16:09:11,
@@ -125,107 +125,108 @@
 124,Python,1270,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 125,CSS,172,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 126,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-25 18:40:06,Setting goals & tracking progress for my projects
-127,R,63490,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-28 00:22:07,Having fun plotting my activity data from Strava!
-128,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-28 00:22:07,Having fun plotting my activity data from Strava!
-129,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-28 00:22:07,Having fun plotting my activity data from Strava!
-130,R,2605,tidytest,https://github.com/kelly-sovacool/tidytest,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:35:54,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
-131,Python,59605,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
-132,Shell,40703,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
-133,Python,304582,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-134,C++,111651,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-135,Ruby,22387,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-136,PHP,20560,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-137,JavaScript,15983,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-138,Perl,12856,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-139,R,2383,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-140,HTML,2129,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-141,CSS,866,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-142,Makefile,356,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-143,R,9752,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
-144,Makefile,349,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
-145,R,9871,documenting-R,https://github.com/SchlossLab/documenting-R,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:17,Materials for a code review on documenting R code.
-146,R,11848,exception-handling,https://github.com/SchlossLab/exception-handling,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:35,Materials for a code review on exception handling in R for lab meeting.
-147,R,6744,intro-testing-r,https://github.com/SchlossLab/intro-testing-r,SchlossLab,https://github.com/SchlossLab,2020-10-16 14:57:10,Introduction to Testing R Code
-148,R,140795,mikropml,https://github.com/SchlossLab/mikropml,SchlossLab,https://github.com/SchlossLab,2020-11-25 20:34:07,User-Friendly R Package for Supervised Machine Learning Pipelines
-149,Python,2993,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2020-11-24 17:28:11,Template for running mikRopML with Snakemake
-150,R,2714,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2020-11-24 17:28:11,Template for running mikRopML with Snakemake
-151,Shell,436,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2020-11-24 17:28:11,Template for running mikRopML with Snakemake
-152,R,10033,mothuR,https://github.com/SchlossLab/mothuR,SchlossLab,https://github.com/SchlossLab,2020-10-12 16:40:42,R package to work with mothur output files
-153,R,4007,mums2,https://github.com/SchlossLab/mums2,SchlossLab,https://github.com/SchlossLab,2020-09-04 15:20:43,An R package to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU).
-154,Python,8858,omu-prototype,https://github.com/SchlossLab/omu-prototype,SchlossLab,https://github.com/SchlossLab,2020-08-18 18:05:23,A prototype in Python to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU)
-155,R,898,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
-156,Python,374,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
-157,Python,67159,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2020-11-19 20:51:15,Analysis of the OptiFit algorithm in the Mothur software package
-158,TeX,23022,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2020-11-19 20:51:15,Analysis of the OptiFit algorithm in the Mothur software package
-159,R,10151,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2020-11-19 20:51:15,Analysis of the OptiFit algorithm in the Mothur software package
-160,Shell,9951,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2020-11-19 20:51:15,Analysis of the OptiFit algorithm in the Mothur software package
-161,HTML,18918,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2020-11-30 16:53:45,The website for the Schloss Lab at the University of Michigan
-162,SCSS,18118,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2020-11-30 16:53:45,The website for the Schloss Lab at the University of Michigan
-163,Ruby,7236,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2020-11-30 16:53:45,The website for the Schloss Lab at the University of Michigan
-164,CSS,3822,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2020-11-30 16:53:45,The website for the Schloss Lab at the University of Michigan
-165,R,8455,snakemake_riffomonas_tutorial,https://github.com/SchlossLab/snakemake_riffomonas_tutorial,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:47,A snakemake tutorial for make users
-166,Python,7964,snakemake_riffomonas_tutorial,https://github.com/SchlossLab/snakemake_riffomonas_tutorial,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:47,A snakemake tutorial for make users
-167,Makefile,2266,snakemake_riffomonas_tutorial,https://github.com/SchlossLab/snakemake_riffomonas_tutorial,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:47,A snakemake tutorial for make users
-168,Shell,1547,snakemake_riffomonas_tutorial,https://github.com/SchlossLab/snakemake_riffomonas_tutorial,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:47,A snakemake tutorial for make users
-169,Python,16961,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
-170,Shell,5316,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
-171,R,9158,machine-learning-pipelines-r,https://github.com/um-dang/machine-learning-pipelines-r,um-dang,https://github.com/um-dang,2020-09-03 23:51:30,Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data
-172,Python,661,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
-173,R,247,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
-174,Rebol,44,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
-175,R,12712,writing-functions-r,https://github.com/um-dang/writing-functions-r,um-dang,https://github.com/um-dang,2020-02-18 17:40:19,Introduction to writing functions in R
-176,Python,96898,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
-177,HTML,37091,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
-178,CSS,8633,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
-179,R,3468,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
-180,Makefile,3262,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
-181,JavaScript,1050,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
-182,Ruby,237,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
-183,Shell,220,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
-184,Python,84786,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
-185,HTML,39884,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
-186,CSS,9194,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
-187,R,4110,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
-188,Makefile,3509,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
-189,JavaScript,1050,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
-190,Ruby,237,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
-191,Shell,220,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
-192,Python,87645,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-193,HTML,54448,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-194,CSS,10012,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-195,R,4084,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-196,Makefile,3465,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-197,JavaScript,2623,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-198,Shell,898,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-199,Ruby,237,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-200,Python,87867,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-01-20 19:05:37,Software Carpentry workshop for WISE at U-M
-201,HTML,80761,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-01-20 19:05:37,Software Carpentry workshop for WISE at U-M
-202,CSS,10012,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-01-20 19:05:37,Software Carpentry workshop for WISE at U-M
-203,R,4084,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-01-20 19:05:37,Software Carpentry workshop for WISE at U-M
-204,Makefile,3465,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-01-20 19:05:37,Software Carpentry workshop for WISE at U-M
-205,JavaScript,2623,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-01-20 19:05:37,Software Carpentry workshop for WISE at U-M
-206,Shell,898,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-01-20 19:05:37,Software Carpentry workshop for WISE at U-M
-207,Ruby,237,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-01-20 19:05:37,Software Carpentry workshop for WISE at U-M
-208,Python,87867,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-24 16:47:46,
-209,HTML,80761,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-24 16:47:46,
-210,SCSS,5643,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-24 16:47:46,
-211,CSS,4369,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-24 16:47:46,
-212,R,4084,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-24 16:47:46,
-213,Makefile,3465,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-24 16:47:46,
-214,JavaScript,2623,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-24 16:47:46,
-215,Shell,898,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-24 16:47:46,
-216,Ruby,237,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-24 16:47:46,
-217,HTML,52916,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-11-20 12:53:12,
-218,Python,45143,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-11-20 12:53:12,
-219,SCSS,9171,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-11-20 12:53:12,
-220,R,4853,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-11-20 12:53:12,
-221,Makefile,4802,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-11-20 12:53:12,
-222,CSS,4369,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-11-20 12:53:12,
-223,JavaScript,1708,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-11-20 12:53:12,
-224,Ruby,550,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-11-20 12:53:12,
-225,Shell,492,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-11-20 12:53:12,
-226,SCSS,17315,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-11-30 05:14:24,UM Software and Data Carpentry Website
-227,HTML,12721,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-11-30 05:14:24,UM Software and Data Carpentry Website
-228,Python,11350,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-11-30 05:14:24,UM Software and Data Carpentry Website
-229,Ruby,7235,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-11-30 05:14:24,UM Software and Data Carpentry Website
-230,CSS,3822,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-11-30 05:14:24,UM Software and Data Carpentry Website
+127,R,63537,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-30 18:00:20,Having fun plotting my activity data from Strava!
+128,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-30 18:00:20,Having fun plotting my activity data from Strava!
+129,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-30 18:00:20,Having fun plotting my activity data from Strava!
+130,HTML,38979,test-distill,https://github.com/kelly-sovacool/test-distill,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-30 20:26:36,
+131,R,2605,tidytest,https://github.com/kelly-sovacool/tidytest,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:35:54,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
+132,Python,59605,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
+133,Shell,40703,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
+134,Python,304582,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+135,C++,111651,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+136,Ruby,22387,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+137,PHP,20560,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+138,JavaScript,15983,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+139,Perl,12856,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+140,R,2383,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+141,HTML,2129,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+142,CSS,866,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+143,Makefile,356,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
+144,R,9752,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
+145,Makefile,349,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
+146,R,9871,documenting-R,https://github.com/SchlossLab/documenting-R,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:17,Materials for a code review on documenting R code.
+147,R,11848,exception-handling,https://github.com/SchlossLab/exception-handling,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:35,Materials for a code review on exception handling in R for lab meeting.
+148,R,6744,intro-testing-r,https://github.com/SchlossLab/intro-testing-r,SchlossLab,https://github.com/SchlossLab,2020-10-16 14:57:10,Introduction to Testing R Code
+149,R,140795,mikropml,https://github.com/SchlossLab/mikropml,SchlossLab,https://github.com/SchlossLab,2020-12-01 12:59:50,User-Friendly R Package for Supervised Machine Learning Pipelines
+150,Python,2993,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2020-11-24 17:28:11,Template for running mikRopML with Snakemake
+151,R,2714,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2020-11-24 17:28:11,Template for running mikRopML with Snakemake
+152,Shell,436,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2020-11-24 17:28:11,Template for running mikRopML with Snakemake
+153,R,10033,mothuR,https://github.com/SchlossLab/mothuR,SchlossLab,https://github.com/SchlossLab,2020-10-12 16:40:42,R package to work with mothur output files
+154,R,4007,mums2,https://github.com/SchlossLab/mums2,SchlossLab,https://github.com/SchlossLab,2020-09-04 15:20:43,An R package to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU).
+155,Python,8858,omu-prototype,https://github.com/SchlossLab/omu-prototype,SchlossLab,https://github.com/SchlossLab,2020-08-18 18:05:23,A prototype in Python to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU)
+156,R,898,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
+157,Python,374,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
+158,Python,67136,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2020-12-01 16:48:48,Analysis of the OptiFit algorithm in the Mothur software package
+159,TeX,23022,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2020-12-01 16:48:48,Analysis of the OptiFit algorithm in the Mothur software package
+160,R,10193,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2020-12-01 16:48:48,Analysis of the OptiFit algorithm in the Mothur software package
+161,Shell,9951,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2020-12-01 16:48:48,Analysis of the OptiFit algorithm in the Mothur software package
+162,HTML,18918,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2020-12-01 16:13:59,The website for the Schloss Lab at the University of Michigan
+163,SCSS,18118,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2020-12-01 16:13:59,The website for the Schloss Lab at the University of Michigan
+164,Ruby,7236,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2020-12-01 16:13:59,The website for the Schloss Lab at the University of Michigan
+165,CSS,3822,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2020-12-01 16:13:59,The website for the Schloss Lab at the University of Michigan
+166,R,8455,snakemake_riffomonas_tutorial,https://github.com/SchlossLab/snakemake_riffomonas_tutorial,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:47,A snakemake tutorial for make users
+167,Python,7964,snakemake_riffomonas_tutorial,https://github.com/SchlossLab/snakemake_riffomonas_tutorial,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:47,A snakemake tutorial for make users
+168,Makefile,2266,snakemake_riffomonas_tutorial,https://github.com/SchlossLab/snakemake_riffomonas_tutorial,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:47,A snakemake tutorial for make users
+169,Shell,1547,snakemake_riffomonas_tutorial,https://github.com/SchlossLab/snakemake_riffomonas_tutorial,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:47,A snakemake tutorial for make users
+170,Python,16961,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
+171,Shell,5316,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
+172,R,9158,machine-learning-pipelines-r,https://github.com/um-dang/machine-learning-pipelines-r,um-dang,https://github.com/um-dang,2020-09-03 23:51:30,Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data
+173,Python,661,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
+174,R,247,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
+175,Rebol,44,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
+176,R,12712,writing-functions-r,https://github.com/um-dang/writing-functions-r,um-dang,https://github.com/um-dang,2020-11-30 18:27:06,Introduction to writing functions in R
+177,Python,96898,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
+178,HTML,37091,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
+179,CSS,8633,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
+180,R,3468,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
+181,Makefile,3262,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
+182,JavaScript,1050,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
+183,Ruby,237,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
+184,Shell,220,2018-02-26-umich-shapiro,https://github.com/UMSWC/2018-02-26-umich-shapiro,UMSWC,https://github.com/UMSWC,2019-08-27 14:08:29,
+185,Python,84786,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
+186,HTML,39884,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
+187,CSS,9194,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
+188,R,4110,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
+189,Makefile,3509,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
+190,JavaScript,1050,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
+191,Ruby,237,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
+192,Shell,220,2019-01-07-umich-wise,https://github.com/UMSWC/2019-01-07-umich-wise,UMSWC,https://github.com/UMSWC,2019-12-02 18:27:07,
+193,Python,87645,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+194,HTML,54448,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+195,CSS,10012,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+196,R,4084,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+197,Makefile,3465,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+198,JavaScript,2623,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+199,Shell,898,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+200,Ruby,237,2019-09-05-umich,https://github.com/UMSWC/2019-09-05-umich,UMSWC,https://github.com/UMSWC,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+201,Python,87867,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+202,HTML,80761,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+203,CSS,10012,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+204,R,4084,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+205,Makefile,3465,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+206,JavaScript,2623,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+207,Shell,898,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+208,Ruby,237,2020-01-06-UMich-WISE,https://github.com/UMSWC/2020-01-06-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+209,Python,87867,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-12-01 18:58:22,
+210,HTML,80761,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-12-01 18:58:22,
+211,SCSS,5643,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-12-01 18:58:22,
+212,CSS,4369,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-12-01 18:58:22,
+213,R,4084,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-12-01 18:58:22,
+214,Makefile,3465,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-12-01 18:58:22,
+215,JavaScript,2623,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-12-01 18:58:22,
+216,Shell,898,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-12-01 18:58:22,
+217,Ruby,237,2021-01-11-UMich-WISE,https://github.com/UMSWC/2021-01-11-UMich-WISE,UMSWC,https://github.com/UMSWC,2020-12-01 18:58:22,
+218,HTML,52916,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-12-01 16:23:20,
+219,Python,45143,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-12-01 16:23:20,
+220,SCSS,9171,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-12-01 16:23:20,
+221,R,4853,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-12-01 16:23:20,
+222,Makefile,4802,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-12-01 16:23:20,
+223,CSS,4369,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-12-01 16:23:20,
+224,JavaScript,1708,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-12-01 16:23:20,
+225,Ruby,550,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-12-01 16:23:20,
+226,Shell,492,curriculum,https://github.com/UMSWC/curriculum,UMSWC,https://github.com/UMSWC,2020-12-01 16:23:20,
+227,SCSS,17315,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-12-01 16:14:05,UM Software and Data Carpentry Website
+228,HTML,12721,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-12-01 16:14:05,UM Software and Data Carpentry Website
+229,Python,11350,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-12-01 16:14:05,UM Software and Data Carpentry Website
+230,Ruby,7235,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-12-01 16:14:05,UM Software and Data Carpentry Website
+231,CSS,3822,umswc.github.io,https://github.com/UMSWC/umswc.github.io,UMSWC,https://github.com/UMSWC,2020-12-01 16:14:05,UM Software and Data Carpentry Website
