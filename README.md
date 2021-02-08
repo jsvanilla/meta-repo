@@ -12,13 +12,14 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
+| [mothur.github.io](https://github.com/kelly-sovacool/mothur.github.io) | wiki for the mothur software package | [kelly-sovacool](https://github.com/kelly-sovacool) | CSS, HTML, Shell, JavaScript, R, Ruby |
+| [curriculum](https://github.com/UMSWC/curriculum) | Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices. | [UMSWC](https://github.com/UMSWC) | HTML, Python, SCSS, R, Makefile, CSS, JavaScript, Ruby, Shell |
+| [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
 | [curriculum-notebooks](https://github.com/GWC-DCMB/curriculum-notebooks) | Jupyter notebooks for our Summer Experience and Club Curriculum. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
-| [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
-| [curriculum](https://github.com/UMSWC/curriculum) | Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices. | [UMSWC](https://github.com/UMSWC) | HTML, Python, SCSS, R, Makefile, CSS, JavaScript, Ruby, Shell |
 | [um-dang.github.io](https://github.com/um-dang/um-dang.github.io) | Website for the Data Analysis Networking Group at U-M. | [um-dang](https://github.com/um-dang) |  |
 | [2021-01-11-UMich-WISE-online](https://github.com/UMSWC/2021-01-11-UMich-WISE-online) | Software Carpentry Workshop for the U-M Women in Science & Engineering | [UMSWC](https://github.com/UMSWC) | HTML, Python, SCSS, Makefile, R, CSS, JavaScript, Shell, Ruby |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, created with {distill} by RStudio | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
