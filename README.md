@@ -12,9 +12,10 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
+| [functional.redundancy](https://github.com/kelly-sovacool/functional.redundancy) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | U-M Carpentries website | [UMSWC](https://github.com/UMSWC) | SCSS, HTML, Python, Ruby, CSS |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [mothur.github.io](https://github.com/kelly-sovacool/mothur.github.io) | wiki for the mothur software package | [kelly-sovacool](https://github.com/kelly-sovacool) | CSS, HTML, Shell, JavaScript, R, Ruby |
 | [curriculum](https://github.com/UMSWC/curriculum) | Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices. | [UMSWC](https://github.com/UMSWC) | HTML, Python, SCSS, R, Makefile, CSS, JavaScript, Ruby, Shell |
 | [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
@@ -43,7 +44,6 @@ A meta-repository to organize my public projects.
 | [tidy-eval](https://github.com/SchlossLab/tidy-eval) | A brief introduction to tidy evaluation | [SchlossLab](https://github.com/SchlossLab) |  |
 | [acnh](https://github.com/kelly-sovacool/acnh) | Animal Crossing: New Horizons | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r) | Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data | [um-dang](https://github.com/um-dang) | R |
-| [functional.redundancy](https://github.com/kelly-sovacool/functional.redundancy) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 
 ### Stale
 | Repository | Description | Owner | Language(s) |
