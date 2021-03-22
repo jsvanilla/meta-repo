@@ -12,11 +12,12 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | HTML, R, Python, Shell |
-| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python |
+| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
+| [gh-tips](https://github.com/SchlossLab/gh-tips) | Tips & tricks for making the most of GitHub | [SchlossLab](https://github.com/SchlossLab) | HTML, TeX |
+| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python |
 | [mothuR](https://github.com/SchlossLab/mothuR) | R package to work with mothur output files | [SchlossLab](https://github.com/SchlossLab) | R |
-| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, Ruby, CSS |
 | [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
@@ -66,6 +67,7 @@ A meta-repository to organize my public projects.
 ### Archive
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [prelim](https://github.com/kelly-sovacool/prelim) | My abstract, proposal, and presentation for the preliminary exam for the UMich Bioinformatics PhD program. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, R, Shell |
 | [un-report](https://github.com/kelly-sovacool/un-report) | example repo for teaching git & github  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [DEPRECATED_kelly-sovacool.github.io](https://github.com/kelly-sovacool/DEPRECATED_kelly-sovacool.github.io) | My (old) personal website, forked from the academicpages template. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell |
 | [bf545_atac-seq_lab](https://github.com/kelly-sovacool/bf545_atac-seq_lab) | ATAC-seq lab for BIOINF545 | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, R |
