@@ -81,7 +81,9 @@ class Projects:
     def from_username(cls, username):
         return cls(login(username=username))
 
-    def _get_repos(self, github, include_private=False):
+    def _get_repos(
+        self, github, include_private=False, date_filename="data/last_updated.txt"
+    ):
         print("Collecting repos:")
         user = github.get_user(github.get_user().login)
         prev_repo_owner = ""
@@ -131,7 +133,7 @@ class Projects:
         last_updated_date = max(
             repo_list[0].last_modified for status, repo_list in self.repos.items()
         )
-        with open("data/last_updated.txt", "w") as outfile:
+        with open(date_filename, "w") as outfile:
             outfile.write(last_updated_date)
 
     def _get_gists(self, github, include_private=False):
