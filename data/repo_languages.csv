@@ -92,8 +92,8 @@
 91,Shell,595,hpc-config,https://github.com/kelly-sovacool/hpc-config,kelly-sovacool,https://github.com/kelly-sovacool,2020-06-10 20:13:58,Config files for Linux HPC accounts
 92,Jupyter Notebook,621,jupyter-ci-mwe,https://github.com/kelly-sovacool/jupyter-ci-mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-02 16:14:47,A minimal working example of using continuous integration to convert jupyter notebooks to PDFs.
 93,Python,3138,lang-stats,https://github.com/kelly-sovacool/lang-stats,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-06 18:12:53,Collect & plot personal programming language statistics from GitHub repos
-94,TeX,90519,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-03-13 03:12:21,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
-95,Python,1071,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-03-13 03:12:21,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
+94,TeX,90665,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-15 18:05:47,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
+95,Python,1071,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-15 18:05:47,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
 96,TeX,8476,lipschutz-award,https://github.com/kelly-sovacool/lipschutz-award,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-10 21:06:30,Statement for the Susan Lipschutz Award
 97,Python,983,lipschutz-award,https://github.com/kelly-sovacool/lipschutz-award,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-10 21:06:30,Statement for the Susan Lipschutz Award
 98,R,258205,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
@@ -101,12 +101,12 @@
 100,Python,3776,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 101,TeX,2476,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 102,Shell,2587,mac-config,https://github.com/kelly-sovacool/mac-config,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-20 15:20:15,
-103,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-12 05:14:50,A meta-repository to organize my projects
-104,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-12 05:14:50,A meta-repository to organize my projects
-105,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-12 05:14:50,A meta-repository to organize my projects
-106,Python,11366,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-12 05:19:31,A meta-repository to organize my public projects.
-107,R,3464,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-12 05:19:31,A meta-repository to organize my public projects.
-108,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-12 05:19:31,A meta-repository to organize my public projects.
+103,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-19 05:16:10,A meta-repository to organize my projects
+104,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-19 05:16:10,A meta-repository to organize my projects
+105,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-19 05:16:10,A meta-repository to organize my projects
+106,Python,11892,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-15 17:38:21,A meta-repository to organize my public projects.
+107,R,3464,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-15 17:38:21,A meta-repository to organize my public projects.
+108,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-15 17:38:21,A meta-repository to organize my public projects.
 109,R,31712,micrbiol612,https://github.com/kelly-sovacool/micrbiol612,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:56,
 110,R,65581,miRNA-diff-expr,https://github.com/kelly-sovacool/miRNA-diff-expr,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 20:17:04,Differential expression analysis for miRNA sequence data
 111,CSS,374815,mothur.github.io,https://github.com/kelly-sovacool/mothur.github.io,kelly-sovacool,https://github.com/kelly-sovacool,2021-02-05 17:32:07,wiki for the mothur software package
@@ -134,10 +134,10 @@
 133,Python,1270,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 134,CSS,172,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 135,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-13 16:36:35,Setting goals & tracking progress for my projects
-136,HTML,7910679,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-15 11:30:25,Having fun plotting my activity data from Strava!
-137,R,68654,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-15 11:30:25,Having fun plotting my activity data from Strava!
-138,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-15 11:30:25,Having fun plotting my activity data from Strava!
-139,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-15 11:30:25,Having fun plotting my activity data from Strava!
+136,HTML,7910679,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-18 17:38:12,Having fun plotting my activity data from Strava!
+137,R,68654,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-18 17:38:12,Having fun plotting my activity data from Strava!
+138,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-18 17:38:12,Having fun plotting my activity data from Strava!
+139,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-04-18 17:38:12,Having fun plotting my activity data from Strava!
 140,R,2605,tidytest,https://github.com/kelly-sovacool/tidytest,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:35:54,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
 141,Python,59605,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
 142,Shell,40703,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
@@ -171,11 +171,11 @@
 170,Shell,56108,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-04-10 13:52:15,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
 171,TeX,11101,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-04-10 13:52:15,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
 172,Python,4446,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-04-10 13:52:15,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
-173,R,149065,mikropml,https://github.com/SchlossLab/mikropml,SchlossLab,https://github.com/SchlossLab,2021-04-14 21:10:26,User-Friendly R Package for Supervised Machine Learning Pipelines
+173,R,149065,mikropml,https://github.com/SchlossLab/mikropml,SchlossLab,https://github.com/SchlossLab,2021-04-16 16:17:32,User-Friendly R Package for Supervised Machine Learning Pipelines
 174,Python,3826,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-04-08 19:52:01,Template for running mikRopML with Snakemake
 175,R,3450,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-04-08 19:52:01,Template for running mikRopML with Snakemake
 176,Shell,436,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-04-08 19:52:01,Template for running mikRopML with Snakemake
-177,R,10591,mothuR,https://github.com/SchlossLab/mothuR,SchlossLab,https://github.com/SchlossLab,2021-04-13 17:25:04,R package to work with mothur output files
+177,R,10591,mothuR,https://github.com/SchlossLab/mothuR,SchlossLab,https://github.com/SchlossLab,2021-04-16 16:18:06,R package to work with mothur output files
 178,R,4007,mums2,https://github.com/SchlossLab/mums2,SchlossLab,https://github.com/SchlossLab,2020-09-04 15:20:43,An R package to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU).
 179,Python,8858,omu-prototype,https://github.com/SchlossLab/omu-prototype,SchlossLab,https://github.com/SchlossLab,2020-08-18 18:05:23,A prototype in Python to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU)
 180,R,898,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
@@ -194,11 +194,11 @@
 193,Shell,1547,snakemake_riffomonas_tutorial,https://github.com/SchlossLab/snakemake_riffomonas_tutorial,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:47,A snakemake tutorial for make users
 194,Python,16961,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
 195,Shell,5316,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
-196,R,171735,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-14 16:54:10,
-197,Shell,16703,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-14 16:54:10,
-198,TeX,8782,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-14 16:54:10,
-199,Makefile,5833,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-14 16:54:10,
-200,Python,5328,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-14 16:54:10,
+196,R,172670,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-15 18:58:15,
+197,Shell,16703,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-15 18:58:15,
+198,TeX,12665,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-15 18:58:15,
+199,Makefile,5833,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-15 18:58:15,
+200,Python,5328,Tomkovich_CDI_clinical_samples,https://github.com/tomkoset/Tomkovich_CDI_clinical_samples,tomkoset,https://github.com/tomkoset,2021-04-15 18:58:15,
 201,R,9158,machine-learning-pipelines-r,https://github.com/um-dang/machine-learning-pipelines-r,um-dang,https://github.com/um-dang,2020-09-03 23:51:30,Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data
 202,Python,661,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
 203,R,247,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
