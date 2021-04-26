@@ -12,10 +12,10 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | HTML, R, Python, Shell |
-| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
-| [mothuR](https://github.com/SchlossLab/mothuR) | R package to work with mothur output files | [SchlossLab](https://github.com/SchlossLab) | R |
 | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python |
+| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
+| [mothuR](https://github.com/SchlossLab/mothuR) | R package to work with mothur output files | [SchlossLab](https://github.com/SchlossLab) | R |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, CSS, Ruby |
 | [umswc.github.io](https://github.com/UMSWC/umswc.github.io) | U-M Carpentries website | [UMSWC](https://github.com/UMSWC) | SCSS, HTML, Python, Ruby, CSS |
 | [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
@@ -95,6 +95,7 @@ A meta-repository to organize my public projects.
 ### Gists
 | Description |
 |---|
+| [Maintaining R packages | Schloss Lab Code Club 2021-04-19](https://gist.github.com/2a95355b6566cceb8c2612100f58fa81) |
 | [How to write a function to add multiple ggproto objects to a ggplot](https://gist.github.com/c7fb93f863a8c69f5f4707a95bd09fe2) |
 | [Google Drive file I/O with Colab Jupyter notebooks](https://gist.github.com/c33b64b70164be37d75bd40c9b56b498) |
 | [Practice with custom conditions in R](https://gist.github.com/9c14772c5e47b9cead734fe69c408191) |
