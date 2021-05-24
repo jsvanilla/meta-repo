@@ -82,7 +82,11 @@ class Projects:
         return cls(login(username=username))
 
     def _get_repos(
-        self, github, include_private=False, date_filename="data/last_updated.txt"
+        self,
+        github,
+        include_private=False,
+        exclude_forks=True,
+        date_filename="data/last_updated.txt",
     ):
         print("Collecting repos:")
         user = github.get_user(github.get_user().login)
@@ -95,7 +99,9 @@ class Projects:
             # only count repositories the user owns or contributes to
             is_owner = gh_repo.owner == user
             is_contributor = user in gh_repo.get_contributors()
-            if is_owner or is_contributor:
+            # exclude forks by default
+            exclude_fork = exclude_forks and gh_repo.fork
+            if (is_owner or is_contributor) and not exclude_fork:
                 print(f"\t\t{gh_repo.name}")
                 languages = (
                     gh_repo.get_languages()
