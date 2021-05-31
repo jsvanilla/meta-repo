@@ -91,12 +91,12 @@
 90,Python,3776,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 91,TeX,2476,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 92,Shell,2587,mac-config,https://github.com/kelly-sovacool/mac-config,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-20 15:20:15,
-93,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 05:31:23,A meta-repository to organize my projects
-94,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 05:31:23,A meta-repository to organize my projects
-95,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 05:31:23,A meta-repository to organize my projects
-96,Python,11892,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 14:00:39,A meta-repository to organize my public projects.
-97,R,3464,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 14:00:39,A meta-repository to organize my public projects.
-98,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 14:00:39,A meta-repository to organize my public projects.
+93,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-31 06:52:52,A meta-repository to organize my projects
+94,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-31 06:52:52,A meta-repository to organize my projects
+95,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-31 06:52:52,A meta-repository to organize my projects
+96,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 14:28:35,A meta-repository to organize my public projects.
+97,R,3464,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 14:28:35,A meta-repository to organize my public projects.
+98,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 14:28:35,A meta-repository to organize my public projects.
 99,R,31712,micrbiol612,https://github.com/kelly-sovacool/micrbiol612,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:56,
 100,R,65581,miRNA-diff-expr,https://github.com/kelly-sovacool/miRNA-diff-expr,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 20:17:04,Differential expression analysis for miRNA sequence data
 101,Jupyter Notebook,13900,nih_rigor_workshop,https://github.com/kelly-sovacool/nih_rigor_workshop,kelly-sovacool,https://github.com/kelly-sovacool,2019-11-22 16:09:11,
@@ -117,11 +117,11 @@
 116,Python,624,snakemake_hpc_mwe,https://github.com/kelly-sovacool/snakemake_hpc_mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-09-04 16:48:30,A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM.
 117,Python,1270,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 118,CSS,172,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
-119,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-21 03:55:36,Setting goals & tracking progress for my projects
-120,HTML,7910679,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-23 18:04:35,Having fun plotting my activity data from Strava!
-121,R,68654,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-23 18:04:35,Having fun plotting my activity data from Strava!
-122,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-23 18:04:35,Having fun plotting my activity data from Strava!
-123,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-23 18:04:35,Having fun plotting my activity data from Strava!
+119,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 16:10:41,Setting goals & tracking progress for my projects
+120,HTML,7910679,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-30 19:02:48,Having fun plotting my activity data from Strava!
+121,R,68654,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-30 19:02:48,Having fun plotting my activity data from Strava!
+122,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-30 19:02:48,Having fun plotting my activity data from Strava!
+123,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-30 19:02:48,Having fun plotting my activity data from Strava!
 124,R,2605,tidytest,https://github.com/kelly-sovacool/tidytest,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:35:54,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
 125,Python,59605,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
 126,Shell,40703,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
