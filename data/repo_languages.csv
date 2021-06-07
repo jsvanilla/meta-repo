@@ -13,8 +13,8 @@
 12,Python,4098,challengeQuestions,https://github.com/GWC-DCMB/challengeQuestions,GWC-DCMB,https://github.com/GWC-DCMB,2020-01-05 01:12:25,Jupyter notebooks of challenge questions for learners.
 13,Jupyter Notebook,13105,codeDemos,https://github.com/GWC-DCMB/codeDemos,GWC-DCMB,https://github.com/GWC-DCMB,2019-12-03 23:13:01,Stand-alone Python coding demos.
 14,Python,2761,codeDemos,https://github.com/GWC-DCMB/codeDemos,GWC-DCMB,https://github.com/GWC-DCMB,2019-12-03 23:13:01,Stand-alone Python coding demos.
-15,Jupyter Notebook,104082,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-01-29 20:34:34,Jupyter notebooks for our Summer Experience and Club Curriculum.
-16,Python,2427,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-01-29 20:34:34,Jupyter notebooks for our Summer Experience and Club Curriculum.
+15,Jupyter Notebook,104082,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-06-04 16:31:54,Jupyter notebooks for our Summer Experience and Club Curriculum.
+16,Python,2427,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-06-04 16:31:54,Jupyter notebooks for our Summer Experience and Club Curriculum.
 17,R,1154,gwc-alumni-survey-2020,https://github.com/GWC-DCMB/gwc-alumni-survey-2020,GWC-DCMB,https://github.com/GWC-DCMB,2021-05-13 23:52:43,
 18,Python,828,gwc-alumni-survey-2020,https://github.com/GWC-DCMB/gwc-alumni-survey-2020,GWC-DCMB,https://github.com/GWC-DCMB,2021-05-13 23:52:43,
 19,Python,16077,GWC-DCMB,https://github.com/GWC-DCMB/GWC-DCMB,GWC-DCMB,https://github.com/GWC-DCMB,2021-04-30 18:21:08,A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB.
@@ -91,12 +91,12 @@
 90,Python,3776,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 91,TeX,2476,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 92,Shell,2587,mac-config,https://github.com/kelly-sovacool/mac-config,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-20 15:20:15,
-93,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-31 06:52:52,A meta-repository to organize my projects
-94,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-31 06:52:52,A meta-repository to organize my projects
-95,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-31 06:52:52,A meta-repository to organize my projects
-96,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 14:28:35,A meta-repository to organize my public projects.
-97,R,3464,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 14:28:35,A meta-repository to organize my public projects.
-98,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 14:28:35,A meta-repository to organize my public projects.
+93,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-07 06:54:57,A meta-repository to organize my projects
+94,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-07 06:54:57,A meta-repository to organize my projects
+95,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-07 06:54:57,A meta-repository to organize my projects
+96,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-31 07:02:31,A meta-repository to organize my public projects.
+97,R,3464,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-31 07:02:31,A meta-repository to organize my public projects.
+98,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-31 07:02:31,A meta-repository to organize my public projects.
 99,R,31712,micrbiol612,https://github.com/kelly-sovacool/micrbiol612,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:56,
 100,R,65581,miRNA-diff-expr,https://github.com/kelly-sovacool/miRNA-diff-expr,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 20:17:04,Differential expression analysis for miRNA sequence data
 101,Jupyter Notebook,13900,nih_rigor_workshop,https://github.com/kelly-sovacool/nih_rigor_workshop,kelly-sovacool,https://github.com/kelly-sovacool,2019-11-22 16:09:11,
@@ -117,11 +117,11 @@
 116,Python,624,snakemake_hpc_mwe,https://github.com/kelly-sovacool/snakemake_hpc_mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-09-04 16:48:30,A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM.
 117,Python,1270,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 118,CSS,172,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
-119,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-24 16:10:41,Setting goals & tracking progress for my projects
-120,HTML,7910679,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-30 19:02:48,Having fun plotting my activity data from Strava!
-121,R,68654,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-30 19:02:48,Having fun plotting my activity data from Strava!
-122,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-30 19:02:48,Having fun plotting my activity data from Strava!
-123,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-05-30 19:02:48,Having fun plotting my activity data from Strava!
+119,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-03 14:07:18,Setting goals & tracking progress for my projects
+120,HTML,7910679,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-06 18:41:56,Having fun plotting my activity data from Strava!
+121,R,68654,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-06 18:41:56,Having fun plotting my activity data from Strava!
+122,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-06 18:41:56,Having fun plotting my activity data from Strava!
+123,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-06 18:41:56,Having fun plotting my activity data from Strava!
 124,R,2605,tidytest,https://github.com/kelly-sovacool/tidytest,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:35:54,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
 125,Python,59605,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
 126,Shell,40703,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
@@ -163,10 +163,10 @@
 162,Python,8858,omu-prototype,https://github.com/SchlossLab/omu-prototype,SchlossLab,https://github.com/SchlossLab,2020-08-18 18:05:23,A prototype in Python to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU)
 163,R,898,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
 164,Python,374,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
-165,Python,74751,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2021-05-20 21:56:58,Benchmarking the OptiFit algorithm in mothur
-166,TeX,59996,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2021-05-20 21:56:58,Benchmarking the OptiFit algorithm in mothur
-167,R,25696,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2021-05-20 21:56:58,Benchmarking the OptiFit algorithm in mothur
-168,Shell,2383,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2021-05-20 21:56:58,Benchmarking the OptiFit algorithm in mothur
+165,Python,74751,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2021-06-02 15:12:33,Benchmarking the OptiFit algorithm in mothur
+166,TeX,59996,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2021-06-02 15:12:33,Benchmarking the OptiFit algorithm in mothur
+167,R,26873,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2021-06-02 15:12:33,Benchmarking the OptiFit algorithm in mothur
+168,Shell,2383,OptiFitAnalysis,https://github.com/SchlossLab/OptiFitAnalysis,SchlossLab,https://github.com/SchlossLab,2021-06-02 15:12:33,Benchmarking the OptiFit algorithm in mothur
 169,HTML,18918,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-05-18 16:15:54,The website for the Schloss Lab at the University of Michigan
 170,SCSS,18118,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-05-18 16:15:54,The website for the Schloss Lab at the University of Michigan
 171,CSS,3822,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-05-18 16:15:54,The website for the Schloss Lab at the University of Michigan

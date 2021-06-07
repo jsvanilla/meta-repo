@@ -12,6 +12,7 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | HTML, R, Python, Shell |
+| [curriculum-notebooks](https://github.com/GWC-DCMB/curriculum-notebooks) | Jupyter notebooks for our Summer Experience and Club Curriculum. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [intro-curriculum-r](https://github.com/UMCarpentries/intro-curriculum-r) | Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices. | [UMCarpentries](https://github.com/UMCarpentries) | HTML, Python, SCSS, TeX, R, Makefile, CSS, JavaScript, Ruby, Shell |
 | [schtools](https://github.com/SchlossLab/schtools) | Schloss Lab Tools for Reproducible Microbiome Research 💩 | [SchlossLab](https://github.com/SchlossLab) | R |
@@ -29,13 +30,12 @@ A meta-repository to organize my public projects.
 | [code-club_stat-summary](https://github.com/kelly-sovacool/code-club_stat-summary) | Nick's code club on using stat_summary with ggplot2 | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [gh-tips](https://github.com/SchlossLab/gh-tips) | Tips & tricks for making the most of GitHub | [SchlossLab](https://github.com/SchlossLab) | HTML, TeX |
-| [curriculum-notebooks](https://github.com/GWC-DCMB/curriculum-notebooks) | Jupyter notebooks for our Summer Experience and Club Curriculum. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [tcf-words](https://github.com/c-andy-martin/tcf-words) | TCF Overhead Words | [c-andy-martin](https://github.com/c-andy-martin) |  |
-| [snakemake-Rscript-log-mwe](https://github.com/kelly-sovacool/snakemake-Rscript-log-mwe) | A minimal working example of using Snakemake log files with R scripts | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R |
 
 ### Stale
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [snakemake-Rscript-log-mwe](https://github.com/kelly-sovacool/snakemake-Rscript-log-mwe) | A minimal working example of using Snakemake log files with R scripts | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R |
 | [Rcpp.practice](https://github.com/kelly-sovacool/Rcpp.practice) | Practice using Rcpp | [kelly-sovacool](https://github.com/kelly-sovacool) | C++, R |
 | [repro-packs](https://github.com/um-dang/repro-packs) | Organizing projects for reproducibility and headache prevention. | [um-dang](https://github.com/um-dang) | Python, R, Rebol |
 | [loops-apply-r](https://github.com/um-dang/loops-apply-r) | Looping in R: for loops & the apply family  | [um-dang](https://github.com/um-dang) |  |
