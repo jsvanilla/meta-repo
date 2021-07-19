@@ -8,7 +8,7 @@
 7,Ruby,237,git_update,https://github.com/akhagan/git_update,akhagan,https://github.com/akhagan,2019-07-01 13:18:47,Updating SWC git lessons with the puzzle analogy
 8,Shell,220,git_update,https://github.com/akhagan/git_update,akhagan,https://github.com/akhagan,2019-07-01 13:18:47,Updating SWC git lessons with the puzzle analogy
 9,Jupyter Notebook,4368,PyCon_2019,https://github.com/GabrielleRab/PyCon_2019,GabrielleRab,https://github.com/GabrielleRab,2019-05-29 16:49:11,Repository for PyCon 2019 Education Summit Mini-Sprint: Workbooks that teach Python through scientific data exploration
-10,Jupyter Notebook,14698,CapstoneProject,https://github.com/GWC-DCMB/CapstoneProject,GWC-DCMB,https://github.com/GWC-DCMB,2021-03-18 22:10:05,Capstone Project datasets & instructions.
+10,Jupyter Notebook,14698,CapstoneProject,https://github.com/GWC-DCMB/CapstoneProject,GWC-DCMB,https://github.com/GWC-DCMB,2021-07-15 19:06:05,Capstone Project datasets & instructions.
 11,Jupyter Notebook,27645,challengeQuestions,https://github.com/GWC-DCMB/challengeQuestions,GWC-DCMB,https://github.com/GWC-DCMB,2020-01-05 01:12:25,Jupyter notebooks of challenge questions for learners.
 12,Python,4098,challengeQuestions,https://github.com/GWC-DCMB/challengeQuestions,GWC-DCMB,https://github.com/GWC-DCMB,2020-01-05 01:12:25,Jupyter notebooks of challenge questions for learners.
 13,Jupyter Notebook,13105,codeDemos,https://github.com/GWC-DCMB/codeDemos,GWC-DCMB,https://github.com/GWC-DCMB,2019-12-03 23:13:01,Stand-alone Python coding demos.
@@ -95,12 +95,12 @@
 94,Python,3776,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 95,TeX,2476,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 96,Shell,2587,mac-config,https://github.com/kelly-sovacool/mac-config,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-20 15:20:15,
-97,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-05 05:12:46,A meta-repository to organize my projects
-98,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-05 05:12:46,A meta-repository to organize my projects
-99,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-05 05:12:46,A meta-repository to organize my projects
-100,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-05 05:26:13,A meta-repository to organize my public projects.
-101,R,3464,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-05 05:26:13,A meta-repository to organize my public projects.
-102,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-05 05:26:13,A meta-repository to organize my public projects.
+97,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-19 05:12:42,A meta-repository to organize my projects
+98,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-19 05:12:42,A meta-repository to organize my projects
+99,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-19 05:12:42,A meta-repository to organize my projects
+100,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-12 05:24:43,A meta-repository to organize my public projects.
+101,R,3464,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-12 05:24:43,A meta-repository to organize my public projects.
+102,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-12 05:24:43,A meta-repository to organize my public projects.
 103,R,31712,micrbiol612,https://github.com/kelly-sovacool/micrbiol612,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:56,
 104,R,65581,miRNA-diff-expr,https://github.com/kelly-sovacool/miRNA-diff-expr,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 20:17:04,Differential expression analysis for miRNA sequence data
 105,Jupyter Notebook,13900,nih_rigor_workshop,https://github.com/kelly-sovacool/nih_rigor_workshop,kelly-sovacool,https://github.com/kelly-sovacool,2019-11-22 16:09:11,
@@ -121,11 +121,11 @@
 120,Python,624,snakemake_hpc_mwe,https://github.com/kelly-sovacool/snakemake_hpc_mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-09-04 16:48:30,A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM.
 121,Python,1270,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 122,CSS,172,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
-123,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-01 02:32:08,Setting goals & tracking progress for my projects
-124,HTML,7910679,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-11 17:38:11,Having fun plotting my activity data from Strava!
-125,R,68654,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-11 17:38:11,Having fun plotting my activity data from Strava!
-126,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-11 17:38:11,Having fun plotting my activity data from Strava!
-127,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-11 17:38:11,Having fun plotting my activity data from Strava!
+123,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-17 04:41:15,Setting goals & tracking progress for my projects
+124,HTML,7910679,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-18 17:39:45,Having fun plotting my activity data from Strava!
+125,R,68654,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-18 17:39:45,Having fun plotting my activity data from Strava!
+126,Python,2475,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-18 17:39:45,Having fun plotting my activity data from Strava!
+127,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-18 17:39:45,Having fun plotting my activity data from Strava!
 128,R,2605,tidytest,https://github.com/kelly-sovacool/tidytest,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-29 04:35:54,Practice from Building Tidy Tools workshop at rstudio::conf(2020)
 129,Python,59605,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
 130,Shell,40703,tiger_salamander_project,https://github.com/kelly-sovacool/tiger_salamander_project,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-19 22:04:47,SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project.
@@ -167,15 +167,15 @@
 166,Python,8858,omu-prototype,https://github.com/SchlossLab/omu-prototype,SchlossLab,https://github.com/SchlossLab,2020-08-18 18:05:23,A prototype in Python to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU)
 167,R,898,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
 168,Python,374,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
-169,HTML,18918,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-06-22 20:17:55,The website for the Schloss Lab at the University of Michigan
-170,SCSS,18118,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-06-22 20:17:55,The website for the Schloss Lab at the University of Michigan
-171,CSS,3822,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-06-22 20:17:55,The website for the Schloss Lab at the University of Michigan
-172,Ruby,50,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-06-22 20:17:55,The website for the Schloss Lab at the University of Michigan
+169,HTML,18918,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-07-13 13:18:17,The website for the Schloss Lab at the University of Michigan
+170,SCSS,18118,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-07-13 13:18:17,The website for the Schloss Lab at the University of Michigan
+171,CSS,3822,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-07-13 13:18:17,The website for the Schloss Lab at the University of Michigan
+172,Ruby,50,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-07-13 13:18:17,The website for the Schloss Lab at the University of Michigan
 173,R,13184,schtools,https://github.com/SchlossLab/schtools,SchlossLab,https://github.com/SchlossLab,2021-06-30 01:50:38,Schloss Lab Tools for Reproducible Microbiome Research 💩
-174,Python,76110,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-07-02 19:57:37,Benchmarking the OptiFit algorithm in mothur
-175,R,32387,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-07-02 19:57:37,Benchmarking the OptiFit algorithm in mothur
-176,TeX,4743,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-07-02 19:57:37,Benchmarking the OptiFit algorithm in mothur
-177,Shell,2383,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-07-02 19:57:37,Benchmarking the OptiFit algorithm in mothur
+174,Python,86680,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-07-17 04:49:09,Benchmarking the OptiFit algorithm in mothur
+175,R,32387,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-07-17 04:49:09,Benchmarking the OptiFit algorithm in mothur
+176,TeX,4743,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-07-17 04:49:09,Benchmarking the OptiFit algorithm in mothur
+177,Shell,2383,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-07-17 04:49:09,Benchmarking the OptiFit algorithm in mothur
 178,R,263104,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-05-16 16:44:02,
 179,Shell,18303,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-05-16 16:44:02,
 180,TeX,16701,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-05-16 16:44:02,
@@ -240,9 +240,9 @@
 239,JavaScript,1708,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-06-16 19:04:33,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
 240,Shell,918,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-06-16 19:04:33,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
 241,Ruby,550,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-06-16 19:04:33,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-242,SCSS,17315,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-04-30 16:15:47,U-M Carpentries website
-243,HTML,12721,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-04-30 16:15:47,U-M Carpentries website
-244,Python,11350,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-04-30 16:15:47,U-M Carpentries website
-245,CSS,3822,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-04-30 16:15:47,U-M Carpentries website
-246,Ruby,49,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-04-30 16:15:47,U-M Carpentries website
+242,SCSS,17315,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-07-13 13:21:09,U-M Carpentries website
+243,HTML,12721,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-07-13 13:21:09,U-M Carpentries website
+244,Python,11350,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-07-13 13:21:09,U-M Carpentries website
+245,CSS,3822,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-07-13 13:21:09,U-M Carpentries website
+246,Ruby,49,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-07-13 13:21:09,U-M Carpentries website
 247,HTML,82,umswc.github.io,https://github.com/umswc/umswc.github.io,umswc,https://github.com/umswc,2021-04-29 15:42:49,We are now UMCarpentries!
