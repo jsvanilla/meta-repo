@@ -12,9 +12,10 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | HTML, R, Python, Shell |
+| [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
+| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, created with {distill} by RStudio | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
-| [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, CSS, Ruby |
 | [umcarpentries.github.io](https://github.com/UMCarpentries/umcarpentries.github.io) | U-M Carpentries website | [UMCarpentries](https://github.com/UMCarpentries) | SCSS, HTML, Python, CSS, Ruby |
@@ -43,7 +44,6 @@ A meta-repository to organize my public projects.
 | [Rcpp.practice](https://github.com/kelly-sovacool/Rcpp.practice) | Practice using Rcpp | [kelly-sovacool](https://github.com/kelly-sovacool) | C++, R |
 | [repro-packs](https://github.com/um-dang/repro-packs) | Organizing projects for reproducibility and headache prevention. | [um-dang](https://github.com/um-dang) | Python, R, Rebol |
 | [loops-apply-r](https://github.com/um-dang/loops-apply-r) | Looping in R: for loops & the apply family  | [um-dang](https://github.com/um-dang) |  |
-| [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
 | [handmade-plots](https://github.com/kelly-sovacool/handmade-plots) | Attempting to make plots look like they were drawn by hand | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python |
 | [plot-recreation](https://github.com/SchlossLab/plot-recreation) | Re-creating plots to learn cool tricks and practice problem-solving. | [SchlossLab](https://github.com/SchlossLab) |  |
