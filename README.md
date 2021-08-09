@@ -12,14 +12,15 @@ A meta-repository to organize my public projects.
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
 | [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | HTML, R, Python, Shell |
-| [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
+| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
+| [intro-curriculum-r](https://github.com/UMCarpentries/intro-curriculum-r) | Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices. | [UMCarpentries](https://github.com/UMCarpentries) | HTML, Python, SCSS, TeX, R, Makefile, CSS, JavaScript, Shell, Ruby |
+| [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, created with {distill} by RStudio | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, CSS, Ruby |
 | [umcarpentries.github.io](https://github.com/UMCarpentries/umcarpentries.github.io) | U-M Carpentries website | [UMCarpentries](https://github.com/UMCarpentries) | SCSS, HTML, Python, CSS, Ruby |
-| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
 | [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | Python, R, Shell |
 | [intro-testing-r](https://github.com/SchlossLab/intro-testing-r) | Introduction to Testing R Code | [SchlossLab](https://github.com/SchlossLab) | R |
 | [schtools](https://github.com/SchlossLab/schtools) | Schloss Lab Tools for Reproducible Microbiome Research 💩 | [SchlossLab](https://github.com/SchlossLab) | R |
@@ -28,7 +29,6 @@ A meta-repository to organize my public projects.
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) |  |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) |  |
 | [acnh](https://github.com/kelly-sovacool/acnh) | Animal Crossing: New Horizons | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
-| [intro-curriculum-r](https://github.com/UMCarpentries/intro-curriculum-r) | Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices. | [UMCarpentries](https://github.com/UMCarpentries) | HTML, Python, SCSS, TeX, R, Makefile, CSS, JavaScript, Shell, Ruby |
 | [bioinf-pubs](https://github.com/kelly-sovacool/bioinf-pubs) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [manifest-regex](https://github.com/um-dang/manifest-regex) | How to make a manifest with regular expressions in Python | [um-dang](https://github.com/um-dang) | Jupyter Notebook |
 | [2021-01-11-UMich-WISE-online](https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online) | Software Carpentry Workshop for the U-M Women in Science & Engineering | [UMCarpentries](https://github.com/UMCarpentries) | HTML, Python, SCSS, Makefile, R, CSS, JavaScript, Shell, Ruby |
