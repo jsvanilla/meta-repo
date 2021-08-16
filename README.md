@@ -11,8 +11,8 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
-| [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | HTML, R, Python, Shell |
 | [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
+| [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | HTML, R, Python, Shell |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [intro-curriculum-r](https://github.com/UMCarpentries/intro-curriculum-r) | Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices. | [UMCarpentries](https://github.com/UMCarpentries) | HTML, Python, SCSS, TeX, R, Makefile, CSS, JavaScript, Shell, Ruby |
 | [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
