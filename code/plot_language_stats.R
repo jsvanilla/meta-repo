@@ -3,7 +3,6 @@ library(RColorBrewer)
 library(tidyverse)
 theme_set(theme_classic())
 update_geom_defaults("bar", list(fill = RColorBrewer::brewer.pal(n=9,name="GnBu")[9]))
-theme_update(axis.text.x = element_text(angle = 45, hjust = 1))
 
 plot_bar <- function(data,
                      x_col = language,
@@ -25,7 +24,10 @@ plot_bar <- function(data,
             xlab(xlab_str) +
             ylab(ylab_str) +
             #coord_flip() +
-            ggtitle(title_str)
+            ggtitle(title_str) +
+            theme(plot.margin = unit(x = c(0, 0, 0, 0), units = "pt"),
+                  axis.text.x = element_text(angle = 45, hjust = 1)
+                 ) 
     )
 }
 write_plot <- function(plot,
@@ -91,14 +93,15 @@ data_sum %>%
     ) %>%
     write_plot(filename = "language_all_bytes.png")
 
-# bytes top 6
-data_sum %>% top_n(6, total_bytes) %>%
+# bytes top 7
+data_sum %>% top_n(7, total_bytes) %>%
     plot_bar(
         x_col = language,
         y_col = total_bytes,
         ylab_str = "bytes of code",
         title_str = "My top languages on GitHub"
-    ) %>% write_plot(filename = "language_all_bytes_n6.png",
+    ) %>% 
+    write_plot(filename = "language_all_bytes_n7.png",
                      height = 4,
                      width = 4)
 
