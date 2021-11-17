@@ -27,8 +27,4 @@ jobs:
           git commit \
           --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" \
           -m '🤖 Auto-update' || echo "No changes to commit"
-      - name: Push
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.head_ref }}
+          git push origin || echo "No changes to commit"
