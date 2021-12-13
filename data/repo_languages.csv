@@ -13,30 +13,30 @@
 12,Python,4098,challengeQuestions,https://github.com/GWC-DCMB/challengeQuestions,GWC-DCMB,https://github.com/GWC-DCMB,2020-01-05 01:12:25,Jupyter notebooks of challenge questions for learners.
 13,Jupyter Notebook,13105,codeDemos,https://github.com/GWC-DCMB/codeDemos,GWC-DCMB,https://github.com/GWC-DCMB,2019-12-03 23:13:01,Stand-alone Python coding demos.
 14,Python,2761,codeDemos,https://github.com/GWC-DCMB/codeDemos,GWC-DCMB,https://github.com/GWC-DCMB,2019-12-03 23:13:01,Stand-alone Python coding demos.
-15,Jupyter Notebook,104166,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-02 13:36:31,Jupyter notebooks for our Summer Experience and Club Curriculum.
-16,TeX,17713,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-02 13:36:31,Jupyter notebooks for our Summer Experience and Club Curriculum.
-17,Python,2427,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-02 13:36:31,Jupyter notebooks for our Summer Experience and Club Curriculum.
-18,Shell,381,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-02 13:36:31,Jupyter notebooks for our Summer Experience and Club Curriculum.
+15,Jupyter Notebook,104166,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-10 20:55:05,Jupyter notebooks for our Summer Experience and Club Curriculum.
+16,TeX,17713,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-10 20:55:05,Jupyter notebooks for our Summer Experience and Club Curriculum.
+17,Python,2427,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-10 20:55:05,Jupyter notebooks for our Summer Experience and Club Curriculum.
+18,Shell,381,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-10 20:55:05,Jupyter notebooks for our Summer Experience and Club Curriculum.
 19,R,1154,gwc-alumni-survey-2020,https://github.com/GWC-DCMB/gwc-alumni-survey-2020,GWC-DCMB,https://github.com/GWC-DCMB,2021-05-13 23:52:43,
 20,Python,828,gwc-alumni-survey-2020,https://github.com/GWC-DCMB/gwc-alumni-survey-2020,GWC-DCMB,https://github.com/GWC-DCMB,2021-05-13 23:52:43,
 21,Python,16077,GWC-DCMB,https://github.com/GWC-DCMB/GWC-DCMB,GWC-DCMB,https://github.com/GWC-DCMB,2021-10-11 16:12:35,A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB.
 22,Shell,304,GWC-DCMB,https://github.com/GWC-DCMB/GWC-DCMB,GWC-DCMB,https://github.com/GWC-DCMB,2021-10-11 16:12:35,A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB.
 23,HTML,3361038,ozobotLessons,https://github.com/GWC-DCMB/ozobotLessons,GWC-DCMB,https://github.com/GWC-DCMB,2019-11-04 14:54:51,Lesson plans for Ozobots.
 24,R,8850,2020-04-12-CodeClub_PlotAnimation,https://github.com/kelly-sovacool/2020-04-12-CodeClub_PlotAnimation,kelly-sovacool,https://github.com/kelly-sovacool,2020-06-18 19:44:03,Tutorial of using gganimate to animate plots made with ggplot.
-25,Jupyter Notebook,1763,advent-of-code,https://github.com/kelly-sovacool/advent-of-code,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-12 22:24:51,My solutions to the Advent of Code puzzles.
-26,Python,23089,advent-of-code,https://github.com/kelly-sovacool/advent-of-code,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-12 22:24:51,My solutions to the Advent of Code puzzles.
-27,Shell,315,advent-of-code,https://github.com/kelly-sovacool/advent-of-code,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-12 22:24:51,My solutions to the Advent of Code puzzles.
-28,Rust,45,advent-of-code,https://github.com/kelly-sovacool/advent-of-code,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-12 22:24:51,My solutions to the Advent of Code puzzles.
+25,Jupyter Notebook,1763,advent-of-code,https://github.com/kelly-sovacool/advent-of-code,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:05:29,My solutions to the Advent of Code puzzles.
+26,Python,23089,advent-of-code,https://github.com/kelly-sovacool/advent-of-code,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:05:29,My solutions to the Advent of Code puzzles.
+27,Shell,315,advent-of-code,https://github.com/kelly-sovacool/advent-of-code,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:05:29,My solutions to the Advent of Code puzzles.
+28,Rust,45,advent-of-code,https://github.com/kelly-sovacool/advent-of-code,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:05:29,My solutions to the Advent of Code puzzles.
 29,Python,2419,asm-microbe-2020,https://github.com/kelly-sovacool/asm-microbe-2020,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-24 14:50:22,Abstract & poster for ASM Microbe 2020
 30,R,297,asm-microbe-2020,https://github.com/kelly-sovacool/asm-microbe-2020,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-24 14:50:22,Abstract & poster for ASM Microbe 2020
 31,TeX,74,asm-microbe-2020,https://github.com/kelly-sovacool/asm-microbe-2020,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-24 14:50:22,Abstract & poster for ASM Microbe 2020
 32,Python,2345,asm-microbe-2022,https://github.com/kelly-sovacool/asm-microbe-2022,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-24 19:42:57,
 33,TeX,379,asm-microbe-2022,https://github.com/kelly-sovacool/asm-microbe-2022,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-24 19:42:57,
 34,R,297,asm-microbe-2022,https://github.com/kelly-sovacool/asm-microbe-2022,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-24 19:42:57,
-35,Python,157,best-tally,https://github.com/kelly-sovacool/best-tally,kelly-sovacool,https://github.com/kelly-sovacool,2021-08-05 17:33:36,Plotting the number of times my friends and I say “Pat is the best” during my PhD.
-36,R,129,best-tally,https://github.com/kelly-sovacool/best-tally,kelly-sovacool,https://github.com/kelly-sovacool,2021-08-05 17:33:36,Plotting the number of times my friends and I say “Pat is the best” during my PhD.
+35,Python,157,best-tally,https://github.com/kelly-sovacool/best-tally,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:06:00,Plotting the number of times my friends and I say “Pat is the best” during my PhD.
+36,R,129,best-tally,https://github.com/kelly-sovacool/best-tally,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:06:00,Plotting the number of times my friends and I say “Pat is the best” during my PhD.
 37,Python,8651,bioinf-contest-2019,https://github.com/kelly-sovacool/bioinf-contest-2019,kelly-sovacool,https://github.com/kelly-sovacool,2019-02-10 07:09:22,
-38,Python,1173,bioinf-contest-2021,https://github.com/kelly-sovacool/bioinf-contest-2021,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-18 15:39:40,
+38,Python,1173,bioinf-contest-2021,https://github.com/kelly-sovacool/bioinf-contest-2021,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:06:32,
 39,R,17984,bioinf-pubs,https://github.com/kelly-sovacool/bioinf-pubs,kelly-sovacool,https://github.com/kelly-sovacool,2021-06-09 21:26:41,
 40,Jupyter Notebook,366178,bioinf529-winter2019,https://github.com/kelly-sovacool/bioinf529-winter2019,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:41:55,
 41,Python,37941,bioinf529-winter2019,https://github.com/kelly-sovacool/bioinf529-winter2019,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:41:55,
@@ -100,12 +100,12 @@
 99,Python,3776,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 100,TeX,2476,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 101,Shell,2705,mac-config,https://github.com/kelly-sovacool/mac-config,kelly-sovacool,https://github.com/kelly-sovacool,2021-08-19 21:23:42,
-102,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-06 05:23:10,A meta-repository to organize my projects
-103,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-06 05:23:10,A meta-repository to organize my projects
-104,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-06 05:23:10,A meta-repository to organize my projects
-105,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-29 05:31:37,A meta-repository to organize my public projects.
-106,R,3566,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-29 05:31:37,A meta-repository to organize my public projects.
-107,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-29 05:31:37,A meta-repository to organize my public projects.
+102,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-13 05:14:32,A meta-repository to organize my projects
+103,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-13 05:14:32,A meta-repository to organize my projects
+104,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-13 05:14:32,A meta-repository to organize my projects
+105,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:03:40,A meta-repository to organize my public projects.
+106,R,3566,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:03:40,A meta-repository to organize my public projects.
+107,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:03:40,A meta-repository to organize my public projects.
 108,R,31712,micrbiol612,https://github.com/kelly-sovacool/micrbiol612,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:56,
 109,Rust,8469,minigrep,https://github.com/kelly-sovacool/minigrep,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-27 05:21:01,Practicing writing rust code
 110,R,65581,miRNA-diff-expr,https://github.com/kelly-sovacool/miRNA-diff-expr,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 20:17:04,Differential expression analysis for miRNA sequence data
@@ -130,14 +130,14 @@
 129,Python,743,refactor-group-corr-feats,https://github.com/kelly-sovacool/refactor-group-corr-feats,kelly-sovacool,https://github.com/kelly-sovacool,2021-08-23 21:17:08,
 130,Python,363,snakemake-Rscript-log-mwe,https://github.com/kelly-sovacool/snakemake-Rscript-log-mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-12-03 18:22:28,A minimal working example of using Snakemake log files with R scripts
 131,R,289,snakemake-Rscript-log-mwe,https://github.com/kelly-sovacool/snakemake-Rscript-log-mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-12-03 18:22:28,A minimal working example of using Snakemake log files with R scripts
-132,Shell,2379,snakemake_hpc_mwe,https://github.com/kelly-sovacool/snakemake_hpc_mwe,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-04 14:19:43,A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM.
-133,Python,624,snakemake_hpc_mwe,https://github.com/kelly-sovacool/snakemake_hpc_mwe,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-04 14:19:43,A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM.
+132,Shell,2379,snakemake_hpc_mwe,https://github.com/kelly-sovacool/snakemake_hpc_mwe,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:05:40,A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM.
+133,Python,624,snakemake_hpc_mwe,https://github.com/kelly-sovacool/snakemake_hpc_mwe,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:05:40,A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM.
 134,Python,1270,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 135,CSS,172,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
-136,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-03 21:49:11,Setting goals & tracking progress for my projects
-137,R,74173,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-05 17:38:25,Having fun plotting my activity data from Strava!
-138,Python,2481,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-05 17:38:25,Having fun plotting my activity data from Strava!
-139,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-05 17:38:25,Having fun plotting my activity data from Strava!
+136,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-09 19:49:18,Setting goals & tracking progress for my projects
+137,R,74173,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-12 17:43:21,Having fun plotting my activity data from Strava!
+138,Python,2481,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-12 17:43:21,Having fun plotting my activity data from Strava!
+139,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-12 17:43:21,Having fun plotting my activity data from Strava!
 140,Python,20526,test-opti-random,https://github.com/kelly-sovacool/test-opti-random,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-03 21:08:01,
 141,R,1623,test-opti-random,https://github.com/kelly-sovacool/test-opti-random,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-03 21:08:01,
 142,Shell,1003,test-opti-random,https://github.com/kelly-sovacool/test-opti-random,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-03 21:08:01,
@@ -155,12 +155,12 @@
 154,HTML,2129,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
 155,CSS,866,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
 156,Makefile,356,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-157,TeX,20810,lab-notebook,https://github.com/megancoden/lab-notebook,megancoden,https://github.com/megancoden,2021-10-05 05:10:47,
+157,TeX,20810,lab-notebook,https://github.com/megancoden/lab-notebook,megancoden,https://github.com/megancoden,2021-12-07 21:31:59,
 158,Python,143774,detectingGeneDuplicationEvents,https://github.com/MoseleyBioinformaticsLab/detectingGeneDuplicationEvents,MoseleyBioinformaticsLab,https://github.com/MoseleyBioinformaticsLab,2021-11-19 16:55:27,
-159,R,60231,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-03 21:46:30,
-160,Python,18990,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-03 21:46:30,
-161,TeX,5773,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-03 21:46:30,
-162,Shell,2303,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-03 21:46:30,
+159,R,60231,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:53:47,
+160,Python,18990,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:53:47,
+161,TeX,5773,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:53:47,
+162,Shell,2303,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:53:47,
 163,HTML,1546917,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
 164,R,28597,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
 165,Shell,14861,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
@@ -168,9 +168,9 @@
 167,TeX,5773,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
 168,R,9752,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
 169,Makefile,349,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
-170,R,48919,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-01 22:33:29,
-171,Python,6304,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-01 22:33:29,
-172,Shell,847,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-01 22:33:29,
+170,R,49962,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-10 00:30:19,
+171,Python,8868,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-10 00:30:19,
+172,Shell,847,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-10 00:30:19,
 173,R,9871,documenting-R,https://github.com/SchlossLab/documenting-R,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:17,Materials for a code review on documenting R code.
 174,R,11848,exception-handling,https://github.com/SchlossLab/exception-handling,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:35,Materials for a code review on exception handling in R for lab meeting.
 175,HTML,508064,gh-tips,https://github.com/SchlossLab/gh-tips,SchlossLab,https://github.com/SchlossLab,2021-09-27 17:23:00,Tips & tricks for making the most of GitHub
@@ -181,10 +181,10 @@
 180,TeX,11101,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
 181,Python,9946,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
 182,R,990,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
-183,R,179529,mikropml,https://github.com/SchlossLab/mikropml,SchlossLab,https://github.com/SchlossLab,2021-12-03 01:35:29,User-Friendly R Package for Supervised Machine Learning Pipelines
-184,R,4016,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-11-17 18:56:18,Template for running mikRopML with Snakemake
-185,Python,3826,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-11-17 18:56:18,Template for running mikRopML with Snakemake
-186,Shell,436,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-11-17 18:56:18,Template for running mikRopML with Snakemake
+183,R,179529,mikropml,https://github.com/SchlossLab/mikropml,SchlossLab,https://github.com/SchlossLab,2021-12-09 19:30:02,User-Friendly R Package for Supervised Machine Learning Pipelines
+184,R,4016,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:28,Template for running mikRopML with Snakemake
+185,Python,3826,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:28,Template for running mikRopML with Snakemake
+186,Shell,436,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:28,Template for running mikRopML with Snakemake
 187,Python,10784,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
 188,TeX,4574,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
 189,R,1113,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
@@ -196,11 +196,11 @@
 195,SCSS,18118,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-11-18 13:08:33,The website for the Schloss Lab at the University of Michigan
 196,CSS,3822,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-11-18 13:08:33,The website for the Schloss Lab at the University of Michigan
 197,Ruby,50,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-11-18 13:08:33,The website for the Schloss Lab at the University of Michigan
-198,R,14186,schtools,https://github.com/SchlossLab/schtools,SchlossLab,https://github.com/SchlossLab,2021-11-22 15:16:57,Schloss Lab Tools for Reproducible Microbiome Research 💩
-199,Python,96342,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-11-16 09:27:49,The manuscript accompanying the OptiFit algorithm in mothur
-200,R,33427,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-11-16 09:27:49,The manuscript accompanying the OptiFit algorithm in mothur
-201,TeX,5058,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-11-16 09:27:49,The manuscript accompanying the OptiFit algorithm in mothur
-202,Shell,3525,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-11-16 09:27:49,The manuscript accompanying the OptiFit algorithm in mothur
+198,R,14186,schtools,https://github.com/SchlossLab/schtools,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:51:10,Schloss Lab Tools for Reproducible Microbiome Research 💩
+199,Python,96342,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:02,The manuscript accompanying the OptiFit algorithm in mothur
+200,R,33427,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:02,The manuscript accompanying the OptiFit algorithm in mothur
+201,TeX,5058,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:02,The manuscript accompanying the OptiFit algorithm in mothur
+202,Shell,3525,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:02,The manuscript accompanying the OptiFit algorithm in mothur
 203,R,263104,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
 204,Shell,18303,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
 205,TeX,16701,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
