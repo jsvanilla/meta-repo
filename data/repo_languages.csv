@@ -13,10 +13,10 @@
 12,Python,4098,challengeQuestions,https://github.com/GWC-DCMB/challengeQuestions,GWC-DCMB,https://github.com/GWC-DCMB,2020-01-05 01:12:25,Jupyter notebooks of challenge questions for learners.
 13,Jupyter Notebook,13105,codeDemos,https://github.com/GWC-DCMB/codeDemos,GWC-DCMB,https://github.com/GWC-DCMB,2019-12-03 23:13:01,Stand-alone Python coding demos.
 14,Python,2761,codeDemos,https://github.com/GWC-DCMB/codeDemos,GWC-DCMB,https://github.com/GWC-DCMB,2019-12-03 23:13:01,Stand-alone Python coding demos.
-15,Jupyter Notebook,104166,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-10 20:55:05,Jupyter notebooks for our Summer Experience and Club Curriculum.
-16,TeX,17713,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-10 20:55:05,Jupyter notebooks for our Summer Experience and Club Curriculum.
-17,Python,2427,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-10 20:55:05,Jupyter notebooks for our Summer Experience and Club Curriculum.
-18,Shell,381,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-10 20:55:05,Jupyter notebooks for our Summer Experience and Club Curriculum.
+15,Jupyter Notebook,104166,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-17 20:28:20,Jupyter notebooks for our Summer Experience and Club Curriculum.
+16,TeX,17713,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-17 20:28:20,Jupyter notebooks for our Summer Experience and Club Curriculum.
+17,Python,2427,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-17 20:28:20,Jupyter notebooks for our Summer Experience and Club Curriculum.
+18,Shell,381,curriculum-notebooks,https://github.com/GWC-DCMB/curriculum-notebooks,GWC-DCMB,https://github.com/GWC-DCMB,2021-12-17 20:28:20,Jupyter notebooks for our Summer Experience and Club Curriculum.
 19,R,1154,gwc-alumni-survey-2020,https://github.com/GWC-DCMB/gwc-alumni-survey-2020,GWC-DCMB,https://github.com/GWC-DCMB,2021-05-13 23:52:43,
 20,Python,828,gwc-alumni-survey-2020,https://github.com/GWC-DCMB/gwc-alumni-survey-2020,GWC-DCMB,https://github.com/GWC-DCMB,2021-05-13 23:52:43,
 21,Python,16077,GWC-DCMB,https://github.com/GWC-DCMB/GWC-DCMB,GWC-DCMB,https://github.com/GWC-DCMB,2021-10-11 16:12:35,A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB.
@@ -90,9 +90,9 @@
 89,Shell,542,hpc-config,https://github.com/kelly-sovacool/hpc-config,kelly-sovacool,https://github.com/kelly-sovacool,2021-10-26 18:40:11,Config files for Linux HPC accounts
 90,Jupyter Notebook,621,jupyter-ci-mwe,https://github.com/kelly-sovacool/jupyter-ci-mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-02 16:14:47,A minimal working example of using continuous integration to convert jupyter notebooks to PDFs.
 91,Python,3138,lang-stats,https://github.com/kelly-sovacool/lang-stats,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-06 18:12:53,Collect & plot personal programming language statistics from GitHub repos
-92,TeX,106943,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-23 16:47:26,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
-93,Python,1315,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-23 16:47:26,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
-94,Shell,65,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-07-23 16:47:26,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
+92,TeX,112853,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-17 20:59:19,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
+93,Python,1315,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-17 20:59:19,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
+94,Shell,65,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-17 20:59:19,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
 95,TeX,8476,lipschutz-award,https://github.com/kelly-sovacool/lipschutz-award,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-10 21:06:30,Statement for the Susan Lipschutz Award
 96,Python,983,lipschutz-award,https://github.com/kelly-sovacool/lipschutz-award,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-10 21:06:30,Statement for the Susan Lipschutz Award
 97,R,258205,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
@@ -100,12 +100,12 @@
 99,Python,3776,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 100,TeX,2476,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
 101,Shell,2705,mac-config,https://github.com/kelly-sovacool/mac-config,kelly-sovacool,https://github.com/kelly-sovacool,2021-08-19 21:23:42,
-102,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-13 05:14:32,A meta-repository to organize my projects
-103,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-13 05:14:32,A meta-repository to organize my projects
-104,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-13 05:14:32,A meta-repository to organize my projects
-105,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:03:40,A meta-repository to organize my public projects.
-106,R,3566,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:03:40,A meta-repository to organize my public projects.
-107,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:03:40,A meta-repository to organize my public projects.
+102,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-20 05:18:04,A meta-repository to organize my projects
+103,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-20 05:18:04,A meta-repository to organize my projects
+104,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-20 05:18:04,A meta-repository to organize my projects
+105,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-13 05:24:10,A meta-repository to organize my public projects.
+106,R,3566,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-13 05:24:10,A meta-repository to organize my public projects.
+107,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-13 05:24:10,A meta-repository to organize my public projects.
 108,R,31712,micrbiol612,https://github.com/kelly-sovacool/micrbiol612,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:56,
 109,Rust,8469,minigrep,https://github.com/kelly-sovacool/minigrep,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-27 05:21:01,Practicing writing rust code
 110,R,65581,miRNA-diff-expr,https://github.com/kelly-sovacool/miRNA-diff-expr,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 20:17:04,Differential expression analysis for miRNA sequence data
@@ -134,10 +134,10 @@
 133,Python,624,snakemake_hpc_mwe,https://github.com/kelly-sovacool/snakemake_hpc_mwe,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-10 21:05:40,A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM.
 134,Python,1270,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 135,CSS,172,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
-136,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-09 19:49:18,Setting goals & tracking progress for my projects
-137,R,74173,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-12 17:43:21,Having fun plotting my activity data from Strava!
-138,Python,2481,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-12 17:43:21,Having fun plotting my activity data from Strava!
-139,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-12 17:43:21,Having fun plotting my activity data from Strava!
+136,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-14 15:30:39,Setting goals & tracking progress for my projects
+137,R,74173,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-19 17:36:28,Having fun plotting my activity data from Strava!
+138,Python,2481,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-19 17:36:28,Having fun plotting my activity data from Strava!
+139,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-19 17:36:28,Having fun plotting my activity data from Strava!
 140,Python,20526,test-opti-random,https://github.com/kelly-sovacool/test-opti-random,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-03 21:08:01,
 141,R,1623,test-opti-random,https://github.com/kelly-sovacool/test-opti-random,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-03 21:08:01,
 142,Shell,1003,test-opti-random,https://github.com/kelly-sovacool/test-opti-random,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-03 21:08:01,
@@ -155,12 +155,12 @@
 154,HTML,2129,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
 155,CSS,866,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
 156,Makefile,356,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-157,TeX,20810,lab-notebook,https://github.com/megancoden/lab-notebook,megancoden,https://github.com/megancoden,2021-12-07 21:31:59,
+157,TeX,41620,lab-notebook,https://github.com/megancoden/lab-notebook,megancoden,https://github.com/megancoden,2021-12-17 17:40:31,
 158,Python,143774,detectingGeneDuplicationEvents,https://github.com/MoseleyBioinformaticsLab/detectingGeneDuplicationEvents,MoseleyBioinformaticsLab,https://github.com/MoseleyBioinformaticsLab,2021-11-19 16:55:27,
-159,R,60231,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:53:47,
-160,Python,18990,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:53:47,
-161,TeX,5773,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:53:47,
-162,Shell,2303,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:53:47,
+159,R,60258,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-17 18:07:14,
+160,Python,16379,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-17 18:07:14,
+161,TeX,5773,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-17 18:07:14,
+162,Shell,2338,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2021-12-17 18:07:14,
 163,HTML,1546917,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
 164,R,28597,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
 165,Shell,14861,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
@@ -168,9 +168,9 @@
 167,TeX,5773,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
 168,R,9752,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
 169,Makefile,349,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
-170,R,49962,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-10 00:30:19,
-171,Python,8868,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-10 00:30:19,
-172,Shell,847,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-10 00:30:19,
+170,R,50591,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-16 15:42:54,
+171,Python,7913,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-16 15:42:54,
+172,Shell,847,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2021-12-16 15:42:54,
 173,R,9871,documenting-R,https://github.com/SchlossLab/documenting-R,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:17,Materials for a code review on documenting R code.
 174,R,11848,exception-handling,https://github.com/SchlossLab/exception-handling,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:35,Materials for a code review on exception handling in R for lab meeting.
 175,HTML,508064,gh-tips,https://github.com/SchlossLab/gh-tips,SchlossLab,https://github.com/SchlossLab,2021-09-27 17:23:00,Tips & tricks for making the most of GitHub
@@ -182,9 +182,9 @@
 181,Python,9946,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
 182,R,990,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
 183,R,179529,mikropml,https://github.com/SchlossLab/mikropml,SchlossLab,https://github.com/SchlossLab,2021-12-09 19:30:02,User-Friendly R Package for Supervised Machine Learning Pipelines
-184,R,4016,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:28,Template for running mikRopML with Snakemake
-185,Python,3826,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:28,Template for running mikRopML with Snakemake
-186,Shell,436,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:28,Template for running mikRopML with Snakemake
+184,R,4016,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-14 17:33:03,Template for running mikRopML with Snakemake
+185,Python,3826,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-14 17:33:03,Template for running mikRopML with Snakemake
+186,Shell,436,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-14 17:33:03,Template for running mikRopML with Snakemake
 187,Python,10784,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
 188,TeX,4574,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
 189,R,1113,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
@@ -197,10 +197,10 @@
 196,CSS,3822,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-11-18 13:08:33,The website for the Schloss Lab at the University of Michigan
 197,Ruby,50,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-11-18 13:08:33,The website for the Schloss Lab at the University of Michigan
 198,R,14186,schtools,https://github.com/SchlossLab/schtools,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:51:10,Schloss Lab Tools for Reproducible Microbiome Research 💩
-199,Python,96342,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:02,The manuscript accompanying the OptiFit algorithm in mothur
-200,R,33427,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:02,The manuscript accompanying the OptiFit algorithm in mothur
-201,TeX,5058,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:02,The manuscript accompanying the OptiFit algorithm in mothur
-202,Shell,3525,Sovacool_OptiFit_2021,https://github.com/SchlossLab/Sovacool_OptiFit_2021,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:54:02,The manuscript accompanying the OptiFit algorithm in mothur
+199,Python,96342,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
+200,R,33428,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
+201,TeX,5058,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
+202,Shell,3525,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
 203,R,263104,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
 204,Shell,18303,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
 205,TeX,16701,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
@@ -258,16 +258,16 @@
 257,JavaScript,1708,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
 258,Shell,1021,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
 259,Ruby,481,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-260,HTML,77614,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-261,Python,47360,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-262,R,10994,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-263,SCSS,10048,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-264,TeX,5598,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-265,Makefile,5303,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-266,CSS,4369,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-267,JavaScript,1708,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-268,Shell,918,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-269,Ruby,694,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-11-25 06:33:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+260,HTML,77614,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+261,Python,47360,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+262,R,11557,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+263,SCSS,10048,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+264,TeX,5598,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+265,Makefile,5303,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+266,CSS,4369,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+267,JavaScript,1708,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+268,Shell,918,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+269,Ruby,694,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2021-12-16 21:29:52,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
 270,SCSS,17315,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-10-12 13:39:31,U-M Carpentries website
 271,HTML,12721,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-10-12 13:39:31,U-M Carpentries website
 272,Python,11350,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-10-12 13:39:31,U-M Carpentries website
