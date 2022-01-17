@@ -11,13 +11,15 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
-| [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
 | [intro-curriculum-r](https://github.com/UMCarpentries/intro-curriculum-r) | Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices. | [UMCarpentries](https://github.com/UMCarpentries) | HTML, Python, R, SCSS, TeX, Makefile, CSS, JavaScript, Shell, Ruby |
+| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [pkg-downloads](https://github.com/kelly-sovacool/pkg-downloads) | A report of mikropml package download counts from cranlogs | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
+| [strava](https://github.com/kelly-sovacool/strava) | Having fun plotting my activity data from Strava! | [kelly-sovacool](https://github.com/kelly-sovacool) | R, Python, Shell |
+| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, CSS, Ruby |
+| [umcarpentries.github.io](https://github.com/UMCarpentries/umcarpentries.github.io) | U-M Carpentries website | [UMCarpentries](https://github.com/UMCarpentries) | SCSS, HTML, Python, CSS, Ruby |
 | [curriculum-notebooks](https://github.com/GWC-DCMB/curriculum-notebooks) | Jupyter notebooks for our Summer Experience and Club Curriculum. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, TeX, Python, Shell |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, created with {distill} by RStudio | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
-| [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [Sovacool_OptiFit_mSphere_2022](https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022) | The manuscript accompanying the OptiFit algorithm in mothur | [SchlossLab](https://github.com/SchlossLab) | Python, R, TeX, Shell |
 | [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | R, Python, Shell |
 | [advent-of-code](https://github.com/kelly-sovacool/advent-of-code) | My solutions to the Advent of Code puzzles. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook, Python, Shell, Rust |
@@ -28,19 +30,17 @@ A meta-repository to organize my public projects.
 | [Rcpp.practice](https://github.com/kelly-sovacool/Rcpp.practice) | Practice using Rcpp | [kelly-sovacool](https://github.com/kelly-sovacool) | C++, R |
 | [umswc.github.io](https://github.com/umswc/umswc.github.io) | We are now UMCarpentries! | [umswc](https://github.com/umswc) | HTML |
 | [un-report](https://github.com/kelly-sovacool/un-report) | example repo for teaching git & github  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
-| [schlosslab.github.io](https://github.com/SchlossLab/schlosslab.github.io) | The website for the Schloss Lab at the University of Michigan | [SchlossLab](https://github.com/SchlossLab) | HTML, SCSS, CSS, Ruby |
 | [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
 | [test-opti-random](https://github.com/kelly-sovacool/test-opti-random) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [vscode-code-club](https://github.com/SchlossLab/vscode-code-club) | Code club to introduce VS Code | [SchlossLab](https://github.com/SchlossLab) | Python, Makefile, R |
 | [mothur-sensspec-debug](https://github.com/kelly-sovacool/mothur-sensspec-debug) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | CSS, Python, HTML, Shell, R |
-| [umcarpentries.github.io](https://github.com/UMCarpentries/umcarpentries.github.io) | U-M Carpentries website | [UMCarpentries](https://github.com/UMCarpentries) | SCSS, HTML, Python, CSS, Ruby |
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [gh-tips](https://github.com/SchlossLab/gh-tips) | Tips & tricks for making the most of GitHub | [SchlossLab](https://github.com/SchlossLab) | HTML, TeX |
-| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 
 ### Stale
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [ClubCurriculum](https://github.com/GWC-DCMB/ClubCurriculum) | Curriculum for our weekly club for high school students. | [GWC-DCMB](https://github.com/GWC-DCMB) |  |
 | [SummerExperience](https://github.com/GWC-DCMB/SummerExperience) | Curriculum & materials for our Data Science Summer Experience. | [GWC-DCMB](https://github.com/GWC-DCMB) |  |
 | [acnh](https://github.com/kelly-sovacool/acnh) | Animal Crossing: New Horizons | [kelly-sovacool](https://github.com/kelly-sovacool) |  |

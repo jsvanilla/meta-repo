@@ -90,9 +90,9 @@
 89,Shell,542,hpc-config,https://github.com/kelly-sovacool/hpc-config,kelly-sovacool,https://github.com/kelly-sovacool,2021-10-26 18:40:11,Config files for Linux HPC accounts
 90,Jupyter Notebook,621,jupyter-ci-mwe,https://github.com/kelly-sovacool/jupyter-ci-mwe,kelly-sovacool,https://github.com/kelly-sovacool,2020-01-02 16:14:47,A minimal working example of using continuous integration to convert jupyter notebooks to PDFs.
 91,Python,3138,lang-stats,https://github.com/kelly-sovacool/lang-stats,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-06 18:12:53,Collect & plot personal programming language statistics from GitHub repos
-92,TeX,112853,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-17 20:59:19,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
-93,Python,1315,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-17 20:59:19,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
-94,Shell,65,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2021-12-17 20:59:19,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
+92,TeX,112735,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 17:24:54,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
+93,Python,1315,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 17:24:54,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
+94,Shell,65,latex-cv,https://github.com/kelly-sovacool/latex-cv,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 17:24:54,My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf.
 95,TeX,8476,lipschutz-award,https://github.com/kelly-sovacool/lipschutz-award,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-10 21:06:30,Statement for the Susan Lipschutz Award
 96,Python,983,lipschutz-award,https://github.com/kelly-sovacool/lipschutz-award,kelly-sovacool,https://github.com/kelly-sovacool,2020-11-10 21:06:30,Statement for the Susan Lipschutz Award
 97,R,258205,lncRNA-pan-cancer,https://github.com/kelly-sovacool/lncRNA-pan-cancer,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 19:43:03,Pan-cancer analysis of lncRNA eSNVs
@@ -103,9 +103,9 @@
 102,Python,11366,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 05:22:12,A meta-repository to organize my projects
 103,R,2257,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 05:22:12,A meta-repository to organize my projects
 104,Shell,319,meta-private,https://github.com/kelly-sovacool/meta-private,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 05:22:12,A meta-repository to organize my projects
-105,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-03 05:27:55,A meta-repository to organize my public projects.
-106,R,3566,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-03 05:27:55,A meta-repository to organize my public projects.
-107,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-03 05:27:55,A meta-repository to organize my public projects.
+105,Python,12065,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 05:32:18,A meta-repository to organize my public projects.
+106,R,3566,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 05:32:18,A meta-repository to organize my public projects.
+107,Shell,319,meta-repo,https://github.com/kelly-sovacool/meta-repo,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 05:32:18,A meta-repository to organize my public projects.
 108,R,31712,micrbiol612,https://github.com/kelly-sovacool/micrbiol612,kelly-sovacool,https://github.com/kelly-sovacool,2019-10-17 16:35:56,
 109,Rust,8469,minigrep,https://github.com/kelly-sovacool/minigrep,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-27 05:21:01,Practicing writing rust code
 110,R,65581,miRNA-diff-expr,https://github.com/kelly-sovacool/miRNA-diff-expr,kelly-sovacool,https://github.com/kelly-sovacool,2019-04-03 20:17:04,Differential expression analysis for miRNA sequence data
@@ -135,9 +135,9 @@
 134,Python,1270,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 135,CSS,172,stats-ref,https://github.com/kelly-sovacool/stats-ref,kelly-sovacool,https://github.com/kelly-sovacool,2019-06-15 03:48:37,A reference for concepts & equations in statistics.
 136,Python,830,strategic-plan,https://github.com/kelly-sovacool/strategic-plan,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-05 18:08:54,Setting goals & tracking progress for my projects
-137,R,73823,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-09 17:39:41,Having fun plotting my activity data from Strava!
-138,Python,2481,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-09 17:39:41,Having fun plotting my activity data from Strava!
-139,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-09 17:39:41,Having fun plotting my activity data from Strava!
+137,R,76942,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 17:43:36,Having fun plotting my activity data from Strava!
+138,Python,2481,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 17:43:36,Having fun plotting my activity data from Strava!
+139,Shell,194,strava,https://github.com/kelly-sovacool/strava,kelly-sovacool,https://github.com/kelly-sovacool,2022-01-10 17:43:36,Having fun plotting my activity data from Strava!
 140,Python,20526,test-opti-random,https://github.com/kelly-sovacool/test-opti-random,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-03 21:08:01,
 141,R,1623,test-opti-random,https://github.com/kelly-sovacool/test-opti-random,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-03 21:08:01,
 142,Shell,1003,test-opti-random,https://github.com/kelly-sovacool/test-opti-random,kelly-sovacool,https://github.com/kelly-sovacool,2021-11-03 21:08:01,
@@ -155,7 +155,7 @@
 154,HTML,2129,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
 155,CSS,866,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
 156,Makefile,356,undergrad-comp-sci,https://github.com/kelly-sovacool/undergrad-comp-sci,kelly-sovacool,https://github.com/kelly-sovacool,2019-12-13 16:31:44,A collection of code I wrote for assignments in computer science courses as an undergraduate student at the University of Kentucky (2014-2018).
-157,TeX,41620,lab-notebook,https://github.com/megancoden/lab-notebook,megancoden,https://github.com/megancoden,2022-01-07 18:09:23,
+157,TeX,41620,lab-notebook,https://github.com/megancoden/lab-notebook,megancoden,https://github.com/megancoden,2022-01-10 18:23:15,
 158,Python,143774,detectingGeneDuplicationEvents,https://github.com/MoseleyBioinformaticsLab/detectingGeneDuplicationEvents,MoseleyBioinformaticsLab,https://github.com/MoseleyBioinformaticsLab,2021-11-19 16:55:27,
 159,R,60258,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2022-01-07 19:38:06,
 160,Python,16436,adverseCDI,https://github.com/SchlossLab/adverseCDI,SchlossLab,https://github.com/SchlossLab,2022-01-07 19:38:06,
@@ -166,111 +166,114 @@
 165,Shell,14861,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
 166,Python,13736,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
 167,TeX,5773,Armour_OptiFitGLNE_XXXX_2021,https://github.com/SchlossLab/Armour_OptiFitGLNE_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-07-07 17:32:00,Application of the OptiFit algorithm to CRC dataset to predict SRNs from microbiome data 
-168,R,9752,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
-169,Makefile,349,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
-170,R,125423,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2022-01-08 20:05:27,
-171,Python,10385,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2022-01-08 20:05:27,
-172,Shell,846,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2022-01-08 20:05:27,
-173,R,9871,documenting-R,https://github.com/SchlossLab/documenting-R,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:17,Materials for a code review on documenting R code.
-174,R,11848,exception-handling,https://github.com/SchlossLab/exception-handling,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:35,Materials for a code review on exception handling in R for lab meeting.
-175,HTML,508064,gh-tips,https://github.com/SchlossLab/gh-tips,SchlossLab,https://github.com/SchlossLab,2021-09-27 17:23:00,Tips & tricks for making the most of GitHub
-176,TeX,56089,gh-tips,https://github.com/SchlossLab/gh-tips,SchlossLab,https://github.com/SchlossLab,2021-09-27 17:23:00,Tips & tricks for making the most of GitHub
-177,R,6744,intro-testing-r,https://github.com/SchlossLab/intro-testing-r,SchlossLab,https://github.com/SchlossLab,2021-08-26 16:53:22,Introduction to Testing R Code
-178,HTML,738946,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
-179,Shell,143847,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
-180,TeX,11101,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
-181,Python,9946,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
-182,R,990,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
-183,R,179529,mikropml,https://github.com/SchlossLab/mikropml,SchlossLab,https://github.com/SchlossLab,2021-12-09 19:30:02,User-Friendly R Package for Supervised Machine Learning Pipelines
-184,R,4016,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-14 17:33:03,Template for running mikRopML with Snakemake
-185,Python,3826,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-14 17:33:03,Template for running mikRopML with Snakemake
-186,Shell,436,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-14 17:33:03,Template for running mikRopML with Snakemake
-187,Python,10784,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
-188,TeX,4574,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
-189,R,1113,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
-190,R,4007,mums2,https://github.com/SchlossLab/mums2,SchlossLab,https://github.com/SchlossLab,2020-09-04 15:20:43,An R package to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU).
-191,Python,8858,omu-prototype,https://github.com/SchlossLab/omu-prototype,SchlossLab,https://github.com/SchlossLab,2020-08-18 18:05:23,A prototype in Python to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU)
-192,R,898,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
-193,Python,374,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
-194,HTML,18751,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-11-18 13:08:33,The website for the Schloss Lab at the University of Michigan
-195,SCSS,18118,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-11-18 13:08:33,The website for the Schloss Lab at the University of Michigan
-196,CSS,3822,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-11-18 13:08:33,The website for the Schloss Lab at the University of Michigan
-197,Ruby,50,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2021-11-18 13:08:33,The website for the Schloss Lab at the University of Michigan
-198,R,14186,schtools,https://github.com/SchlossLab/schtools,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:51:10,Schloss Lab Tools for Reproducible Microbiome Research 💩
-199,Python,96342,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
-200,R,33428,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
-201,TeX,5058,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
-202,Shell,3525,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
-203,R,263104,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
-204,Shell,18303,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
-205,TeX,16701,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
-206,Makefile,5833,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
-207,Python,5649,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
-208,Python,1333,vscode-code-club,https://github.com/SchlossLab/vscode-code-club,SchlossLab,https://github.com/SchlossLab,2021-11-03 16:03:52,Code club to introduce VS Code
-209,Makefile,687,vscode-code-club,https://github.com/SchlossLab/vscode-code-club,SchlossLab,https://github.com/SchlossLab,2021-11-03 16:03:52,Code club to introduce VS Code
-210,R,507,vscode-code-club,https://github.com/SchlossLab/vscode-code-club,SchlossLab,https://github.com/SchlossLab,2021-11-03 16:03:52,Code club to introduce VS Code
-211,Python,16961,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
-212,Shell,5316,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
-213,R,9158,machine-learning-pipelines-r,https://github.com/um-dang/machine-learning-pipelines-r,um-dang,https://github.com/um-dang,2020-09-03 23:51:30,Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data
-214,Jupyter Notebook,1640,manifest-regex,https://github.com/um-dang/manifest-regex,um-dang,https://github.com/um-dang,2021-04-30 22:47:38,How to make a manifest with regular expressions in Python
-215,Python,661,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
-216,R,247,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
-217,Rebol,44,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
-218,R,12712,writing-functions-r,https://github.com/um-dang/writing-functions-r,um-dang,https://github.com/um-dang,2020-11-30 18:27:06,Introduction to writing functions in R
-219,Python,96898,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
-220,HTML,37091,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
-221,CSS,8633,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
-222,R,3468,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
-223,Makefile,3262,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
-224,JavaScript,1050,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
-225,Ruby,237,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
-226,Shell,220,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
-227,Python,84786,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
-228,HTML,39884,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
-229,CSS,9194,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
-230,R,4110,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
-231,Makefile,3509,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
-232,JavaScript,1050,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
-233,Ruby,237,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
-234,Shell,220,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
-235,Python,87645,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-236,HTML,54448,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-237,CSS,10012,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-238,R,4084,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-239,Makefile,3465,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-240,JavaScript,2623,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-241,Shell,898,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-242,Ruby,237,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
-243,Python,87867,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
-244,HTML,80761,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
-245,CSS,10012,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
-246,R,4084,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
-247,Makefile,3465,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
-248,JavaScript,2623,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
-249,Shell,898,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
-250,Ruby,237,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
-251,HTML,90627,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-252,Python,88032,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-253,SCSS,8735,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-254,Makefile,4564,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-255,R,4484,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-256,CSS,4369,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-257,JavaScript,1708,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-258,Shell,1021,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-259,Ruby,481,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
-260,HTML,77614,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-261,Python,47360,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-262,R,11557,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-263,SCSS,10048,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-264,TeX,5628,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-265,Makefile,5303,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-266,CSS,4369,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-267,JavaScript,1708,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-268,Shell,918,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-269,Ruby,694,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-08 22:04:06,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
-270,SCSS,17315,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-10-12 13:39:31,U-M Carpentries website
-271,HTML,12721,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-10-12 13:39:31,U-M Carpentries website
-272,Python,11350,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-10-12 13:39:31,U-M Carpentries website
-273,CSS,3822,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-10-12 13:39:31,U-M Carpentries website
-274,Ruby,49,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2021-10-12 13:39:31,U-M Carpentries website
-275,HTML,273,umswc.github.io,https://github.com/umswc/umswc.github.io,umswc,https://github.com/umswc,2021-11-24 16:02:40,We are now UMCarpentries!
+168,R,4016,Barron_IBD-CDI_2022,https://github.com/SchlossLab/Barron_IBD-CDI_2022,SchlossLab,https://github.com/SchlossLab,2022-01-13 20:53:43,ML analysis to predict CDI from cecal communities of IBD & control mice
+169,Python,3826,Barron_IBD-CDI_2022,https://github.com/SchlossLab/Barron_IBD-CDI_2022,SchlossLab,https://github.com/SchlossLab,2022-01-13 20:53:43,ML analysis to predict CDI from cecal communities of IBD & control mice
+170,Shell,436,Barron_IBD-CDI_2022,https://github.com/SchlossLab/Barron_IBD-CDI_2022,SchlossLab,https://github.com/SchlossLab,2022-01-13 20:53:43,ML analysis to predict CDI from cecal communities of IBD & control mice
+171,R,9752,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
+172,Makefile,349,compositional_data_analysis,https://github.com/SchlossLab/compositional_data_analysis,SchlossLab,https://github.com/SchlossLab,2020-02-25 15:06:37,Group effort to study impact of treating microbiome relative abundance data as compositional or not
+173,R,126617,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2022-01-08 20:05:27,
+174,Python,10385,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2022-01-08 20:05:27,
+175,Shell,847,crc-storage,https://github.com/SchlossLab/crc-storage,SchlossLab,https://github.com/SchlossLab,2022-01-08 20:05:27,
+176,R,9871,documenting-R,https://github.com/SchlossLab/documenting-R,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:17,Materials for a code review on documenting R code.
+177,R,11848,exception-handling,https://github.com/SchlossLab/exception-handling,SchlossLab,https://github.com/SchlossLab,2020-02-06 15:13:35,Materials for a code review on exception handling in R for lab meeting.
+178,HTML,508064,gh-tips,https://github.com/SchlossLab/gh-tips,SchlossLab,https://github.com/SchlossLab,2021-09-27 17:23:00,Tips & tricks for making the most of GitHub
+179,TeX,56089,gh-tips,https://github.com/SchlossLab/gh-tips,SchlossLab,https://github.com/SchlossLab,2021-09-27 17:23:00,Tips & tricks for making the most of GitHub
+180,R,6744,intro-testing-r,https://github.com/SchlossLab/intro-testing-r,SchlossLab,https://github.com/SchlossLab,2021-08-26 16:53:22,Introduction to Testing R Code
+181,HTML,738946,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
+182,Shell,143847,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
+183,TeX,11101,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
+184,Python,9946,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
+185,R,990,Lucas_BGCinCRC_XXXX_XXXX,https://github.com/SchlossLab/Lucas_BGCinCRC_XXXX_XXXX,SchlossLab,https://github.com/SchlossLab,2021-09-28 18:16:20,Repository for analysis of the 30:30:30 Hannigan 2018 mBio dataset.
+186,R,179529,mikropml,https://github.com/SchlossLab/mikropml,SchlossLab,https://github.com/SchlossLab,2021-12-09 19:30:02,User-Friendly R Package for Supervised Machine Learning Pipelines
+187,R,4016,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-14 17:33:03,Template for running mikRopML with Snakemake
+188,Python,3826,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-14 17:33:03,Template for running mikRopML with Snakemake
+189,Shell,436,mikropml-snakemake-workflow,https://github.com/SchlossLab/mikropml-snakemake-workflow,SchlossLab,https://github.com/SchlossLab,2021-12-14 17:33:03,Template for running mikRopML with Snakemake
+190,Python,10784,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
+191,TeX,4574,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
+192,R,1113,MiSeq-SOP-demo,https://github.com/SchlossLab/MiSeq-SOP-demo,SchlossLab,https://github.com/SchlossLab,2021-11-29 17:20:07,
+193,R,4007,mums2,https://github.com/SchlossLab/mums2,SchlossLab,https://github.com/SchlossLab,2020-09-04 15:20:43,An R package to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU).
+194,Python,8858,omu-prototype,https://github.com/SchlossLab/omu-prototype,SchlossLab,https://github.com/SchlossLab,2020-08-18 18:05:23,A prototype in Python to cluster features from untargeted mass spectrometry experiments into Operational Metabolomic Units (OMU)
+195,R,898,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
+196,Python,374,omu.analysis,https://github.com/SchlossLab/omu.analysis,SchlossLab,https://github.com/SchlossLab,2020-11-20 16:25:58,Applying LC-MS/MS analysis methods for Operational Metabolomic Units
+197,HTML,18751,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2022-01-10 14:32:28,The website for the Schloss Lab at the University of Michigan
+198,SCSS,18118,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2022-01-10 14:32:28,The website for the Schloss Lab at the University of Michigan
+199,CSS,3822,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2022-01-10 14:32:28,The website for the Schloss Lab at the University of Michigan
+200,Ruby,50,schlosslab.github.io,https://github.com/SchlossLab/schlosslab.github.io,SchlossLab,https://github.com/SchlossLab,2022-01-10 14:32:28,The website for the Schloss Lab at the University of Michigan
+201,R,14186,schtools,https://github.com/SchlossLab/schtools,SchlossLab,https://github.com/SchlossLab,2021-12-10 20:51:10,Schloss Lab Tools for Reproducible Microbiome Research 💩
+202,Python,96342,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
+203,R,33428,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
+204,TeX,5058,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
+205,Shell,3525,Sovacool_OptiFit_mSphere_2022,https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022,SchlossLab,https://github.com/SchlossLab,2021-12-16 21:56:38,The manuscript accompanying the OptiFit algorithm in mothur
+206,R,263104,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
+207,Shell,18303,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
+208,TeX,16701,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
+209,Makefile,5833,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
+210,Python,5649,Tomkovich_CDI_clinical_XXXX_2021,https://github.com/SchlossLab/Tomkovich_CDI_clinical_XXXX_2021,SchlossLab,https://github.com/SchlossLab,2021-08-02 22:01:08,
+211,Python,1333,vscode-code-club,https://github.com/SchlossLab/vscode-code-club,SchlossLab,https://github.com/SchlossLab,2021-11-03 16:03:52,Code club to introduce VS Code
+212,Makefile,687,vscode-code-club,https://github.com/SchlossLab/vscode-code-club,SchlossLab,https://github.com/SchlossLab,2021-11-03 16:03:52,Code club to introduce VS Code
+213,R,507,vscode-code-club,https://github.com/SchlossLab/vscode-code-club,SchlossLab,https://github.com/SchlossLab,2021-11-03 16:03:52,Code club to introduce VS Code
+214,Python,16961,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
+215,Shell,5316,useful-programs,https://github.com/thesuperlab/useful-programs,thesuperlab,https://github.com/thesuperlab,2018-04-20 02:27:03,
+216,R,9158,machine-learning-pipelines-r,https://github.com/um-dang/machine-learning-pipelines-r,um-dang,https://github.com/um-dang,2020-09-03 23:51:30,Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data
+217,Jupyter Notebook,1640,manifest-regex,https://github.com/um-dang/manifest-regex,um-dang,https://github.com/um-dang,2021-04-30 22:47:38,How to make a manifest with regular expressions in Python
+218,Python,661,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
+219,R,247,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
+220,Rebol,44,repro-packs,https://github.com/um-dang/repro-packs,um-dang,https://github.com/um-dang,2020-11-21 08:49:07,Organizing projects for reproducibility and headache prevention.
+221,R,12712,writing-functions-r,https://github.com/um-dang/writing-functions-r,um-dang,https://github.com/um-dang,2020-11-30 18:27:06,Introduction to writing functions in R
+222,Python,96898,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
+223,HTML,37091,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
+224,CSS,8633,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
+225,R,3468,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
+226,Makefile,3262,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
+227,JavaScript,1050,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
+228,Ruby,237,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
+229,Shell,220,2018-02-26-umich-shapiro,https://github.com/UMCarpentries/2018-02-26-umich-shapiro,UMCarpentries,https://github.com/UMCarpentries,2019-08-27 14:08:29,
+230,Python,84786,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
+231,HTML,39884,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
+232,CSS,9194,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
+233,R,4110,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
+234,Makefile,3509,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
+235,JavaScript,1050,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
+236,Ruby,237,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
+237,Shell,220,2019-01-07-umich-wise,https://github.com/UMCarpentries/2019-01-07-umich-wise,UMCarpentries,https://github.com/UMCarpentries,2019-12-02 18:27:07,
+238,Python,87645,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+239,HTML,54448,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+240,CSS,10012,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+241,R,4084,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+242,Makefile,3465,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+243,JavaScript,2623,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+244,Shell,898,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+245,Ruby,237,2019-09-05-umich,https://github.com/UMCarpentries/2019-09-05-umich,UMCarpentries,https://github.com/UMCarpentries,2019-09-04 16:32:28,https://umswc.github.io/2019-09-05-umich/
+246,Python,87867,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+247,HTML,80761,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+248,CSS,10012,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+249,R,4084,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+250,Makefile,3465,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+251,JavaScript,2623,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+252,Shell,898,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+253,Ruby,237,2020-01-06-UMich-WISE,https://github.com/UMCarpentries/2020-01-06-UMich-WISE,UMCarpentries,https://github.com/UMCarpentries,2020-11-30 18:08:42,Software Carpentry workshop for WISE at U-M
+254,HTML,90627,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
+255,Python,88032,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
+256,SCSS,8735,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
+257,Makefile,4564,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
+258,R,4484,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
+259,CSS,4369,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
+260,JavaScript,1708,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
+261,Shell,1021,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
+262,Ruby,481,2021-01-11-UMich-WISE-online,https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online,UMCarpentries,https://github.com/UMCarpentries,2021-08-26 16:49:05,Software Carpentry Workshop for the U-M Women in Science & Engineering
+263,HTML,77614,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+264,Python,47360,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+265,R,11557,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+266,SCSS,10048,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+267,TeX,5628,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+268,Makefile,5303,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+269,CSS,4369,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+270,JavaScript,1708,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+271,Shell,918,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+272,Ruby,694,intro-curriculum-r,https://github.com/UMCarpentries/intro-curriculum-r,UMCarpentries,https://github.com/UMCarpentries,2022-01-11 14:44:00,"Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices."
+273,SCSS,17315,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2022-01-10 14:12:19,U-M Carpentries website
+274,HTML,12721,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2022-01-10 14:12:19,U-M Carpentries website
+275,Python,11350,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2022-01-10 14:12:19,U-M Carpentries website
+276,CSS,3822,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2022-01-10 14:12:19,U-M Carpentries website
+277,Ruby,49,umcarpentries.github.io,https://github.com/UMCarpentries/umcarpentries.github.io,UMCarpentries,https://github.com/UMCarpentries,2022-01-10 14:12:19,U-M Carpentries website
+278,HTML,273,umswc.github.io,https://github.com/umswc/umswc.github.io,umswc,https://github.com/umswc,2021-11-24 16:02:40,We are now UMCarpentries!
