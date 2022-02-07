@@ -11,10 +11,14 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
+| [sovacool.art](https://github.com/kelly-sovacool/sovacool.art) | Kate Sovacool's personal website | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
+| [twitter-stats](https://github.com/kelly-sovacool/twitter-stats) | Having fun playing with Twitter data | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
+| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
+| [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | R, Python, Shell |
+| [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
 | [CapstoneProject](https://github.com/GWC-DCMB/CapstoneProject) | Capstone Project datasets & instructions. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook |
 | [curriculum-notebooks](https://github.com/GWC-DCMB/curriculum-notebooks) | Jupyter notebooks for teaching Python for Data Science. Used by our Summer Experience and Club Curriculum. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, TeX, Python, Shell |
-| [sovacool.art](https://github.com/kelly-sovacool/sovacool.art) | Kate Sovacool's personal website | [kelly-sovacool](https://github.com/kelly-sovacool) | HTML, R |
-| [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
 | [intro-curriculum-r](https://github.com/UMCarpentries/intro-curriculum-r) | Custom curriculum for teaching R, the Unix Shell, & Git with an integrated workflow and reproducible research practices. | [UMCarpentries](https://github.com/UMCarpentries) | HTML, Python, R, SCSS, TeX, Makefile, CSS, JavaScript, Shell, Ruby |
 | [latex-cv](https://github.com/kelly-sovacool/latex-cv) | My curriculum vitae in LaTeX + a Snakemake pipeline for compiling tex to pdf. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, Shell |
 | [meta-repo](https://github.com/kelly-sovacool/meta-repo) | A meta-repository to organize my public projects. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
@@ -24,18 +28,13 @@ A meta-repository to organize my public projects.
 | [umcarpentries.github.io](https://github.com/UMCarpentries/umcarpentries.github.io) | U-M Carpentries website | [UMCarpentries](https://github.com/UMCarpentries) | SCSS, HTML, Python, CSS, Ruby |
 | [kelly-sovacool.github.io](https://github.com/kelly-sovacool/kelly-sovacool.github.io) | My personal website, created with {distill} by RStudio | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [Sovacool_OptiFit_mSphere_2022](https://github.com/SchlossLab/Sovacool_OptiFit_mSphere_2022) | The manuscript accompanying the OptiFit algorithm in mothur | [SchlossLab](https://github.com/SchlossLab) | Python, R, TeX, Shell |
-| [mikropml-snakemake-workflow](https://github.com/SchlossLab/mikropml-snakemake-workflow) | Template for running mikRopML with Snakemake | [SchlossLab](https://github.com/SchlossLab) | R, Python, Shell |
 | [advent-of-code](https://github.com/kelly-sovacool/advent-of-code) | My solutions to the Advent of Code puzzles. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook, Python, Shell, Rust |
 | [snakemake_hpc_mwe](https://github.com/kelly-sovacool/snakemake_hpc_mwe) | A minimal working example of using Snakemake on an HPC running PBS-torque or SLURM. | [kelly-sovacool](https://github.com/kelly-sovacool) | Shell, Python |
-| [twitter-stats](https://github.com/kelly-sovacool/twitter-stats) | Having fun playing with Twitter data | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
 | [schtools](https://github.com/SchlossLab/schtools) | Schloss Lab Tools for Reproducible Microbiome Research 💩 | [SchlossLab](https://github.com/SchlossLab) | R |
 | [Rcpp.practice](https://github.com/kelly-sovacool/Rcpp.practice) | Practice using Rcpp | [kelly-sovacool](https://github.com/kelly-sovacool) | C++, R |
 | [umswc.github.io](https://github.com/umswc/umswc.github.io) | We are now UMCarpentries! | [umswc](https://github.com/umswc) | HTML |
 | [un-report](https://github.com/kelly-sovacool/un-report) | example repo for teaching git & github  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
-| [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
-| [test-opti-random](https://github.com/kelly-sovacool/test-opti-random) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [vscode-code-club](https://github.com/SchlossLab/vscode-code-club) | Code club to introduce VS Code | [SchlossLab](https://github.com/SchlossLab) | Python, Makefile, R |
-| [mothur-sensspec-debug](https://github.com/kelly-sovacool/mothur-sensspec-debug) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | CSS, Python, HTML, Shell, R |
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [gh-tips](https://github.com/SchlossLab/gh-tips) | Tips & tricks for making the most of GitHub | [SchlossLab](https://github.com/SchlossLab) | HTML, TeX |
 
@@ -58,7 +57,6 @@ A meta-repository to organize my public projects.
 | [machine-learning-pipelines-r](https://github.com/um-dang/machine-learning-pipelines-r) | Machine Learning Pipelines in R: Predict colorectal cancer using microbiome data | [um-dang](https://github.com/um-dang) | R |
 | [challengeQuestions](https://github.com/GWC-DCMB/challengeQuestions) | Jupyter notebooks of challenge questions for learners. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [jupyter-ci-mwe](https://github.com/kelly-sovacool/jupyter-ci-mwe) | A minimal working example of using continuous integration to convert jupyter notebooks to PDFs. | [kelly-sovacool](https://github.com/kelly-sovacool) | Jupyter Notebook |
-| [tiger_salamander_project](https://github.com/kelly-sovacool/tiger_salamander_project) | SNP pipeline using Snakemake for the Weisrock Lab's Tiger Salamander project. | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell |
 | [codeDemos](https://github.com/GWC-DCMB/codeDemos) | Stand-alone Python coding demos. | [GWC-DCMB](https://github.com/GWC-DCMB) | Jupyter Notebook, Python |
 | [2019-01-07-umich-wise](https://github.com/UMCarpentries/2019-01-07-umich-wise) |  | [UMCarpentries](https://github.com/UMCarpentries) | Python, HTML, CSS, R, Makefile, JavaScript, Ruby, Shell |
 | [ozobotLessons](https://github.com/GWC-DCMB/ozobotLessons) | Lesson plans for Ozobots. | [GWC-DCMB](https://github.com/GWC-DCMB) | HTML |
@@ -73,6 +71,9 @@ A meta-repository to organize my public projects.
 ### Archive
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [diss-abstract](https://github.com/kelly-sovacool/diss-abstract) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python |
+| [mothur-sensspec-debug](https://github.com/kelly-sovacool/mothur-sensspec-debug) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, Shell, R |
+| [test-opti-random](https://github.com/kelly-sovacool/test-opti-random) |  | [kelly-sovacool](https://github.com/kelly-sovacool) | Python, R, Shell |
 | [intro-testing-r](https://github.com/SchlossLab/intro-testing-r) | Introduction to Testing R Code | [SchlossLab](https://github.com/SchlossLab) | R |
 | [2021-01-11-UMich-WISE-online](https://github.com/UMCarpentries/2021-01-11-UMich-WISE-online) | Software Carpentry Workshop for the U-M Women in Science & Engineering | [UMCarpentries](https://github.com/UMCarpentries) | HTML, Python, SCSS, Makefile, R, CSS, JavaScript, Shell, Ruby |
 | [prelim](https://github.com/kelly-sovacool/prelim) | My abstract, proposal, and presentation for the preliminary exam for the UMich Bioinformatics PhD program. | [kelly-sovacool](https://github.com/kelly-sovacool) | TeX, Python, R, Shell |
