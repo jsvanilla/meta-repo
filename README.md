@@ -11,6 +11,7 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
+| [practice-repo](https://github.com/kelly-sovacool/practice-repo) | example repo for teaching git & github  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
 | [sovacool.art](https://github.com/kelly-sovacool/sovacool.art) | Kate Sovacool's personal website | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [twitter-stats](https://github.com/kelly-sovacool/twitter-stats) | Having fun playing with Twitter data | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
@@ -33,7 +34,6 @@ A meta-repository to organize my public projects.
 | [schtools](https://github.com/SchlossLab/schtools) | Schloss Lab Tools for Reproducible Microbiome Research 💩 | [SchlossLab](https://github.com/SchlossLab) | R |
 | [Rcpp.practice](https://github.com/kelly-sovacool/Rcpp.practice) | Practice using Rcpp | [kelly-sovacool](https://github.com/kelly-sovacool) | C++, R |
 | [umswc.github.io](https://github.com/umswc/umswc.github.io) | We are now UMCarpentries! | [umswc](https://github.com/umswc) | HTML |
-| [un-report](https://github.com/kelly-sovacool/un-report) | example repo for teaching git & github  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [vscode-code-club](https://github.com/SchlossLab/vscode-code-club) | Code club to introduce VS Code | [SchlossLab](https://github.com/SchlossLab) | Python, Makefile, R |
 | [GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | A meta-repository to help navigate the repos and resources of Girls Who Code at UM-DCMB. | [GWC-DCMB](https://github.com/GWC-DCMB) | Python, Shell |
 | [gh-tips](https://github.com/SchlossLab/gh-tips) | Tips & tricks for making the most of GitHub | [SchlossLab](https://github.com/SchlossLab) | HTML, TeX |
