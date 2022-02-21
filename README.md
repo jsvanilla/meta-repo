@@ -11,8 +11,11 @@ A meta-repository to organize my public projects.
 ### Current
 | Repository | Description | Owner | Language(s) |
 |---|---|---|---|
-| [practice-repo](https://github.com/kelly-sovacool/practice-repo) | example repo for teaching git & github  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
+| [un-report-project](https://github.com/kelly-sovacool/un-report-project) | write a report to the UN about GDP, life expectancy, and CO2 emissions | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
+| [un-report-project-1](https://github.com/kelly-sovacool/un-report-project-1) | UN report  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [Great_Lakes_SLURM](https://github.com/SchlossLab/Great_Lakes_SLURM) | Using the Great Lakes cluster and batch computing with SLURM  | [SchlossLab](https://github.com/SchlossLab) |  |
+| [sandbox](https://github.com/kelly-sovacool/sandbox) | a sandbox for testing & exploration | [kelly-sovacool](https://github.com/kelly-sovacool) |  |
+| [practice-repo](https://github.com/kelly-sovacool/practice-repo) | example repo for teaching git & github  | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [sovacool.art](https://github.com/kelly-sovacool/sovacool.art) | Kate Sovacool's personal website | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [twitter-stats](https://github.com/kelly-sovacool/twitter-stats) | Having fun playing with Twitter data | [kelly-sovacool](https://github.com/kelly-sovacool) | R |
 | [mikropml](https://github.com/SchlossLab/mikropml) | User-Friendly R Package for Supervised Machine Learning Pipelines | [SchlossLab](https://github.com/SchlossLab) | R |
@@ -99,6 +102,7 @@ A meta-repository to organize my public projects.
 ### Gists
 | Description |
 |---|
+| [Test conda environments on HPC batch scheduler](https://gist.github.com/21289d9ce89302a81996380f70814f7d) |
 | [Maintaining R packages - Schloss Lab Code Club 2021-04-19](https://gist.github.com/2a95355b6566cceb8c2612100f58fa81) |
 | [How to write a function to add multiple ggproto objects to a ggplot](https://gist.github.com/c7fb93f863a8c69f5f4707a95bd09fe2) |
 | [Google Drive file I/O with Colab Jupyter notebooks](https://gist.github.com/c33b64b70164be37d75bd40c9b56b498) |
@@ -114,7 +118,6 @@ A meta-repository to organize my public projects.
 | [The first program I ever wrote! In 10th grade I was inspired by my biomedical science class. Saved here for posterity.](https://gist.github.com/883342d825ff17f2271cd240c26f2cd2) |
 | [Keybase proof](https://gist.github.com/1626a05ca82e3863da7f92e73097efe8) |
 | [My bio for the GWC-DCMB website](https://gist.github.com/3f307b86dc7e868c923ad234bf144a93) |
-| [Test conda environments on HPC batch scheduler](https://gist.github.com/21289d9ce89302a81996380f70814f7d) |
 | [Implementation of binary numbers & arithmetic for education](https://gist.github.com/8f263d9689c849c8cd7d86bd03044409) |
 | [Plotting the titanic data: task for the Schloss lab code review led by Begüm](https://gist.github.com/e758ec7a0b6fb3724a3f19f3fdc1cdff) |
 
